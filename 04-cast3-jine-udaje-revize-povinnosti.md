@@ -366,6 +366,11 @@ odvolání → soudní přezkum
 | Procesní forma | neformální postup → při nesouhlasu rozhodnutí | vkladové řízení / záznam |
 | Spor o vlastnictví | **nelze** řešit opravou chyby | řeší se určovací žalobou u soudu |
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
+  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
+
 ### § 37 — Povinnosti vlastníků a jiných oprávněných
 
 <details><summary>📜 <b>Text § 37</b></summary>

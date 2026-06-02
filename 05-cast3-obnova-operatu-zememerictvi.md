@@ -298,6 +298,11 @@ Katastrální vyhláška doplňuje, že při přepracování lze **přečíslova
 
 **Souhlasné prohlášení vlastníků:** doloží-li GP zpřesnění hranice, bývá jeho součástí (přílohou listiny) souhlasné prohlášení vlastníků o shodě na průběhu hranice; podpisy musí být úředně ověřeny, ledaže totožnost vlastníků a podpis potvrdil sám ověřovatel GP (viz katastrální vyhláška).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
+
 ### § 49 — Vytyčování hranic pozemků
 
 <details><summary>📜 <b>Text § 49</b></summary>

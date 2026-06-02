@@ -266,6 +266,11 @@ Trojice § 1099 / § 1105 OZ a § 10 KZ tak dohromady určuje, *zda*, *čím* a 
 
 **Odst. 2 — vznik jednotek.** Vkladem se zapisuje i **rozdělení práva k nemovitosti na vlastnické právo k jednotkám** — tj. „bytové vlastnictví“ podle § 1158 a násl. OZ. Tímto vkladem dochází ke vzniku jednotek (bytů, nebytových prostor) jako samostatných předmětů vlastnictví.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
+  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
+
 ### § 12 — Podklad vkladu
 
 <details><summary>📜 <b>Text § 12</b></summary>
@@ -440,6 +445,17 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 
 **Odst. 5 — podklady a rozhodný okamžik.** Úřad přezkoumává skutečnosti na základě: předložených listin, dosavadních zápisů, **základních registrů**, informačního systému evidence obyvatel a cizinců a dalších informací poskytnutých vlastníkem a účastníky **poté, co obdrželi informaci o plombě** (§ 16 odst. 1). Zásadní je závěrečná věta: skutečnosti se zkoumají **podle stavu v okamžiku podání návrhu** — to je opět projev pravidla § 10 (rozhodný je okamžik doručení návrhu, nikoli pozdější změny).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2755/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F7D757791051D40C12589C000182B8C?openDocument) — 28. 2. 2023, kat. A
+  > „Omezení v nakládání s nemovitou věcí povinného postiženou exekučním příkazem se po dobu trvání účinků speciálního inhibitoria dle § 47 odst. 6 exekučního řádu vztahuje i na jednání zástavního věřitele směřující k prodeji této nemovité věci na základě předchozího ujednání se zástavcem (§ 1359 odst. 1 o. z.). Návrh na vklad vlastnického práva podle kupní smlouvy o prodeji nemovité věci povinného uzavřené zástavním věřitelem v rozporu s účelem speciálního inhibitoria katastrální úřad zamítne podle § 17 odst. 1 písm. f) katastrálního zákona"
+- *NS* [24 Cdo 3459/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA56FA3BDF5D99AEC12589C000182B76?openDocument) — 28. 2. 2023, kat. A
+  > „Smlouvu o převodu nemovité věci, u níž byl rozhodnutím soudu nahrazen projev vůle účastníka ji uzavřít, nebo k jejímuž uzavření došlo v souvislosti s takovým rozhodnutím (§ 161 odst. 3 o. s. ř.), přezkoumá katastrální úřad v řízení o návrhu na vklad vlastnického práva jako soukromou listinu podle § 17 odst. 1 zákona č. 256/2013 Sb., katastrálního zákona (ve znění pozdějších předpisů), nikoliv v omezeném rozsahu podle § 17 odst. 2 až 4 katastrálního zákona. To neplatí, jde-li o rozsudek ukládající prohlášení vůle na základě povinnosti vyplývající z restitučních předpisů"
+- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
+  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
+- *NS* [24 Cdo 2728/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D2CEEA4A4646B53C12587FA001B8A62?openDocument) — 30. 11. 2021, kat. A
+  > „Návaznost navrhovaného vkladu na dosavadní zápisy v katastru není dána, byl-li návrh na povolení vkladu podle darovací smlouvy ve prospěch obdarovaného (jednoho z dědiců), kterou uzavřel se zůstavitelem jako dárcem, podán až poté, co nabylo právní moci usnesení potvrzující nabytí dědictví na základě dědických podílů dědicům, na jehož základě byl zapsán vklad darovaného spoluvlastnického práva k nemovitostem ve prospěch dědiců s právními účinky předcházejícími podání návrhu na povolení vkladu podle darovací smlouvy"
+
 ### § 18 — Rozhodnutí o vkladu
 
 <details><summary>📜 <b>Text § 18</b></summary>
@@ -487,6 +503,11 @@ Proti **povolení** vkladu se nelze bránit vůbec — kdo s provedeným vkladem
 - **odst. 7** — je-li další řízení zahájeno **až po** zamítnutí, přerušuje se **usnesením s účinky ke dni doručení návrhu** na vklad — opět promítnutí pravidla § 10, aby pozdější návrh neztratil pořadí jen kvůli přerušení.
 
 Smyslem je zabránit tomu, aby se mezitím provedl jiný (kolidující) vklad, dokud není pravomocně rozhodnuto o osudu zamítnutého návrhu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
+  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
 
 ---
 
