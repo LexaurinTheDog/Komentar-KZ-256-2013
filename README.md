@@ -32,6 +32,10 @@ Komentář byl sestaven AI asistentem (Claude Opus 4.7) **výhradně z lokální
 
 Tento komentář **není autoritativním právním stanoviskem**. Slouží jako orientační průvodce materií katastrálního zákona. Pro praktickou aplikaci je nutné ověřit aktuální znění a judikaturu a konzultovat advokáta nebo příslušný katastrální úřad.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
