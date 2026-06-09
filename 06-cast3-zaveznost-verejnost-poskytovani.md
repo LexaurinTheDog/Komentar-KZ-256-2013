@@ -66,6 +66,43 @@ Tyto tři instituty mají různý předmět (evidenční údaje × přístupnost
 
 Praktický důsledek odlišení: chyba v **geometrickém určení** (§ 51) se napravuje opravou chyby v katastrálním operátu (§ 36 KZ) nebo upřesněním/zpřesněním hranic, nikoli žalobou na určení vlastnictví. Naopak nesoulad **zapsaného práva** se skutečností se řeší cestou OZ (poznámka spornosti dle § 985, § 986 OZ; žaloba na určení; materiální publicita ve prospěch dobrověrného nabyvatele dle § 984 OZ). Tomu odpovídá i to, že § 51 je zařazen v KZ (evidenční předpis), kdežto materiální a formální publicita zápisu práv jsou upraveny v OZ (hmotněprávní úprava věcných práv).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Prodávající P a kupující K uzavřou kupní smlouvu, jejímž předmětem má být „zahrada za domem o výměře cca 600 m²“. V katastru je tento pozemek veden jako parcela č. 215/4 v k. ú. Horní Lhota, evidovaná výměra 642 m². Smlouva však pozemek označí pouze slovním popisem a vlastním náčrtem prodávajícího, bez uvedení parcelního čísla a katastrálního území. Katastrální úřad návrh na vklad zamítne pro neurčitost předmětu právního jednání. Důkazy k obstarání: znění kupní smlouvy, výpis z LV k parcele č. 215/4, snímek z katastrální mapy, výzva katastrálního úřadu k doplnění návrhu.
+
+**2. Právní otázka.** Je právní jednání, které nemovitost neoznačuje závaznými údaji katastru dle § 51 KZ (zejména parcelním číslem a katastrálním územím), způsobilým podkladem pro vklad, popř. je vůbec dostatečně určité?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 KZ — parcelní číslo, geometrické určení nemovitosti, název a geometrické určení k. ú. jsou závazné pro právní jednání týkající se nemovitostí.
+- *Související ustanovení téhož zákona:* § 8 KZ (předmět právního jednání musí být označen údaji katastru); § 2 písm. b), e), g), h) KZ (vymezení parcely, geometrického určení, výměry a k. ú.); § 36 KZ (oprava chyby v operátu).
+- *Související předpisy:* § 980 odst. 1 a 2, § 984 OZ (formální a materiální publicita); § 553 OZ (neurčitost právního jednání); zákon č. 256/2013 Sb. — ustanovení o vkladovém řízení.
+- *Judikatura:* ustálený závěr, že předmět převodu nemovitosti musí být v listině označen tak, aby byl nezaměnitelný s jinou nemovitostí; neurčité označení vede k neplatnosti/neúčinnosti právního jednání ve vztahu k vkladu (rozhodovací praxe Nejvyššího soudu k určitosti označení nemovitostí; nosný závěr: nemovitost se identifikuje údaji katastru, nikoli laickým popisem).
+
+**4. Subsumpce.** Závazným údajem dle § 51 je parcelní číslo (215/4) a název i geometrické určení k. ú. (Horní Lhota). Smlouva tyto údaje neobsahuje — užívá vlastní popis a náčrt odchylný od katastru. Znak „označení nemovitosti závaznými údaji katastru“ tak není naplněn; sporné není geometrické určení v terénu, nýbrž samo identifikační označení. Podmínka určitosti předmětu (ve spojení s § 8 KZ) je proto nesplněna.
+
+**5. Řešení.** Návrh na vklad bude (správně) zamítnut, dokud účastníci nemovitost neoznačí závaznými údaji katastru. Procesní kroky: uzavřít dodatek/novou smlouvu s uvedením parcelního čísla 215/4 a k. ú. Horní Lhota podle aktuálního stavu katastru, doložit aktuální výpis z LV, podat nový (doplněný) návrh na vklad. Riziko: pokud by se strany dohodly na „600 m²“ a skutečná evidovaná výměra je 642 m², není to vada bránící vkladu — výměra není dle § 2 písm. g) KZ závazným údajem a její nepřesností nejsou dotčena práva; rozhodující je identifikace parcely, nikoli číselný údaj výměry.
+
+**6. Varianty.** (a) Smlouva uvede parcelní číslo i k. ú. správně, jen výměru opíše s drobnou odchylkou — vklad proběhne, neboť výměra není závazný údaj. (b) Po uzavření smlouvy dojde ke zpřesnění geometrického určení parcely (změna evidované výměry) — práva k pozemku tím dle § 2 písm. g) KZ nejsou dotčena; převod zůstává platný, mění se jen evidenční údaj.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Strany se shodly na konkrétní zahradě, vůle byla jasná, proto je smlouva určitá.“ Neutralizace: § 51 ve spojení s § 8 KZ vyžaduje objektivní nezaměnitelnost prostřednictvím závazných údajů katastru; subjektivní shoda stran nenahrazuje identifikaci podle veřejného seznamu, jinak by hrozila záměna s jinou parcelou.
+- *Protiargument 2:* „Geometrické určení je závazné, takže hranice v terénu leží přesně podle mapy.“ Neutralizace: závaznost dle § 51 znamená, že pro právní jednání se vychází z údaje, jak je evidován, nikoli že terénní hranice nemůže odchylkou kdykoli odpovídat; spory o průběh hranice se řeší zpřesněním/upřesněním hranic, případně určovací žalobou, nikoli odkazem na závaznost.
+- *Slabé místo:* hranice mezi „nezpůsobilostí k vkladu pro neurčitost“ a „obsahovou vadou napravitelnou výkladem“ je v praxi citlivá; chybí-li judikát přesně na daný skutkový stav, je vhodné argumentovat ustálenou linií o nezaměnitelném označení nemovitosti.
+
+#### H. Praktický závěr
+
+V právních jednáních o nemovitostech vždy identifikujte předmět závaznými údaji katastru (parcelní číslo + název k. ú.) podle aktuálního stavu, nikoli laickým popisem; výměra ani „skutečný“ průběh hranice v terénu nejsou závazné. Spory o evidenční údaj řešte nástroji KZ (oprava chyby § 36, zpřesnění hranic), nikoli žalobou na určení vlastnictví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je nemovitost v listině označena parcelním číslem a názvem k. ú. podle aktuálního výpisu z LV?
+- [ ] Souhlasí geometrické určení a označení parcely se stavem evidovaným v katastru k datu jednání?
+- [ ] Není předmět zaměnitelný s jinou parcelou (zejména u dělených či sloučených pozemků)?
+- [ ] Je zřejmé, že případná nepřesnost výměry není vadou bránící vkladu (§ 2 písm. g) KZ)?
+- [ ] Jde-li o spor o evidenční údaj, je zvolen správný nástroj (oprava chyby § 36 / zpřesnění hranic), nikoli určovací žaloba?
+
+**Typicky rozhodné důkazy / podklady:** aktuální výpis z listu vlastnictví, snímek z katastrální mapy, znění posuzované listiny, výzva/rozhodnutí katastrálního úřadu, geometrický plán (jde-li o dělení/zpřesnění).
+
 ---
 
 ## Veřejnost katastru
@@ -136,6 +173,43 @@ Technicky rozlišuje § 52 odst. 4 tři typy výstupů: a) kopie písemností v 
 
 Vztah k ochraně osobních údajů: § 52 představuje **zákonem stanovené zpřístupnění** údajů (právní titul zpracování), avšak jeho odstavce 2 až 5 zároveň zavádějí **proporční omezení** u nejcitlivějších kategorií (anonymní plošný přístup je vyloučen, příjemci se evidují). Tím KZ vyvažuje veřejnost katastru s ochranou soukromí; doplňující správcovský režim upravuje § 54 KZ (viz dále).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investigativní novinář N chce sestavit přehled veškerého nemovitého majetku konkrétního podnikatele B na celém území ČR a získat ceny, za něž B nemovitosti nabyl. Na katastrálním úřadě požaduje, aby mu byl tento souhrnný přehled vlastnictví a údaje o dosažených cenách poskytnuty bezúplatným nahlédnutím, anonymně, bez prokázání totožnosti. Současně žádá ze sbírky listin prostou kopii kupní smlouvy B. Důkazy/podklady k posouzení: obsah žádosti, záznam o poučení žadatele, evidence příjemců dle § 52 odst. 5.
+
+**2. Právní otázka.** Lze přehled vlastnictví z celého území ČR, údaje o dosažených cenách a listiny ze sbírky listin poskytnout anonymně formou nahlížení, nebo jen za zpřísněných podmínek (prokázání totožnosti / dálkový přístup) s evidencí příjemce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 KZ — odst. 1 (obecné právo nahlížet a pořizovat opisy/výpisy/náčrty), odst. 2 (vyloučení nahlížení u přehledu vlastnictví z ČR, sbírky listin a cen), odst. 3 (jen po prokázání totožnosti, není-li dálkový přístup), odst. 4 (formy poskytování ze sbírky listin), odst. 5 (evidence příjemců).
+- *Související ustanovení téhož zákona:* § 1 odst. 1 KZ (katastr jako veřejný seznam); § 53 KZ (účelové omezení a souhlas se šířením); § 54 KZ (správce/zpracovatel); § 55 KZ (dálkový přístup za úplatu).
+- *Související předpisy:* § 980 odst. 1 OZ (neomluvitelnost neznalosti); GDPR (nařízení 2016/679) a zákon č. 110/2019 Sb. (zpracování osobních údajů); vyhláška č. 358/2013 Sb. (§ 5 nahlížení, § 7 a § 8 ověřené a prosté kopie).
+- *Judikatura:* obecně přijímaný závěr, že veřejnost veřejných seznamů (formální publicita) zakládá přístupnost, avšak nevylučuje proporční omezení anonymního plošného přístupu k osobním údajům (linie unijní i tuzemské judikatury k vyvážení práva na informace a ochrany soukromí; nosný závěr: zpřístupnění osobních údajů z veřejné evidence musí respektovat zásadu proporcionality a účelového omezení).
+
+**4. Subsumpce.** Požadovaný přehled vlastnictví z celé ČR a údaje o dosažených cenách spadají do § 52 odst. 2 — nahlížením je získat nelze. Dle odst. 3 je lze poskytnout jen dálkovým přístupem (ověřený účet) nebo osobě, která prokáže totožnost. Kopie ze sbírky listin spadá pod odst. 4 — poskytuje se jako ověřená/prostá kopie, výhradně po prokázání totožnosti. Ve všech těchto případech vzniká povinnost vést evidenci příjemce (odst. 5). Anonymní bezúplatné nahlédnutí proto naplněno být nemůže.
+
+**5. Řešení.** Úřad nahlížení v požadovaném rozsahu odmítne; nabídne poskytnutí po prokázání totožnosti (nebo přes dálkový přístup), s evidencí žadatele. Procesní kroky: poučení žadatele o formách dle § 52 odst. 3 a 4, ověření totožnosti, vyhotovení prosté/ověřené kopie ze sbírky listin (§ 8/§ 7 vyhlášky), zápis do evidence příjemců. Riziko: pokud by úřad poskytl anonymně, porušil by § 52 odst. 2–5 a mohl by zasáhnout do ochrany osobních údajů (odpovědnost správce dle § 54 KZ a GDPR).
+
+**6. Varianty.** (a) Novinář žádá pouze výpis z LV ke konkrétní jedné nemovitosti — to lze i anonymním nahlédnutím, neboť nejde o přehled z celé ČR ani o cenu ani o sbírku listin. (b) Údaje jsou poskytnuty dálkovým přístupem přes ověřený zákaznický účet — totožnost je ověřena účtem, samostatné prokazování totožnosti při každém dotazu odpadá, příjemce je však evidován.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Katastr je veřejný seznam, takže každý údaj musí být přístupný komukoli anonymně.“ Neutralizace: veřejnost dle § 1 odst. 1 a § 52 odst. 1 KZ je výslovně omezena odstavci 2–5; zákon u nejcitlivějších kategorií anonymní plošný přístup vylučuje a vyžaduje prokázání totožnosti a evidenci.
+- *Protiargument 2:* „Prokázání totožnosti a evidence příjemců jsou nepřípustnou překážkou práva na informace.“ Neutralizace: jde o proporční opatření chránící soukromí (úhrn majetku, ceny, listiny s osobními údaji), aprobované zákonem; právo na informace o jednotlivé nemovitosti zůstává zachováno nahlížením.
+- *Slabé místo:* hranice mezi „údajem o konkrétní nemovitosti“ (přístupné) a „přehledem vlastnictví z celé ČR“ (chráněné) se může stírat při opakovaných dotazech; chybí-li výslovné pravidlo proti agregaci jednotlivých výpisů, je třeba opřít se o účelové omezení dle § 53 KZ.
+
+#### H. Praktický závěr
+
+Rozlišujte tři režimy: (1) volně nahlížitelné údaje o konkrétní nemovitosti, (2) přehled vlastnictví z celé ČR a ceny — jen dálkovým přístupem nebo po prokázání totožnosti, (3) sbírka listin — jen ověřené/prosté kopie po prokázání totožnosti. U kategorií (2) a (3) vždy ověřte totožnost a zapište příjemce do evidence dle § 52 odst. 5.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá požadovaný údaj do § 52 odst. 2 (přehled z ČR / sbírka listin / ceny)? Pokud ano, nahlížení nelze.
+- [ ] Je totožnost žadatele prokázána (není-li poskytováno dálkovým přístupem přes ověřený účet)?
+- [ ] Byl příjemce zapsán do evidence podle § 52 odst. 5?
+- [ ] U kopií ze sbírky listin: je zvolena správná forma (ověřená/prostá) a je listina čitelná (jinak úřad neověří)?
+- [ ] Je žadatel poučen, že úřad při ověřování neodpovídá za obsah listiny?
+
+**Typicky rozhodné důkazy / podklady:** obsah žádosti, doklad totožnosti žadatele, ověřovací doložka (§ 7 vyhlášky), záznam v evidenci příjemců, kopie poskytnuté listiny.
+
 ---
 
 ### § 53 — Účelové omezení užití a šíření údajů
@@ -160,6 +234,43 @@ Užití údajů katastru **k jinému účelu** (typicky k cílenému marketingu,
 **2. Šíření jen se souhlasem ČÚZK.** Šířit údaje katastru — tj. dále je hromadně poskytovat třetím osobám — lze **pouze se souhlasem ČÚZK** a za podmínek prováděcího předpisu. Podmínky šíření upravuje zejména **§ 11a vyhlášky o poskytování údajů**: souhlas se uděluje na **dobu jednoho roku** na základě žádosti, šíření probíhá prostřednictvím samostatného uživatelského účtu určeného jen pro tento účel a tzv. **šiřitel** opatřuje údaje katastru svým jménem na svůj účet a předává je uživateli údajů (mají-li být šířeny tytéž údaje více uživatelům, opatřuje je šiřitel pro každého zvlášť). § 53 tak vytváří **kontrolní bod** nad sekundárním trhem s katastrálními daty.
 
 **Vazba na přestupek.** Porušení účelového omezení nebo šíření bez souhlasu ČÚZK může naplnit skutkovou podstatu **přestupku podle § 57 odst. 1 KZ** (přestupky na úseku katastru). Sankční režim je komentován v **Kapitole 07**; zde postačí upozornit, že § 53 je hmotněprávním základem, jehož porušení přestupkové ustanovení postihuje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost S provozuje komerční portál, na němž z dat získaných z katastru (přes dálkový přístup) sestavuje a za úplatu prodává třetím osobám marketingové databáze vlastníků nemovitostí v určité lokalitě, určené k cílenému oslovování s nabídkami výkupu pozemků. Souhlas ČÚZK se šířením údajů katastru nemá. Důkazy k obstarání: výpisy z portálu S, vzorky prodávaných databází, doklad o (ne)existenci souhlasu ČÚZK dle § 11a vyhlášky, log dálkového přístupu, smlouvy S s odběrateli.
+
+**2. Právní otázka.** Porušuje S § 53 KZ tím, že (a) užívá údaje katastru k jinému než zákonem aprobovanému účelu (cílený marketing) a (b) šíří je třetím osobám bez souhlasu ČÚZK?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 KZ — užití údajů jen k účelům § 1 odst. 2 KZ; šíření jen se souhlasem ČÚZK za podmínek prováděcího předpisu.
+- *Související ustanovení téhož zákona:* § 1 odst. 2 písm. a) a b) KZ (taxativní účely užití); § 52 KZ (veřejnost a její meze); § 55 odst. 3 KZ (dálkový přístup za úplatu); § 57 odst. 1 KZ (přestupek na úseku katastru).
+- *Související předpisy:* § 11a vyhlášky č. 358/2013 Sb. (souhlas se šířením na 1 rok, samostatný uživatelský účet, postavení „šiřitele“); GDPR a zákon č. 110/2019 Sb. (zpracování osobních údajů, zásada účelového omezení).
+- *Judikatura:* obecně uznávaný závěr, že veřejná přístupnost údaje z úřední evidence neopravňuje k jeho libovolnému dalšímu zpracování či komercializaci nad rámec účelu, pro nějž je evidence vedena (linie k účelovému omezení zpracování osobních údajů; nosný závěr: dostupnost ≠ volnost nakládání).
+
+**4. Subsumpce.** Cílený marketing a sestavování prodejných databází vlastníků nespadají pod žádný z účelů § 1 odst. 2 KZ (ochrana práv k nemovitostem, daně, životní prostředí, oceňování, vědecké/hospodářské/statistické účely, tvorba navazujících IS k těmto účelům). Užití je tedy v rozporu s účelovým omezením (první věta § 53). Současně S údaje dále hromadně poskytuje odběratelům — naplňuje znak „šíření“, k němuž schází souhlas ČÚZK (druhá věta § 53 ve spojení s § 11a vyhlášky). Oba znaky porušení jsou splněny.
+
+**5. Řešení.** Jednání S je protiprávní podle obou vět § 53. Postup: ČÚZK může jednání vyhodnotit jako přestupek dle § 57 odst. 1 KZ a zahájit řízení; dotčení vlastníci se mohou domáhat ochrany dle GDPR (námitka proti zpracování, podnět ÚOOÚ). Chce-li S činnost legalizovat, musí (a) omezit užití na zákonné účely a (b) požádat ČÚZK o souhlas se šířením dle § 11a vyhlášky (souhlas na 1 rok, samostatný účet, režim „šiřitele“ opatřujícího data pro každého uživatele zvlášť). Riziko: i s formálním souhlasem zůstává cílený marketing mimo účely § 1 odst. 2, takže samotný souhlas se šířením neaprobuje nezákonný účel užití.
+
+**6. Varianty.** (a) S poskytuje data výhradně k oceňování nemovitostí (znalecké posudky) a se souhlasem ČÚZK dle § 11a — jednání je v souladu s § 53, neboť účel spadá pod § 1 odst. 2 a šíření je aprobováno. (b) S pouze jednorázově nahlédne na konkrétní LV pro vlastní právní jednání (vlastní koupě pozemku) — nejde o šíření ani o nezákonný účel, § 53 porušen není.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Údaje jsou veřejné, takže s nimi mohu nakládat libovolně, včetně prodeje.“ Neutralizace: § 53 výslovně podmiňuje užití účelem § 1 odst. 2 a šíření souhlasem ČÚZK; veřejnost katastru (§ 52) je přístupností, nikoli licencí k volné komercializaci.
+- *Protiargument 2:* „Marketing slouží hospodářským účelům, a ty § 1 odst. 2 písm. a) připouští.“ Neutralizace: „hospodářské účely“ je třeba vykládat v kontextu funkcí katastru (ochrana práv, oceňování, statistika), nikoli jako legalizaci cíleného oslovování vlastníků; opačný výklad by popřel účelové omezení i ochranu osobních údajů.
+- *Slabé místo:* hranice „šíření“ vs. „poskytnutí pro vlastní potřebu“ a obsah pojmu „hospodářský účel“ nejsou v zákoně ostře definovány; argumentaci je vhodné opřít o § 11a vyhlášky a o zásadu účelového omezení dle GDPR.
+
+#### H. Praktický závěr
+
+Před jakýmkoli dalším poskytováním katastrálních dat třetím osobám ověřte dvě věci: zda účel užití spadá pod § 1 odst. 2 KZ a zda máte souhlas ČÚZK se šířením dle § 11a vyhlášky. Cílený marketing a prodej databází vlastníků bez souhlasu jsou typickým porušením § 53 s rizikem přestupku dle § 57 odst. 1 KZ a sankcí dle GDPR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá zamýšlené užití údajů pod některý z účelů § 1 odst. 2 KZ?
+- [ ] Jde o „šíření“ (další hromadné poskytování třetím osobám)? Pokud ano, je k dispozici souhlas ČÚZK dle § 11a vyhlášky?
+- [ ] Je zřízen samostatný uživatelský účet pro šíření a opatřují se data pro každého uživatele zvlášť?
+- [ ] Je doba souhlasu (1 rok) platná a podmínky vyhlášky dodrženy?
+- [ ] Není naplněna skutková podstata přestupku dle § 57 odst. 1 KZ?
+
+**Typicky rozhodné důkazy / podklady:** doklad o souhlasu ČÚZK dle § 11a vyhlášky, logy dálkového přístupu, vzorky/obsah poskytovaných databází, smlouvy s odběrateli, popis účelu zpracování.
 
 ---
 
@@ -188,6 +299,43 @@ Užití údajů katastru **k jinému účelu** (typicky k cílenému marketingu,
 - jednotlivé **katastrální úřady** mají postavení zpracovatelů (jednají v rámci pokynů a působnosti správce).
 
 Toto rozdělení je třeba číst společně s omezeními v § 52 (vyloučení anonymního plošného přístupu, evidence příjemců) a v § 53 (účelové omezení užití, kontrola šíření). Dohromady tvoří **systém ochrany osobních údajů** v katastru: veřejnost je vyvážena účelovým omezením a evidencí příjemců, role správce a zpracovatele jsou jednoznačně přiřazeny. Práva subjektů údajů (přístup, oprava, omezení zpracování apod.) se řídí GDPR a zákonem č. 110/2019 Sb.; oprava nesprávných údajů v katastru má navíc vlastní procesní režim (oprava chyby v katastrálním operátu dle § 36 KZ).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník V zjistí, že u jeho nemovitosti je v katastru evidováno chybné rodné číslo a nesprávně uvedená adresa. Domáhá se výmazu/opravy a uplatňuje práva subjektu údajů podle GDPR (žádost o opravu, případně o omezení zpracování). Současně podává stížnost na nedostatečné zabezpečení svých osobních údajů. Vznikne otázka, vůči komu má svá práva směřovat — vůči místně příslušnému katastrálnímu úřadu, nebo vůči ČÚZK. Podklady: žádost subjektu údajů, výpis z LV s chybným údajem, evidence příjemců dle § 52 odst. 5, interní pokyny ČÚZK.
+
+**2. Právní otázka.** Kdo je z hlediska práva ochrany osobních údajů odpovědným subjektem (správcem) za zpracování osobních údajů evidovaných v katastru a vůči komu má subjekt údajů uplatnit svá práva podle GDPR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 KZ — ČÚZK je správcem, katastrální úřady jsou zpracovateli osobních údajů evidovaných v katastru.
+- *Související ustanovení téhož zákona:* § 52 KZ (veřejnost a evidence příjemců); § 53 KZ (účelové omezení a šíření); § 36 KZ (oprava chyby v operátu jako zvláštní procesní režim opravy údaje).
+- *Související předpisy:* GDPR (nařízení 2016/679) — čl. 4 (definice správce a zpracovatele), čl. 16 (právo na opravu), čl. 18 (omezení zpracování), čl. 24 a 28 (povinnosti správce a zpracovatele); zákon č. 110/2019 Sb. o zpracování osobních údajů.
+- *Judikatura:* obecně přijímaný výklad, že správcem je ten, kdo určuje účely a prostředky zpracování, a že vůči němu směřují práva subjektu údajů (linie unijní judikatury k pojmu správce; nosný závěr: rozhodující je faktické určování účelů a prostředků, nikoli pouze formální označení).
+
+**4. Subsumpce.** Podle § 54 odst. 1 KZ účely a prostředky zpracování (vedení katastru, jeho zveřejňování) určuje ČÚZK — naplňuje znak správce dle čl. 4 GDPR. Katastrální úřady dle § 54 odst. 2 zpracovávají údaje v rámci výkonu působnosti pro správce — naplňují znak zpracovatele. Práva subjektu údajů (oprava, omezení) tak směřují primárně vůči ČÚZK jako správci; oprava věcné nesprávnosti v operátu má navíc vlastní režim dle § 36 KZ.
+
+**5. Řešení.** V uplatní práva subjektu údajů vůči ČÚZK jako správci (čl. 16, 18 GDPR), přičemž faktické provedení opravy v operátu zajistí katastrální úřad jako zpracovatel postupem dle § 36 KZ (oprava chyby). Procesní kroky: podat žádost o opravu/omezení, využít režim opravy chyby v operátu pro nesprávný evidenční údaj, při nečinnosti se obrátit na ÚOOÚ. Riziko: zaměňování režimů — GDPR řeší zákonnost a práva subjektu, kdežto věcná správnost zápisu se opravuje dle § 36 KZ; obojí je třeba uplatnit souběžně podle povahy vady.
+
+**6. Varianty.** (a) Vada se týká pouze technického evidenčního údaje bez osobního rozměru (např. překlep v parcelním čísle) — řeší se výhradně opravou chyby dle § 36 KZ, nikoli nástroji GDPR. (b) Dojde k bezpečnostnímu incidentu (únik osobních údajů) — odpovědnost a oznamovací povinnost nese ČÚZK jako správce dle čl. 33–34 GDPR, nikoli jednotlivý katastrální úřad jako zpracovatel.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Žádost o opravu mám podat u místního katastrálního úřadu, který data fakticky vede, takže je správcem.“ Neutralizace: § 54 odst. 2 KZ výslovně přiřazuje katastrálním úřadům roli zpracovatele; faktické vedení dat z nich nečiní správce, jímž je dle odst. 1 ČÚZK určující účely a prostředky.
+- *Protiargument 2:* „Veřejnost katastru zbavuje stát povinností správce, protože údaje jsou stejně přístupné každému.“ Neutralizace: veřejnost (§ 52) je pouze zákonným titulem zpřístupnění; nezbavuje správce povinností dle GDPR (zákonnost, bezpečnost, práva subjektů), které § 54 výslovně přiřazuje ČÚZK.
+- *Slabé místo:* rozhraní mezi opravou dle § 36 KZ a právem na opravu dle čl. 16 GDPR může vést k duplicitě podání; vhodné je výslovně označit, který režim se kterého aspektu vady týká.
+
+#### H. Praktický závěr
+
+Práva subjektu údajů (oprava, omezení, námitka, oznámení incidentu) uplatňujte vůči ČÚZK jako správci; faktickou opravu evidenčního údaje provádí katastrální úřad jako zpracovatel režimem opravy chyby dle § 36 KZ. Veřejnost katastru nezbavuje stát povinností správce podle GDPR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je nárok subjektu údajů směřován vůči ČÚZK (správce), nikoli jen vůči místnímu úřadu (zpracovatel)?
+- [ ] Jde o vadu osobního údaje (GDPR, čl. 16/18) nebo o věcnou nesprávnost evidence (§ 36 KZ) — nebo o obojí?
+- [ ] Je zvolen správný procesní režim opravy (oprava chyby v operátu vs. právo na opravu dle GDPR)?
+- [ ] U bezpečnostního incidentu: plní oznamovací povinnost správce (ČÚZK)?
+- [ ] Jsou respektovány meze veřejnosti dle § 52 a účelové omezení dle § 53 při vyřízení žádosti?
+
+**Typicky rozhodné důkazy / podklady:** žádost subjektu údajů, výpis z LV s chybným údajem, doklady o totožnosti a oprávnění, korespondence s ČÚZK/úřadem, případné rozhodnutí o opravě chyby dle § 36 KZ.
 
 ---
 
@@ -255,6 +403,43 @@ Toto rozdělení je třeba číst společně s omezeními v § 52 (vyloučení a
 | Souhrnné přehledy o půdním fondu (§ 55 odst. 7) | bezúplatné | zveřejnění dálkovým přístupem |
 | Sbírka listin (§ 52 odst. 4) | ověřené za úplatu; prosté za úplatu (přílohy vyhlášky) | jen po prokázání totožnosti |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník V se v soudním sporu o vyklizení nemovitosti potřebuje prokázat aktuální stav zápisu k rozhodnému dni. Předloží soudu výpis z katastru nemovitostí vyhotovený dálkovým přístupem, opatřený údajem o okamžiku, k němuž stav prokazuje. Protistrana namítá, že výpis nemá důkazní hodnotu veřejné listiny a že prokazuje pravdivost vlastnického práva. Současně V uvažuje o aktivaci služby sledování změn, aby byl varován před případným podvodným převodem. Podklady: výpis z LV s časovým údajem, doklad o formě výstupu dle § 6 vyhlášky, nastavení služby sledování změn.
+
+**2. Právní otázka.** Má výpis z katastru vyhotovený ve formě dle prováděcího předpisu povahu veřejné listiny a co přesně prokazuje — stav evidovaný k uvedenému okamžiku, nebo i pravdivost zapsaných práv?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 KZ — odst. 1 (výpis/opis/kopie, identifikace parcel), odst. 2 (povaha veřejné listiny prokazující stav k uvedenému okamžiku; celostátní příslušnost), odst. 3 (dálkový přístup za úplatu), odst. 4–5 (bezúplatné režimy pro OVM, ÚSC, organizační složky státu), odst. 6 (sledování změn), odst. 7 (přehledy o půdním fondu).
+- *Související ustanovení téhož zákona:* § 51 KZ (závaznost evidenčních údajů); § 52 KZ (veřejnost, sbírka listin); § 56 KZ (ověřené výstupy z ISVS).
+- *Související předpisy:* § 567 a násl. OZ (důkazní síla veřejné listiny); § 980 odst. 2 a § 984 OZ (materiální publicita — pravdivost zapsaných práv); § 6, § 11, § 19–20 vyhlášky č. 358/2013 Sb. (forma výstupů, dálkový přístup, sledování změn).
+- *Judikatura:* ustálený závěr, že výpis z katastru prokazuje stav zápisu k okamžiku na něm uvedenému, nikoli sám o sobě hmotněprávní pravdivost zapsaného práva, jež je věcí materiální publicity (rozhodovací praxe k důkaznímu významu veřejných listin a k materiální publicitě; nosný závěr: veřejná listina osvědčuje evidovaný stav, ochrana pravdivosti práv plyne z § 984 OZ).
+
+**4. Subsumpce.** Výpis vyhotovený ve formě dle § 6 vyhlášky naplňuje znak „veřejné listiny“ dle § 55 odst. 2 KZ a prokazuje „stav evidovaný v katastru k okamžiku, který je na něm uveden“. Neprokazuje však pravdivost zapsaného vlastnického práva — ta je předmětem materiální publicity (§ 984 OZ), nikoli § 55. Námitka protistrany je tedy zčásti důvodná (výpis neprokazuje pravdivost práva), zčásti nedůvodná (povahu veřejné listiny výpis má).
+
+**5. Řešení.** Soud výpis přijme jako veřejnou listinu osvědčující evidovaný stav k rozhodnému okamžiku; pro spor o samotné vlastnické právo je však třeba dokazovat nabývací tituly a případně uplatnit materiální publicitu dle § 984 OZ. Procesní kroky: doložit výpis ve formě dle § 6 vyhlášky s časovým údajem; pro prevenci aktivovat službu sledování změn (§ 55 odst. 6), jež elektronicky upozorní na plombu. Riziko: zaměňování důkazního významu — výpis nelze používat jako konečný důkaz vlastnictví, je-li zápis zpochybněn (poznámka spornosti dle § 985–986 OZ).
+
+**6. Varianty.** (a) Výpis si vyžádá obec k výkonu své působnosti — poskytne se bezúplatně dle § 55 odst. 5 (ÚSC mají bezúplatně formy dle odst. 3 i 4). (b) Údaje jsou vedeny elektronicky a V se obrátí na kterýkoli katastrální úřad mimo místo nemovitosti — výstup mu vyhotoví, neboť odst. 2 zakládá celostátní příslušnost u elektronických údajů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Výpis z katastru je veřejná listina, tedy nezpochybnitelně dokazuje, že vlastníkem je osoba na něm uvedená.“ Neutralizace: § 55 odst. 2 váže důkazní sílu na stav evidovaný k uvedenému okamžiku, nikoli na pravdivost práva; ochranu pravdivosti poskytuje až materiální publicita (§ 984 OZ) za splnění jejích podmínek.
+- *Protiargument 2:* „Pro výpis se musím obrátit na úřad podle polohy nemovitosti.“ Neutralizace: u elektronicky vedených údajů zakládá § 55 odst. 2 věta druhá celostátní příslušnost — výstup vyhotoví kterýkoli katastrální úřad.
+- *Slabé místo:* hranice mezi „osvědčením evidovaného stavu“ a „důkazem hmotného práva“ je pro laiky nezřetelná; je vhodné v podání výslovně odlišit § 55 (důkaz stavu zápisu) od § 984 OZ (ochrana pravdivosti práv) a doplnit nabývací tituly.
+
+#### H. Praktický závěr
+
+Výpis/opis/kopii ve formě dle § 6 vyhlášky používejte jako veřejnou listinu prokazující stav katastru k uvedenému okamžiku, nikoli jako důkaz pravdivosti zapsaného práva. U elektronických údajů využijte celostátní příslušnosti (kterýkoli úřad) a pro prevenci podvodů aktivujte službu sledování změn (§ 55 odst. 6). ÚSC a orgánům státu se údaje poskytují bezúplatně v rozsahu dle odst. 4 a 5.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výstup vyhotoven ve formě dle § 6 vyhlášky (jen tak má povahu veřejné listiny)?
+- [ ] Je na výstupu uveden okamžik, k němuž prokazuje evidovaný stav?
+- [ ] Nezaměňuje se důkaz evidovaného stavu (§ 55) s důkazem pravdivosti práva (§ 984 OZ)?
+- [ ] Jde-li o ÚSC/organizační složku státu k výkonu působnosti — je uplatněn bezúplatný režim dle § 55 odst. 5?
+- [ ] Je u elektronických údajů využita celostátní příslušnost a zvážena aktivace sledování změn (§ 55 odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** výpis/opis/kopie z katastrálního operátu s časovým údajem, doklad o formě výstupu dle § 6 vyhlášky, nabývací tituly k nemovitosti, doklad o aktivaci služby sledování změn, doklad o postavení žadatele (ÚSC/orgán státu) pro bezúplatný režim.
+
 ---
 
 ### § 56 — Ověřené výstupy z informačního systému veřejné správy
@@ -272,6 +457,43 @@ Toto rozdělení je třeba číst společně s omezeními v § 52 (vyloučení a
 **Praktický význam.** Ověřený výstup z ISVS (zejména **výpis z katastru nemovitostí**) lze získat na kontaktních místech Czech POINT — typicky na pobočkách České pošty, na obecních a krajských úřadech, u notářů, u držitelů poštovní licence a na dalších místech podle zákona č. 365/2000 Sb. Tyto výstupy mají povahu **veřejné listiny** (obdobně jako výstupy dle § 55 odst. 2 KZ) a slouží k tomu, aby občan nemusel pro výpis z katastru navštěvovat přímo katastrální úřad.
 
 § 56 je tak **doplňkovým distribučním kanálem** k poskytování dle § 55 KZ: zatímco § 55 upravuje vydávání výstupů samotnými katastrálními úřady (a dálkový přístup), § 56 odkazuje na obecný režim ověřených výstupů z ISVS, jenž zpřístupňuje výpisy z katastru široké síti kontaktních míst. Detailní úpravu (formát výstupu, ověřovací doložka, evidence výstupů) obsahuje právě zvláštní právní předpis o ISVS, nikoli katastrální zákon.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan O potřebuje k jednání u banky aktuální výpis z katastru nemovitostí, ale nemůže se v úředních hodinách dostavit na katastrální úřad. Navštíví proto kontaktní místo Czech POINT na pobočce České pošty a požádá o ověřený výstup z informačního systému veřejné správy — výpis z katastru. Obdrží listinu s ověřovací doložkou. Banka následně zpochybní, zda takový výstup z pošty má stejnou váhu jako výpis přímo z katastrálního úřadu. Podklady: vydaný ověřený výstup s doložkou, doklad o totožnosti žadatele, evidence výstupů vedená dle zákona o ISVS.
+
+**2. Právní otázka.** Má ověřený výstup z ISVS (výpis z katastru) vydaný na kontaktním místě Czech POINT povahu veřejné listiny rovnocennou výstupu vyhotovenému přímo katastrálním úřadem dle § 55 odst. 2 KZ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 KZ — z katastru se vydávají ověřené výstupy z ISVS podle jiného právního předpisu.
+- *Související ustanovení téhož zákona:* § 55 odst. 2 KZ (povaha veřejné listiny výstupů katastrálního úřadu); § 52 KZ (veřejnost katastru); § 51 KZ (rozlišení evidence a pravdivosti práv).
+- *Související předpisy:* zákon č. 365/2000 Sb., o informačních systémech veřejné správy (ověřené výstupy z ISVS, kontaktní místa veřejné správy — Czech POINT) a prováděcí předpisy; § 567 a násl. OZ (důkazní síla veřejné listiny).
+- *Judikatura:* obecně přijímaný závěr, že ověřený výstup z ISVS vydaný kontaktním místem má povahu veřejné listiny a osvědčuje obsah příslušného informačního systému (nosný závěr: rozhodující je zákonem stanovený režim ověřeného výstupu, nikoli místo jeho vydání).
+
+**4. Subsumpce.** Výstup byl vydán na kontaktním místě veřejné správy (Czech POINT) v režimu ověřeného výstupu z ISVS podle zákona č. 365/2000 Sb., na nějž § 56 KZ odkazuje. Splňuje tak znaky ověřeného výstupu (ověřovací doložka, vydání oprávněným místem). Povahu veřejné listiny mu přiznává zvláštní předpis o ISVS, obdobně jako § 55 odst. 2 KZ výstupům katastrálního úřadu. Námitka banky o nižší váze výstupu z pošty je proto nedůvodná.
+
+**5. Řešení.** Ověřený výstup z Czech POINT je veřejnou listinou rovnocennou výstupu katastrálního úřadu a osvědčuje stav evidovaný v katastru; banka jej musí akceptovat. Procesní kroky: doložit výstup s ověřovací doložkou a údajem o okamžiku, k němuž stav prokazuje. Riziko/alternativa: stejně jako u § 55 platí, že výstup prokazuje evidovaný stav, nikoli pravdivost zapsaného práva (ta je věcí materiální publicity dle § 984 OZ); detailní náležitosti (formát, doložka, evidence) se řídí zákonem o ISVS, nikoli KZ.
+
+**6. Varianty.** (a) O potřebuje pouze neformální informaci o nemovitosti, nikoli listinu pro úřední/soukromé jednání — postačí bezúplatné nahlédnutí přes aplikaci nahlížení dle § 52 KZ, ověřený výstup z ISVS není nutný. (b) Výstup je vydán s prošlým či vadným ověřením (chybí doložka) — pak nemá povahu řádného ověřeného výstupu a jeho důkazní hodnota veřejné listiny je zpochybnitelná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Výpis vydaný na poště nemůže mít stejnou váhu jako výpis z katastrálního úřadu.“ Neutralizace: § 56 KZ ve spojení se zákonem č. 365/2000 Sb. přiznává ověřenému výstupu z ISVS povahu veřejné listiny bez ohledu na to, které kontaktní místo jej vydalo; rozhodující je zákonný režim, nikoli místo vydání.
+- *Protiargument 2:* „Ověřený výstup dokazuje, že vlastníkem je osoba na něm uvedená.“ Neutralizace: stejně jako výpis dle § 55 odst. 2 i ověřený výstup z ISVS osvědčuje evidovaný stav k uvedenému okamžiku, nikoli hmotněprávní pravdivost zapsaného práva (§ 984 OZ).
+- *Slabé místo:* náležitosti a důkazní režim ověřeného výstupu nestanoví KZ, nýbrž zvláštní předpis o ISVS; při sporu je třeba argumentovat zákonem č. 365/2000 Sb. a zkontrolovat platnost ověřovací doložky.
+
+#### H. Praktický závěr
+
+Ověřený výstup z katastru vydaný na Czech POINT je veřejnou listinou rovnocennou výstupu katastrálního úřadu a osvědčuje evidovaný stav k uvedenému okamžiku (nikoli pravdivost práv). Slouží jako pohodlný distribuční kanál k § 55 KZ; jeho náležitosti se řídí zákonem č. 365/2000 Sb. o ISVS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výstup opatřen platnou ověřovací doložkou a vydán oprávněným kontaktním místem (Czech POINT) podle zákona č. 365/2000 Sb.?
+- [ ] Je na výstupu uveden okamžik, k němuž prokazuje evidovaný stav?
+- [ ] Akceptuje adresát (banka, úřad) výstup z ISVS jako rovnocennou veřejnou listinu výstupu katastrálního úřadu?
+- [ ] Nezaměňuje se osvědčení evidovaného stavu s důkazem pravdivosti zapsaného práva (§ 984 OZ)?
+- [ ] Postačil by pro daný účel bezúplatný náhled dle § 52 KZ namísto ověřeného výstupu?
+
+**Typicky rozhodné důkazy / podklady:** ověřený výstup z ISVS s ověřovací doložkou a časovým údajem, doklad totožnosti žadatele, doklad o vydávajícím kontaktním místě, případně právní úprava dle zákona č. 365/2000 Sb.
 
 ---
 

@@ -51,6 +51,42 @@ Slovo **„přiměřeně“** (na rozdíl od „obdobně“ v odst. 2) signalizu
 
 Odstavec 2 řeší **označování nemovitostí** v listinách, jež slouží jako podklad pro zápis jiných údajů, a odkazuje **obdobně** (tj. v plném rozsahu, s pouhým terminologickým přizpůsobením) na § 8 katastrálního zákona o označování nemovitostí v listinách pro zápis práv. To je praktické: i pro zápis nové budovy nebo změny druhu pozemku musí být nemovitost v listině označena standardním katastrálním způsobem (parcelní číslo, název katastrálního území, identifikace budovy číslem popisným / evidenčním na příslušné parcele).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor dokončil výstavbu skladové haly a podává katastrálnímu úřadu ohlášení s geometrickým plánem za účelem zápisu změny druhu pozemku (z orné půdy na zastavěnou plochu a nádvoří) a zápisu nové budovy. V ohlášení označí pozemek pouze místním názvem („u silnice za obcí“) a budovu popíše slovně, bez parcelního čísla a názvu katastrálního území. Účastníci: investor (vlastník pozemku) jako ohlašovatel, katastrální úřad jako evidenční orgán. Důkazy/podklady: ohlášení, geometrický plán, doklad o způsobu užívání, výpis z katastru o dosavadním stavu.
+
+**2. Právní otázka.** Je katastrální úřad povinen (či oprávněn) provést zápis jiného údaje na podkladě listiny, v níž nemovitost není označena způsobem podle § 8 katastrálního zákona, na který § 28 odst. 2 odkazuje obdobně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 — pro zápis jiných údajů se přiměřeně použijí ustanovení o záznamu (odst. 1) a pro označení nemovitostí v listinách se obdobně použije úprava označování pro zápis práv (odst. 2).
+- *Související ustanovení téhož zákona:* § 8 (označování nemovitostí v listinách pro zápis práv — aplikuje se obdobně); § 19 a násl. (úprava záznamu — aplikuje se přiměřeně); § 22 odst. 2 (zkoumání způsobilosti listiny); § 31 (podklady pro zápis jiných údajů); § 4 a § 5 (obsah katastru, výčet jiných údajů).
+- *Související předpisy:* katastrální vyhláška č. 357/2013 Sb. (technické náležitosti listin a geometrického plánu); zákon č. 256/2013 Sb. systémově.
+- *Judikatura:* nosný závěr správních soudů, že u záznamu a zápisu jiných údajů katastrální úřad zkoumá pouze způsobilost listiny (zda je vydána oprávněným subjektem, je určitá, srozumitelná a navazuje na dosavadní zápisy), nikoli hmotněprávní podstatu s intenzitou vkladového řízení.
+
+**4. Subsumpce.** Zápis nové budovy a změny druhu pozemku je zápisem jiného údaje (nikoli práva) → uplatní se § 28. Odst. 2 ve spojení s § 8 vyžaduje označení nemovitosti standardním katastrálním způsobem (parcelní číslo, katastrální území, u budovy číslo popisné/evidenční na parcele). Slovní označení „u silnice za obcí“ tomuto požadavku nevyhovuje — listina je v části identifikace nemovitosti neurčitá, tj. nezpůsobilá. Splněna je naopak podmínka přiloženého geometrického plánu.
+
+**5. Řešení.** Katastrální úřad nemůže zápis provést pro nezpůsobilost listiny v označení nemovitosti. Správný postup: vyzve ohlašovatele podle § 37 odst. 1 písm. c) k odstranění vady (doplnění parcelního čísla a katastrálního území) ve lhůtě do 30 dnů; po doplnění provede zápis přiměřeně dle úpravy záznamu. Riziko: pokud vada odstraněna nebude, zápis se neprovede a investor zůstává v prodlení s ohlašovací povinností (§ 37). Alternativní výklad spočívající v tom, že označení lze dovodit z geometrického plánu, je slabý — zákon klade požadavek na samotnou listinu (ohlášení).
+
+**6. Varianty.** (a) Kdyby investor pozemek i budovu označil parcelním číslem a katastrálním územím, listina je způsobilá a úřad zápis provede bez výzvy. (b) Kdyby šlo o zápis práva (vklad vlastnického práva ke kupované hale), neaplikoval by se § 28 (přiměřené použití záznamu), nýbrž přísnější vkladové řízení (§ 11 a násl.), a § 8 by se použil přímo, nikoli obdobně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přiměřené použití úpravy záznamu znamená, že úřad nemusí trvat na formálních náležitostech jako u vkladu.“ Neutralizace: slovo „přiměřeně“ (odst. 1) zmírňuje aplikaci pravidel o záznamu, avšak odst. 2 odkazuje na § 8 „obdobně“ (tj. v plném rozsahu) — požadavek řádného označení nemovitosti tedy platí bez zmírnění.
+- *Protiargument:* „Jiný údaj má jen evidenční účinky, takže případná vada nikomu neškodí.“ Neutralizace: deklaratorní povaha zápisu nevylučuje, že nesprávně identifikovaná nemovitost vyvolá nesoulad operátu se skutečností a budoucí spory; způsobilost listiny je proto nutné zkoumat i u jiných údajů.
+- *Slabé místo:* hranice mezi „přiměřeně“ a „obdobně“ není v zákoně blíže rozvedena; konkrétní rozsah neaplikovaných pravidel záznamu je nutné dovozovat výkladem podle povahy daného jiného údaje.
+
+#### H. Praktický závěr
+
+V praxi § 28 znamená, že zápis jiných údajů probíhá v jednodušším, evidenčním (záznamovém) režimu bez správního rozhodnutí, avšak listina musí být způsobilá a nemovitost v ní musí být označena standardním katastrálním způsobem jako u zápisu práv.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o jiný údaj (nikoli o právo)? Pokud ano, uplatní se § 28 a přiměřeně úprava záznamu.
+- [ ] Je nemovitost v listině označena podle § 8 (parcelní číslo, katastrální území, u budovy č. p./e.)?
+- [ ] Je listina vydána oprávněným subjektem, je určitá, srozumitelná a navazuje na dosavadní zápisy (§ 22 odst. 2)?
+- [ ] Při vadě: byla podána výzva k doplnění podle § 37 odst. 1 písm. c) se lhůtou min. 30 dnů?
+
+**Typicky rozhodné důkazy / podklady:** ohlášení vlastníka, geometrický plán, doklad o způsobu užívání budovy, výpis z katastru o dosavadním stavu, případně rozhodnutí/souhlas OVM podle § 31 písm. a).
+
 ### § 29 — Změna hranice katastrálního území
 
 <details><summary>📜 <b>Text § 29</b></summary>
@@ -92,6 +128,42 @@ Geometrický plán lze **nahradit měřickou dokumentací** ve dvou situacích, 
 
 **Odstavec 4 — změna nebo nový název k. ú.:** schvalovacím orgánem je **Český úřad zeměměřický a katastrální (ČÚZK)**. K návrhu musí být přiloženo **stanovisko dotčené obce**, ledaže návrh vzešel z podnětu samotné obce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dvě sousední obce A a B se dohodnou na úpravě svého společného hranic tak, že nově má hranice mezi katastrálními územími vést napříč třemi pozemky, které dosud leží celé v katastrálním území obce A. Obce uzavřou dohodu o změně hranic obcí podle § 26 zákona o obcích a podají katastrálnímu úřadu návrh na změnu hranice katastrálního území. K návrhu přiloží kopii katastrální mapy s vyznačenou novou hranicí, slovní popis a vyjádření obou obcí, nikoli však geometrický plán ani vyjádření vlastníků dotčených pozemků. Účastníci: obce A a B (navrhovatelé), vlastníci tří pozemků (dotčené osoby), katastrální úřad.
+
+**2. Právní otázka.** Je návrh na změnu hranice katastrálního území úplný, jestliže nová hranice vede napříč existujícími parcelami a navrhovatelé nepředložili geometrický plán a vyjádření dotčených vlastníků?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 (povinné přílohy návrhu; geometrický plán, nelze-li hranici ztotožnit s hranicí parcely) a odst. 2 (vazba na změnu hranice obce — dohoda obcí nebo pravomocné rozhodnutí).
+- *Související ustanovení téhož zákona:* § 5 odst. 5 (geometrický plán jako zákonná součást listiny); § 28 (přiměřené použití úpravy záznamu pro zápis jiného údaje); § 38 odst. 1 (součinnost obcí).
+- *Související předpisy:* § 26 zákona č. 128/2000 Sb., o obcích (dohoda o změně hranic obcí); zákon č. 139/2002 Sb., o pozemkových úpravách (možnost nahradit geometrický plán měřickou dokumentací); katastrální vyhláška č. 357/2013 Sb.
+- *Judikatura:* obecný nosný závěr, že chybí-li zákonem stanovená povinná příloha (zde geometrický plán u dělení parcel), nelze zápis provést; jde o materiální podmínku způsobilosti návrhu, nikoli o pouhou formalitu odstranitelnou bez doložení.
+
+**4. Subsumpce.** Nová hranice vede „napříč“ parcelami a vyžaduje jejich rozdělení → nelze ji ztotožnit s průběhem hranice parcely → podle § 29 odst. 1 věty druhé je geometrický plán nezbytný. Přílohy předložené (kopie mapy, slovní popis, vyjádření obcí) jsou splněny; chybí však (i) geometrický plán a (ii) vyjádření vlastníků dotčených pozemků, které odst. 1 vyžaduje kumulativně. Podmínka odst. 2 (dohoda obcí) je splněna.
+
+**5. Řešení.** Návrh je neúplný; katastrální úřad vyzve navrhovatele k doplnění geometrického plánu a vyjádření dotčených vlastníků. Bez geometrického plánu nelze nový průběh hranice promítnout do katastrální mapy. Nejde o situaci podle písm. a) nebo b) (obnova novým mapováním či pozemkové úpravy), kdy by geometrický plán bylo možné nahradit měřickou dokumentací — proto výjimka neplatí. Po doplnění úřad zápis provede přiměřeně dle úpravy záznamu (§ 28).
+
+**6. Varianty.** (a) Kdyby nová hranice vedla přesně po stávajících hranicích parcel, geometrický plán by nebyl třeba (změna se odvodí z existující kresby) a návrh by byl při doplnění vyjádření vlastníků úplný. (b) Kdyby ke změně hranice docházelo v rámci pozemkových úprav podle zákona č. 139/2002 Sb., bylo by možné geometrický plán nahradit měřickou dokumentací [odst. 1 písm. b)].
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Slovní popis hranice a kopie mapy postačují k jednoznačnému určení, geometrický plán je nadbytečný.“ Neutralizace: zákon výslovně váže nutnost geometrického plánu na nemožnost ztotožnit hranici s hranicí parcely; vede-li hranice napříč parcelami, dochází k jejich dělení, k němuž je geometrický plán zákonnou součástí listiny (§ 5 odst. 5).
+- *Protiargument:* „Vyjádření vlastníků není nutné, neboť o změně rozhodly obce v rámci samosprávy.“ Neutralizace: odst. 1 řadí vyjádření vlastníků dotčených pozemků mezi povinné přílohy bez ohledu na dohodu obcí; účelem je ochrana dotčených soukromých zájmů (změna k. ú. ovlivňuje evidenci jejich nemovitostí).
+- *Slabé místo:* zákon neřeší výslovně situaci nesouhlasu dotčeného vlastníka — vyjádření je povinnou přílohou, ale jeho negativní obsah sám o sobě zápisu nebrání; spor o samotný průběh hranice parcely je nutné odlišit a řešit cestou opravy chyby či soudně.
+
+#### H. Praktický závěr
+
+Změna hranice katastrálního území je zásahem do kostry evidence a podléhá přísným formálním požadavkům na přílohy návrhu; klíčové je rozlišit, zda nová hranice kopíruje hranice parcel (bez geometrického plánu), nebo je dělí (geometrický plán nezbytný).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Lze nový průběh hranice ztotožnit s hranicí parcely? Pokud ne, je přiložen geometrický plán (nebo jej lze nahradit měřickou dokumentací dle písm. a/b)?
+- [ ] Jsou přiloženy všechny povinné přílohy odst. 1 (kopie mapy s hranicí, slovní popis, vyjádření vlastníků, vyjádření obce)?
+- [ ] Souvisí změna se změnou hranice obce? Pokud ano, je přiložena dohoda obcí nebo pravomocné rozhodnutí (odst. 2)?
+- [ ] Jde o hranici shodnou se státní hranicí (odst. 3 — podklad MV) nebo o změnu názvu k. ú. (odst. 4 — schvaluje ČÚZK, stanovisko obce)?
+
+**Typicky rozhodné důkazy / podklady:** kopie katastrální mapy s vyznačenou novou hranicí, slovní popis hranice, geometrický plán nebo měřická dokumentace, vyjádření dotčených vlastníků a obce, dohoda obcí / pravomocné rozhodnutí o změně hranic obce, dokumentární dílo státních hranic (u odst. 3).
+
 ### § 30 — Zápis nové budovy
 
 <details><summary>📜 <b>Text § 30</b></summary>
@@ -116,6 +188,42 @@ Zápis nové budovy je zápisem **jiného údaje** (popisné charakteristiky nem
 Zásada **superficies solo cedit** (§ 506 OZ — stavba je součástí pozemku) vede k tomu, že nová budova vzniklá na pozemku se zpravidla stává **součástí pozemku** (a vlastníkem je vlastník pozemku) nebo **součástí práva stavby** (§ 1242 OZ). V těchto případech se budova nezapisuje jako samostatná nemovitost s vlastním vlastníkem.
 
 Pokud však budova samostatnou nemovitostí je, katastrální úřad zapíše jako vlastníka **osobu, která prokáže právo zřídit na pozemku tuto budovu** (typicky stavebník, jemuž svědčilo právo stavět — vlastnictví pozemku, právo stavby, nájem se souhlasem se stavbou apod.) — **neprokáže-li se jinou listinou, že vlastníkem je někdo jiný**. Jde o vyvratitelnou domněnku vlastnictví pro evidenční účely; zápis vlastníka budovy podle § 30 odst. 2 má **deklaratorní** povahu a nepřekáží pozdějšímu prokázání odlišného vlastnictví ani případnému soudnímu sporu o vlastnictví.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník postavil rekreační objekt na cizím pozemku na základě smlouvy o právu stavby, která však nebyla vložena do katastru a posléze zanikla; účastníci se neshodují, zda je budova samostatnou nemovitostí. Stavebník podá ohlášení nové budovy s doloženým kolaudačním souhlasem a geometrickým plánem a žádá zápis sebe jako vlastníka. Vlastník pozemku tvrdí, že budova je součástí jeho pozemku podle § 506 OZ. Účastníci: stavebník (ohlašovatel), vlastník pozemku (oponent), katastrální úřad. Důkazy: kolaudační souhlas, geometrický plán, listiny o (ne)existenci práva stavby, doklady o době vzniku budovy.
+
+**2. Právní otázka.** Zapíše katastrální úřad novou budovu jako samostatnou nemovitost s vlastníkem-stavebníkem podle § 30 odst. 2, je-li sporné, zda budova není naopak součástí pozemku ve smyslu zásady superficies solo cedit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (povinné přílohy: doklad o způsobu užívání a geometrický plán) a odst. 2 (určení vlastníka, není-li budova součástí pozemku ani práva stavby — zapíše se ten, kdo prokáže právo budovu zřídit, neprokáže-li jiná listina opak).
+- *Související ustanovení téhož zákona:* § 28 (přiměřené použití úpravy záznamu); § 31 (podklady pro zápis jiného údaje); § 36 (oprava chyby — nelze jí řešit spor o vlastnictví).
+- *Související předpisy:* § 506 OZ (stavba součástí pozemku — superficies solo cedit); § 1242 OZ (stavba součástí práva stavby); § 3055 a násl. OZ (přechodné případy odlišného vlastníka stavby a pozemku ke dni účinnosti OZ); zákon č. 283/2021 Sb., stavební zákon (doklad o způsobu užívání).
+- *Judikatura:* nosný závěr, že zápis vlastníka budovy podle § 30 odst. 2 je evidenční (deklaratorní) a zakládá pouze vyvratitelnou domněnku; spor o vlastnictví budovy se řeší určovací žalobou, nikoli v evidenčním režimu katastru.
+
+**4. Subsumpce.** Přílohy podle odst. 1 (kolaudační souhlas jako doklad o způsobu užívání + geometrický plán) jsou splněny. Pro aplikaci odst. 2 je rozhodující předběžná otázka, zda budova není součástí pozemku/práva stavby: zaniklo-li právo stavby a budova vznikla za jeho trvání, je nutné posoudit režim podle OZ. Je-li budova samostatnou věcí, zapíše se vlastník ten, kdo prokáže právo ji zřídit; je-li součástí pozemku, samostatný zápis vlastníka se neprovede.
+
+**5. Řešení.** Katastrální úřad v evidenčním režimu nemůže autoritativně rozhodnout hmotněprávní spor o vlastnictví budovy. Domněnka podle odst. 2 nastoupí jen tehdy, je-li nesporné (či z listin patrné), že budova je samostatnou nemovitostí. Je-li to sporné, úřad zápis vlastníka neprovede „od stolu“ ve prospěch jedné strany; budovu zapíše jako jiný údaj (existence stavby), avšak otázku vlastníka musí vyřešit účastníci soudně (určovací žaloba). Riziko: provede-li úřad zápis vlastníka přes existující spor, jde o nepřípustné nahrazování soudního rozhodnutí.
+
+**6. Varianty.** (a) Kdyby budova vznikla za trvání platného práva stavby, byla by jeho součástí (§ 1242 OZ) a nezapisovala by se jako samostatná nemovitost s vlastním vlastníkem. (b) Kdyby šlo o přechodný případ podle § 3055 OZ (vlastník stavby odlišný od vlastníka pozemku již ke dni účinnosti OZ), budova by byla samostatnou nemovitostí a domněnka podle odst. 2 by nastoupila ve prospěch toho, kdo prokáže právo budovu zřídit.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stavebník prokázal právo zřídit budovu (kolaudační souhlas), proto musí být zapsán jako vlastník.“ Neutralizace: domněnka odst. 2 je vyvratitelná a uplatní se jen, je-li budova samostatnou věcí a neprokáže-li jiná listina odlišného vlastníka; kolaudační souhlas dokládá způsob užívání, nikoli vlastnické právo.
+- *Protiargument:* „Zápis vlastníka v katastru zakládá jeho vlastnictví.“ Neutralizace: zápis podle § 30 odst. 2 je deklaratorní (evidenční), nezakládá ani neruší vlastnické právo a nepřekáží pozdějšímu prokázání odlišného vlastnictví ani soudnímu sporu.
+- *Slabé místo:* posouzení, zda je budova součástí pozemku, je hmotněprávní předběžnou otázkou, kterou katastrální úřad řeší jen pro evidenční účely; chybí-li jednoznačné listiny, je riziko nesprávného zápisu, který následně koriguje soud nebo oprava chyby.
+
+#### H. Praktický závěr
+
+Zápis nové budovy je zápisem jiného údaje; samostatný zápis vlastníka budovy podle odst. 2 přichází v úvahu pouze tehdy, není-li budova součástí pozemku ani práva stavby, a má vždy jen deklaratorní povahu se silou vyvratitelné domněnky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou přiloženy obě povinné přílohy — doklad o způsobu užívání (kolaudace) a geometrický plán (odst. 1)?
+- [ ] Je budova součástí pozemku (§ 506 OZ) nebo práva stavby (§ 1242 OZ)? Pokud ano, vlastník se samostatně nezapisuje.
+- [ ] Jde o samostatnou nemovitost (např. § 3055 OZ)? Kdo prokáže právo budovu zřídit a neprokazuje jiná listina odlišného vlastníka?
+- [ ] Existuje spor o vlastnictví budovy? Pokud ano, řeší se určovací žalobou, nikoli zápisem do katastru.
+
+**Typicky rozhodné důkazy / podklady:** kolaudační rozhodnutí/souhlas (doklad o způsobu užívání), geometrický plán, listiny prokazující právo zřídit budovu (vlastnictví pozemku, právo stavby, nájem se souhlasem se stavbou), případně listina prokazující odlišného vlastníka.
 
 ### § 31 — Podklady pro zápis jiných údajů a jejich změn
 
@@ -142,6 +250,42 @@ Pokud však budova samostatnou nemovitostí je, katastrální úřad zapíše ja
 | c) | **Právní předpis**, který přímo stanoví jiný údaj nebo jeho změnu | zákonodárce | údaj zaváděný či měněný přímo zákonem nebo nařízením |
 
 Konstrukce navazuje na ohlašovací povinnost vlastníků podle § 37 odst. 1 písm. d) (ohlásit změny týkající se jejich nemovitostí do 30 dnů) a na povinnost orgánů veřejné moci podle § 39 písm. a) (zasílat svá rozhodnutí katastru). Důležité rozhraní: u podkladů podle písm. b) vlastník **nemá ohlašovací povinnost**, neboť listinu zasílá přímo OVM — to výslovně potvrzuje § 37 odst. 1 písm. d) část za středníkem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán ochrany přírody vyhlásí rozhodnutím chráněné území zasahující do několika pozemků a podle zvláštního předpisu má povinnost zaslat rozhodnutí katastrálnímu úřadu k zápisu. Současně jeden z vlastníků dotčených pozemků, který se o vyhlášení dozvěděl, podá z opatrnosti vlastní ohlášení této skutečnosti, k němuž přiloží kopii rozhodnutí. Katastrální úřad obdrží podklad dvakrát. Účastníci: orgán ochrany přírody (OVM), vlastník pozemku, katastrální úřad.
+
+**2. Právní otázka.** Na podkladě které z kategorií § 31 se zápis provede a má vlastník v této situaci vůbec ohlašovací povinnost, jestliže tentýž podklad zasílá ze zákona přímo orgán veřejné moci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 písm. a) (ohlášení vlastníka s přílohou rozhodnutí/souhlasu OVM), písm. b) (rozhodnutí/souhlas/oznámení OVM, který je ze zákona povinen je zaslat), písm. c) (právní předpis stanovící přímo jiný údaj).
+- *Související ustanovení téhož zákona:* § 37 odst. 1 písm. d) (ohlašovací povinnost vlastníka a její výjimka u listin zasílaných přímo OVM); § 39 písm. a) (povinnost OVM zasílat svá rozhodnutí do 30 dnů); § 28 (přiměřené použití úpravy záznamu).
+- *Související předpisy:* zvláštní předpisy zakládající povinnost OVM zasílat rozhodnutí (např. zákon o ochraně přírody a krajiny, památkový zákon); zákon č. 334/1992 Sb., o ochraně ZPF (souhlas se změnou druhu pozemku); katastrální vyhláška č. 357/2013 Sb.
+- *Judikatura:* nosný závěr, že kategorizace podkladu určuje, kdo nese iniciační břemeno a zda vzniká ohlašovací povinnost; duplicitní podání téhož podkladu nezakládá překážku, rozhodující je způsobilost listiny.
+
+**4. Subsumpce.** Rozhodnutí o vyhlášení chráněného území je rozhodnutím OVM, které zvláštní předpis ukládá zaslat katastru → spadá pod § 31 písm. b). Tím je zároveň aktivována výjimka v § 37 odst. 1 písm. d) (vlastník nemá ohlašovací povinnost u změn vyplývajících z listin, které OVM zasílají přímo). Vlastníkovo ohlášení podle písm. a) je proto nadbytečné, nikoli však vadné.
+
+**5. Řešení.** Zápis se provede na podkladě rozhodnutí OVM podle písm. b); úřad není závislý na vlastníkově ohlášení. Vlastník v této situaci ohlašovací povinnost nemá, takže její „nesplnění“ mu nelze klást k tíži (relevantní pro případnou přestupkovou odpovědnost podle § 57). Obdrží-li úřad podklad dvojmo, provede jeden zápis na podkladě způsobilé listiny; druhé podání je bezpředmětné. Riziko záměny: u písm. a) je iniciátorem soukromá osoba a příloha (rozhodnutí/souhlas OVM) je nutná jen, je-li takový akt vyžadován.
+
+**6. Varianty.** (a) Kdyby zvláštní předpis nestanovil OVM povinnost zaslat rozhodnutí katastru, nešlo by o písm. b), ale podklad by musel dodat vlastník ohlášením podle písm. a) — a měl by ohlašovací povinnost podle § 37 odst. 1 písm. d). (b) Kdyby jiný údaj (či jeho změnu) stanovil přímo zákon (např. plošná změna evidence ze zákona), šlo by o písm. c) bez nutnosti ohlášení i bez nutnosti rozhodnutí OVM.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vlastník měl povinnost změnu ohlásit, jinak hrozí přestup­ková odpovědnost.“ Neutralizace: § 37 odst. 1 písm. d) část za středníkem výslovně ohlašovací povinnost vylučuje u změn vyplývajících z listin, které OVM zasílají přímo k zápisu; jde-li o podklad podle § 31 písm. b), vlastník povinnost nemá.
+- *Protiargument:* „Ohlášení vlastníka podle písm. a) je vždy přípustnou cestou zápisu.“ Neutralizace: u podkladů, které ze zákona zasílá OVM (písm. b), je vlastníkovo ohlášení nadbytečné; navíc příloha (rozhodnutí/souhlas OVM) u písm. a) je nutná pouze tehdy, je-li takový akt vyžadován jiným předpisem.
+- *Slabé místo:* zařazení konkrétního podkladu pod písm. a) vs. b) závisí na obsahu zvláštního předpisu (zda ukládá OVM zasílací povinnost); chybná kategorizace může vést k nesprávnému dovození ohlašovací povinnosti vlastníka.
+
+#### H. Praktický závěr
+
+§ 31 určuje tři cesty, jimiž se jiné údaje dostávají do katastru, a zároveň rozhraní odpovědnosti: zasílá-li podklad přímo OVM (písm. b), vlastník nemá ohlašovací povinnost; jinak ji nese vlastník (písm. a) ve vazbě na § 37 odst. 1 písm. d).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pod kterou kategorii podklad spadá — ohlášení vlastníka (a), rozhodnutí/souhlas/oznámení OVM se zasílací povinností (b), nebo přímo právní předpis (c)?
+- [ ] U písm. a): je vyžadováno rozhodnutí/souhlas OVM jako příloha? Pokud ano, je přiloženo?
+- [ ] Ukládá zvláštní předpis OVM povinnost zaslat akt katastru (písm. b)? Pokud ano, vlastník nemá ohlašovací povinnost (§ 37 odst. 1 písm. d).
+- [ ] Je listina způsobilá k zápisu (vydaná oprávněným subjektem, určitá, navazující na dosavadní zápisy)?
+
+**Typicky rozhodné důkazy / podklady:** ohlášení vlastníka, rozhodnutí/souhlas/oznámení orgánu veřejné moci, znění zvláštního předpisu zakládajícího zasílací povinnost OVM, doklad o vyžadovaném souhlasu (např. souhlas orgánu ochrany ZPF), výpis z katastru o dosavadním stavu.
 
 ### § 32 — Přejímání jiných údajů z jiných informačních systémů a registrů
 
@@ -174,6 +318,42 @@ V obou případech jde o zdroje s vysokou důvěryhodností, jejichž údaje lze
 2. **uvede zápisy v katastru do souladu** se zjištěným výsledkem šetření.
 
 Zásadní je závěrečná věta: tento postup se řídí ustanovením o **opravě chyby v katastrálním operátu (§ 36)**. To znamená procesní záruky pro dotčené osoby — oznámení o provedené změně, možnost vyjádřit nesouhlas a v případě nesouhlasu vydání rozhodnutí ve věci s následným správním přezkumem. Katastrální úřad tedy nemůže měnit zápisy „od stolu“ jen kvůli rozdílu vůči jinému systému; musí respektovat proceduru opravy chyby a chránit dobrou víru osob spoléhajících na dosavadní zápis v katastru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Katastrální úřad porovnává údaje o adrese vlastníka vedené v katastru s evidencí obyvatel, která nepožívá ochrany dobré víry v pravdivost a úplnost zapisovaných údajů. Zjistí rozpor: v katastru je u vlastníka uvedena jiná adresa než v dané evidenci. Úřad chce zápis v katastru jednostranně „opravit“ podle zdrojové evidence. Vlastník namítá, že adresa v katastru je správná a aktuální. Účastníci: katastrální úřad, vlastník, správce zdrojové evidence.
+
+**2. Právní otázka.** Smí katastrální úřad mechanicky přepsat údaj v katastru podle jiné evidence, která nepožívá ochrany dobré víry, anebo musí postupovat podle pravidel o opravě chyby v katastrálním operátu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1 (kdy lze údaje přejímat — konstitutivní zápis nebo ochrana dobré víry) a odst. 2 (zdroje bez ochrany dobré víry — porovnání, vyšetření příčin rozporu, uvedení do souladu postupem podle opravy chyby).
+- *Související ustanovení téhož zákona:* § 36 (oprava chyby v katastrálním operátu — procesní záruky, oznámení, nesouhlas, rozhodnutí); § 39 písm. d) (bezplatné poskytování údajů OVM); § 28 (přiměřené použití úpravy záznamu).
+- *Související předpisy:* zákon č. 111/2009 Sb., o základních registrech (RÚIAN, ROB, ROS — materiální publicita vybraných údajů); zákon č. 500/2004 Sb., správní řád (procesní rámec pro navazující rozhodnutí).
+- *Judikatura:* nosný závěr o ochraně dobré víry osob spoléhajících na dosavadní zápis v katastru — zápis nelze měnit „od stolu“ bez procesních záruk; změna se musí opírat o zjištěný a řádně prošetřený skutečný stav.
+
+**4. Subsumpce.** Zdrojová evidence nepožívá ochrany dobré víry → nelze údaj mechanicky přebírat podle odst. 1 písm. b). Nastupuje režim odst. 2: úřad může údaje porovnat a při zjištěném rozporu (i) vyšetří jeho příčiny a (ii) uvede zápis do souladu se zjištěným výsledkem šetření. Závěrečná věta odst. 2 podřizuje tento postup pravidlům o opravě chyby (§ 36) → vlastník má nárok na oznámení, na vyjádření nesouhlasu a v případě nesouhlasu na rozhodnutí ve věci.
+
+**5. Řešení.** Katastrální úřad nesmí provést jednostranný přepis. Musí vyšetřit, která adresa odpovídá skutečnosti (např. ověřením u vlastníka, z listin), výsledek promítnout postupem podle § 36 a doručit vlastníkovi oznámení s poučením o možnosti nesouhlasu. Vyjádří-li vlastník nesouhlas do 30 dnů, úřad vydá rozhodnutí ve věci s následným odvoláním a soudním přezkumem. Riziko: přepis bez procedury opravy chyby je vadným postupem porušujícím ochranu dobré víry a je napadnutelný.
+
+**6. Varianty.** (a) Kdyby zdrojem byl RÚIAN nebo veřejný rejstřík (údaje požívající ochrany dobré víry), úřad by údaj převzal podle odst. 1 písm. b) bez procedury opravy chyby. (b) Kdyby zápisem do zdrojového systému teprve vznikala evidovaná skutečnost (konstitutivní zápis, např. vznik právnické osoby ve veřejném rejstříku), převzetí by bylo přípustné podle odst. 1 písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Údaj v jiné evidenci veřejné správy je úřední, proto má přednost a lze jej převzít.“ Neutralizace: odst. 2 výslovně rozlišuje zdroje bez ochrany dobré víry, u nichž je nutné rozpor vyšetřit a postupovat podle opravy chyby; úřední původ údaje sám o sobě materiální publicitu nezakládá.
+- *Protiargument:* „Postup opravy chyby je zde nadbytečný, jde jen o sladění evidencí.“ Neutralizace: závěrečná věta odst. 2 výslovně odkazuje na ustanovení o opravě chyby (§ 36) — procesní záruky (oznámení, nesouhlas, rozhodnutí) jsou obligatorní právě k ochraně dobré víry osob spoléhajících na dosavadní zápis.
+- *Slabé místo:* posouzení, zda konkrétní evidence „požívá ochrany dobré víry“, vyžaduje výklad zvláštního předpisu; nesprávné zařazení zdroje vede buď k nepřípustnému mechanickému přebírání, nebo naopak ke zbytečné proceduře.
+
+#### H. Praktický závěr
+
+§ 32 prosazuje sdílení dat ve veřejné správě (princip „once only“), současně však chrání dobrou víru: z důvěryhodných zdrojů (konstitutivní zápis nebo materiální publicita) lze přebírat bez dalšího, z ostatních pouze po vyšetření rozporu a postupem podle opravy chyby (§ 36).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje zdrojový systém podmínku odst. 1 — konstitutivní zápis (a) nebo ochrana dobré víry (b)? Pokud ano, lze přebírat bez procedury.
+- [ ] Nepožívá-li zdroj ochrany dobré víry: byl rozpor s katastrem řádně vyšetřen (příčiny)?
+- [ ] Byl při uvedení do souladu dodržen postup podle § 36 (oznámení, poučení, možnost nesouhlasu, rozhodnutí)?
+- [ ] Byla zohledněna ochrana dobré víry osob spoléhajících na dosavadní zápis (zákaz přepisu „od stolu“)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru a ze zdrojové evidence, doklad o povaze zdrojového systému (zda jde o základní registr / veřejný rejstřík s materiální publicitou), protokol/záznam o vyšetření příčin rozporu, oznámení o opravě a doklad o jeho doručení, případné rozhodnutí ve věci.
 
 ---
 
@@ -213,6 +393,42 @@ Zásadní je závěrečná věta: tento postup se řídí ustanovením o **oprav
 
 U všech ostatních zápisů (záznam, poznámka, jiný údaj) platí jednotná **třicetidenní lhůta** od doručení způsobilé listiny. Výmaz poznámky, jejíž důvody pominuly, podléhá rovněž třicetidenní lhůtě.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dědic doložil katastrálnímu úřadu pravomocné usnesení soudu o dědictví (osvědčující nabytí vlastnictví k nemovitosti) a žádá o provedení záznamu. Od doručení listiny uplynulo již 70 dnů, aniž katastrální úřad záznam provedl nebo dědici cokoli sdělil. Dědic se obává, že nemůže s nemovitostí nakládat. Účastníci: dědic (oprávněný), katastrální úřad (správní orgán), nadřízený zeměměřický a katastrální inspektorát.
+
+**2. Právní otázka.** Jaké jsou důsledky toho, že katastrální úřad nedodržel třicetidenní lhůtu pro provedení záznamu podle § 33 písm. b), a jak se může oprávněný domáhat nápravy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 písm. b) (záznam do 30 dnů od doručení listiny potvrzující/osvědčující práva); písm. a), c), d) (lhůty pro vklad, poznámku a jiný údaj).
+- *Související ustanovení téhož zákona:* § 19 a násl. (záznam); § 18 odst. 1 (ochranná lhůta 20 dnů ve vkladovém řízení — vazba na počátek lhůty u vkladu); § 22 odst. 2 (způsobilost listiny).
+- *Související předpisy:* § 80 správního řádu (opatření proti nečinnosti); § 40 správního řádu (počítání lhůt); soudní řád správní (žaloba na ochranu proti nečinnosti správního orgánu).
+- *Judikatura:* nosný závěr, že lhůty pro provedení zápisu jsou pořádkové (pro vyřízení), jejich nedodržení nezpůsobuje neplatnost ani jiný hmotněprávní následek, zakládá však nečinnost, proti níž jsou určeny prostředky podle správního řádu a soudního řádu správního.
+
+**4. Subsumpce.** Usnesení o dědictví je listinou osvědčující práva → záznam podle § 33 písm. b) ve lhůtě 30 dnů od doručení. Lhůta je pořádková (lhůta pro úkon správního orgánu), nikoli hmotněprávní. Její marné uplynutí (70 dnů) → nečinnost katastrálního úřadu; účinky nabytí dědictví nastaly nezávisle na zápisu (záznam má deklaratorní povahu), zápis je však nutný pro soulad evidence a pro nakládání svědčící z evidence.
+
+**5. Řešení.** Nedodržení lhůty nezpůsobuje neplatnost budoucího záznamu; dědic se brání podnětem k učinění opatření proti nečinnosti podle § 80 správního řádu adresovaným nadřízenému inspektorátu, který může věc převzít nebo přikázat zjednání nápravy. Při pokračující nečinnosti je otevřena žaloba na ochranu proti nečinnosti ve správním soudnictví. Riziko/alternativa: je-li listina ve skutečnosti nezpůsobilá (lhůta vůbec nezačala plynout), nejde o nečinnost — proto je nutné nejprve ověřit způsobilost listiny a okamžik jejího doručení.
+
+**6. Varianty.** (a) Šlo-li by místo záznamu o vklad, lhůta zní „bez zbytečného odkladu od povolení vkladu“ a navazuje až na pravomocné povolovací rozhodnutí (jemuž předchází ochranná lhůta 20 dnů dle § 18 odst. 1) — pevná denní lhůta zde neplatí. (b) Jde-li o výmaz poznámky, jejíž důvody pominuly, platí rovněž třicetidenní lhůta od doručení listiny podle písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Marným uplynutím lhůty pozbývá listina způsobilosti k zápisu / zápis je neplatný.“ Neutralizace: jde o pořádkovou lhůtu pro vyřízení; její nedodržení nemá hmotněprávní následek pro platnost zápisu, pouze zakládá nečinnost.
+- *Protiargument:* „U vkladu musí úřad konat ve 30 dnech jako u záznamu.“ Neutralizace: písm. a) stanoví pro vklad odlišný standard — „bez zbytečného odkladu od povolení vkladu“ — navázaný až na pravomocné povolovací rozhodnutí; přenášení 30denní lhůty na vklad je nesprávné.
+- *Slabé místo:* počátek běhu lhůty se odvíjí od doručení způsobilé listiny — je-li listina vadná, lhůta neběží; spornou otázkou pak bývá, zda úřad je nečinný, nebo zda jen listina není způsobilá.
+
+#### H. Praktický závěr
+
+Lhůty podle § 33 jsou pořádkové; jejich nedodržení nezpůsobuje neplatnost zápisu, ale zakládá nečinnost katastrálního úřadu, proti níž se lze bránit opatřením proti nečinnosti (§ 80 správního řádu) a posléze žalobou ve správním soudnictví. U vkladu platí měkčí standard „bez zbytečného odkladu“ navázaný na pravomocné povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jaký druh zápisu jde (vklad / záznam / poznámka / jiný údaj) a jaká lhůta a její počátek se na něj vztahují?
+- [ ] Byla listina způsobilá a kdy byla doručena (počátek běhu lhůty dle § 40 správního řádu)?
+- [ ] Uplynula lhůta marně? Pokud ano, byl podán podnět k opatření proti nečinnosti (§ 80 správního řádu) nadřízenému inspektorátu?
+- [ ] U vkladu: bylo již vydáno pravomocné rozhodnutí o povolení vkladu (od něhož běží „bez zbytečného odkladu“)?
+
+**Typicky rozhodné důkazy / podklady:** doručovaná listina (rozhodnutí/usnesení/jiná listina), doklad o datu jejího doručení, výpis z katastru o stavu zápisu (plomba), podnět k opatření proti nečinnosti a doklad o jeho podání, případně rozhodnutí o povolení vkladu (u vkladu).
+
 ---
 
 ## Ukládání listin
@@ -236,6 +452,42 @@ U všech ostatních zápisů (záznam, poznámka, jiný údaj) platí jednotná 
 **Dohoda spoluvlastníků o správě nemovitosti** (§ 1126 a násl. OZ, zejména dohoda podle § 1129 OZ o správě společné věci) je dokument upravující vztahy mezi podílovými spoluvlastníky. Vzhledem k tomu, že u podílového spoluvlastnictví zpravidla není jediná „odpovědná osoba“, zákon umožňuje, aby dohodu k uložení předložil **kterýkoli ze spoluvlastníků**.
 
 Uložení obou dokumentů do sbírky listin slouží **principu formální publicity** — zajišťuje veřejnou dostupnost těchto pro nabyvatele klíčových listin (sbírka listin je součástí katastrálního operátu a nahlížet do ní lze za podmínek § 55 a násl. katastrálního zákona).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V bytovém domě, kde vzniklo společenství vlastníků jednotek (SVJ), byla vícekrát změněna prohlášení vlastníka (nově vymezena společná část, upraveny podíly). Kupující jednotky zjistí, že ve sbírce listin katastru je založeno jen původní prohlášení a několik dílčích změn, nikoli aktuální úplné (konsolidované) znění. Žádá, aby bylo úplné znění doplněno. Účastníci: SVJ (osoba odpovědná za správu domu), kupující jednotky, katastrální úřad. Vedle toho podíloví spoluvlastníci sousední budovy chtějí uložit dohodu o správě nemovitosti.
+
+**2. Právní otázka.** Kdo je povinen předložit k uložení do sbírky listin úplné znění prohlášení vlastníka domu a kdo je oprávněn předložit dohodu spoluvlastníků o správě nemovitosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (úplné znění prohlášení vlastníka domu předkládá osoba odpovědná za správu domu) a odst. 2 (dohodu spoluvlastníků o správě předloží kterýkoli ze spoluvlastníků).
+- *Související ustanovení téhož zákona:* § 55 a násl. (nahlížení do sbírky listin — formální publicita); princip uložení listin do katastrálního operátu.
+- *Související předpisy:* § 1166 OZ (prohlášení o rozdělení práva k domu a pozemku na jednotky), § 1169 OZ (změna prohlášení), § 1190 OZ (osoba odpovědná za správu domu — SVJ), § 1191 a násl. OZ (správce, nevzniklo-li SVJ); § 1126 a násl., zejm. § 1129 OZ (správa společné věci spoluvlastníky).
+- *Judikatura:* nosný závěr o významu formální publicity sbírky listin — veřejná dostupnost konsolidovaného znění prohlášení chrání nabyvatele jednotek; povinnost předložit úplné znění stíhá osobu odpovědnou za správu domu.
+
+**4. Subsumpce.** Dům je rozdělen na jednotky a vzniklo SVJ → osobou odpovědnou za správu domu je SVJ (§ 1190 OZ) → povinnost předložit úplné (aktuální konsolidované) znění prohlášení podle § 34 odst. 1 nese SVJ. U sousední budovy jde o podílové spoluvlastnictví a dohodu o správě (§ 1129 OZ) → podle § 34 odst. 2 ji k uložení může předložit kterýkoli ze spoluvlastníků (není třeba součinnosti všech).
+
+**5. Řešení.** Kupující se domáhá doplnění úplného znění nikoli přímo po katastru, nýbrž po SVJ, které je povinným subjektem; SVJ úplné znění zpracuje a předloží k uložení do sbírky listin. U dohody spoluvlastníků postačí podání jediného (kteréhokoli) spoluvlastníka. Riziko: nepředloží-li SVJ úplné znění, sbírka listin neobsahuje aktuální stav a trpí tím formální publicita; vynucení směřuje vůči SVJ (vnitřní vztahy ve společenství), nikoli vůči katastru.
+
+**6. Varianty.** (a) Kdyby v domě SVJ dosud nevzniklo, byl by osobou odpovědnou za správu domu správce podle § 1191 a násl. OZ a povinnost předložit úplné znění by nesl on. (b) Kdyby u sousední budovy nešlo o podílové spoluvlastnictví, nýbrž o jednoho vlastníka, úprava odst. 2 (dohoda spoluvlastníků) by se neuplatnila vůbec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Úplné znění prohlášení musí na žádost nabyvatele vyhotovit a založit sám katastrální úřad.“ Neutralizace: § 34 odst. 1 klade povinnost předložit úplné znění výslovně na osobu odpovědnou za správu domu (SVJ/správce), nikoli na katastrální úřad, který listinu pouze ukládá.
+- *Protiargument:* „Dohodu spoluvlastníků mohou k uložení předložit jen všichni spoluvlastníci společně.“ Neutralizace: odst. 2 výslovně opravňuje k předložení kteréhokoli ze spoluvlastníků — právě proto, že u podílového spoluvlastnictví zpravidla není jediná odpovědná osoba.
+- *Slabé místo:* § 34 řeší jen předložení (kdo a co), nikoli sankci za nepředložení; vynutitelnost úplného znění prohlášení se opírá o korporátní vztahy ve společenství a o zájem nabyvatelů, nikoli o samostatný sankční nástroj v tomto ustanovení.
+
+#### H. Praktický závěr
+
+§ 34 přiřazuje předkládací povinnost: úplné znění prohlášení vlastníka domu předkládá osoba odpovědná za správu domu (typicky SVJ), kdežto dohodu spoluvlastníků o správě může uložit kterýkoli ze spoluvlastníků; účelem je formální publicita sbírky listin a ochrana nabyvatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o prohlášení vlastníka domu (odst. 1) nebo o dohodu spoluvlastníků o správě nemovitosti (odst. 2)?
+- [ ] U odst. 1: kdo je osobou odpovědnou za správu domu — SVJ (§ 1190 OZ), nebo správce (§ 1191 a násl. OZ)?
+- [ ] Je předkládané znění prohlášení úplné (konsolidované), tj. zahrnuje všechny dosavadní změny dle § 1169 OZ?
+- [ ] U odst. 2: předkládá dohodu některý ze spoluvlastníků (postačí kterýkoli)?
+
+**Typicky rozhodné důkazy / podklady:** úplné (konsolidované) znění prohlášení vlastníka domu, doklad o vzniku SVJ či o ustavení správce, dohoda spoluvlastníků o správě nemovitosti, doklad o spoluvlastnickém postavení předkladatele.
 
 ---
 
@@ -276,6 +528,42 @@ Mechanismus „vyčištění“ má tyto kroky:
 Toto pravidlo navazuje na obecnou úpravu **promlčení** v občanském zákoníku (§ 609 a násl. OZ — promlčí se majetkové právo nevykonané v promlčecí lhůtě). Věcná břemena patří mezi věcná práva (§ 1257 a násl. OZ); zde však katastrální zákon stanoví **zvláštní procesní cestu** k výmazu takto promlčeného a neidentifikovatelného břemene, neboť běžnou cestou (žalobou na výmaz) by problém nešlo vyřešit, není-li znám protějšek. Desetiletá doba nevykonávání odpovídá obecné maximální (objektivní) promlčecí lhůtě podle § 629 odst. 2 OZ.
 
 **Odstavec 3 — protokol.** O výsledku revize sepíše katastrální úřad **protokol** (dokumentační a důkazní nástroj).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při revizi katastru vlastník pozemku sdělí katastrálnímu úřadu, že jeho pozemek je zatížen věcným břemenem chůze a jízdy převzatým do katastru z bývalé pozemkové knihy ve prospěch osoby uvedené pouze jménem „Josef Novák, hospodář“, bez data narození a adresy, kterou dnes nelze identifikovat. Vlastník doloží, že břemeno není fakticky vykonáváno již přes 10 let (cesta zarostlá, nikdo ji neužívá). Účastníci: vlastník zatížené nemovitosti, neidentifikovatelný oprávněný, katastrální úřad, obec (úřední deska).
+
+**2. Právní otázka.** Za jakých podmínek a jakým postupem lze vymazat z katastru staré, neidentifikovatelné a nevykonávané věcné břemeno převzaté z bývalé pozemkové knihy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 2 (mechanismus výzvy veřejnou vyhláškou, roční lhůta, domněnka promlčení, výmaz z úřední povinnosti, přiměřené použití záznamu, neuplatnění § 11) a odst. 1 (revize za součinnosti obcí a účasti vlastníků) a odst. 3 (protokol).
+- *Související ustanovení téhož zákona:* § 11 (informování o vyznačení plomby — výslovně se neuplatní); § 38 odst. 1 (součinnost obcí, úřední deska); § 37 odst. 1 písm. a) (účast vlastníků na jednání); § 19 a násl. (záznam — přiměřeně pro výmaz).
+- *Související předpisy:* § 609 a násl. OZ (promlčení majetkového práva), § 629 odst. 2 OZ (objektivní desetiletá promlčecí lhůta), § 1257 a násl. OZ (věcná břemena jako věcná práva); veřejná vyhláška podle správního řádu.
+- *Judikatura:* nosný závěr, že institut slouží k „vyčištění“ historických zatížení, jejichž oprávněného nelze dohledat; jde o zvláštní procesní cestu k výmazu promlčeného a neidentifikovatelného břemene tam, kde běžná žaloba na výmaz selhává pro neznámý protějšek.
+
+**4. Subsumpce.** Břemeno bylo převzato z bývalé pozemkové knihy a zapsáno ve prospěch osoby neumožňující dostatečnou identifikaci → splněna vstupní podmínka odst. 2. Vlastník v rámci revize sdělí nevykonávání po dobu přes 10 let → aktivuje se postup. Následuje výzva oprávněnému veřejnou vyhláškou + zveřejnění na úřední desce obce po dobu 1 roku → nepřihlásí-li se oprávněný do 1 roku, nastupuje vyvratitelná domněnka promlčení → výmaz z úřední povinnosti přiměřeně dle záznamu, bez aplikace § 11.
+
+**5. Řešení.** Katastrální úřad vyzve oprávněného veřejnou vyhláškou a zašle obci výzvu ke zveřejnění na úřední desce po dobu 1 roku. Marně-li uplyne rok, má se za to, že břemeno se promlčelo, a úřad provede výmaz z úřední povinnosti (přiměřeně dle úpravy záznamu; § 11 se neuplatní, neboť informování neidentifikovatelného oprávněného o plombě by bylo bezpředmětné). O výsledku revize sepíše protokol (odst. 3). Riziko/alternativa: přihlásí-li se oprávněný včas, domněnka nenastane a spor o (ne)vykonávání či trvání břemene se řeší mimo tento institut.
+
+**6. Varianty.** (a) Kdyby oprávněný byl v zápisu dostatečně identifikován (rodné číslo, adresa), zvláštní postup podle odst. 2 by se neuplatnil — k výmazu by bylo třeba standardní cesty (souhlas oprávněného, dohoda, rozhodnutí, žaloba). (b) Kdyby břemeno bylo prokazatelně vykonáváno (např. cesta užívána), domněnka promlčení po nevykonávání by nenastoupila a výmaz by nebyl možný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Věcné právo zapsané v katastru nelze vymazat jen proto, že se oprávněný nepřihlásil — jde o zásah do vlastnictví oprávněného.“ Neutralizace: zákon stanoví vyvratitelnou domněnku promlčení po marném uplynutí roční lhůty od veřejné výzvy; oprávněný má reálnou možnost se přihlásit a domněnku vyvrátit, postup tak respektuje jeho právní postavení v mezích objektivní promlčecí lhůty (§ 629 odst. 2 OZ).
+- *Protiargument:* „Výmaz vyžaduje aplikaci § 11 (informování o plombě), jinak je vadný.“ Neutralizace: odst. 2 výslovně vylučuje použití § 11; informování neidentifikovatelného oprávněného o vyznačení plomby by postrádalo smysl, proto se přiměřeně použijí jen ustanovení o záznamu.
+- *Slabé místo:* posouzení „nedostatečné identifikace“ oprávněného a „nevykonávání po dobu více než 10 let“ je skutkové a může být sporné; chybné vyhodnocení (např. existuje-li identifikovatelný právní nástupce) by zakládalo vadu výmazu.
+
+#### H. Praktický závěr
+
+Revize katastru zajišťuje soulad evidence se skutečným stavem v terénu za součinnosti obcí a účasti vlastníků; § 35 odst. 2 navíc poskytuje zvláštní nástroj k výmazu starých, neidentifikovatelných a déle než 10 let nevykonávaných věcných břemen převzatých z bývalých knih cestou veřejné výzvy a domněnky promlčení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo věcné břemeno převzato z bývalé pozemkové knihy/zemských desek/železniční knihy a je zapsáno ve prospěch osoby, kterou nelze dostatečně identifikovat?
+- [ ] Sdělil vlastník v rámci revize, že břemeno není vykonáváno více než 10 let?
+- [ ] Byla vydána veřejná vyhláška a zajištěno zveřejnění na úřední desce obce po dobu 1 roku?
+- [ ] Po marném uplynutí 1 roku: byl proveden výmaz z úřední povinnosti (přiměřeně dle záznamu, bez § 11) a sepsán protokol o revizi (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru s historickým zápisem věcného břemene, podklady z bývalé pozemkové knihy, sdělení vlastníka o nevykonávání (a důkazy o nevykonávání — fotografie, svědectví, stav v terénu), veřejná vyhláška a doklad o zveřejnění na úřední desce obce, protokol o revizi.
 
 ### § 36 — Oprava chyby v katastrálním operátu
 
@@ -371,6 +659,42 @@ odvolání → soudní přezkum
 - *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
   > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soused A zjistí, že podle katastrální mapy zasahuje plot souseda B o 1,5 metru na jeho pozemek; tvrdí, že jde o chybu v katastru, a podá návrh na opravu chyby s tím, aby byla hranice „opravena“ ve prospěch skutečného (jím tvrzeného) průběhu. Soused B oponuje, že hranice v katastru odpovídá historickému stavu a že o průběh hranice je mezi nimi spor. Katastrální úřad měřením zjistí, že odchylka je v mezích mezní odchylky stanovené vyhláškou. Účastníci: soused A (navrhovatel opravy), soused B (dotčený vlastník), katastrální úřad.
+
+**2. Právní otázka.** Lze sporný průběh hranice mezi sousedy řešit institutem opravy chyby podle § 36, jestliže ve skutečnosti jde o spor o rozsah vlastnictví, a kdy vůbec jde o „chybu“ ve smyslu odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 1 [zřejmý omyl písm. a) × nepřesnost měření nad mezní odchylku písm. b)], odst. 2 (lhůty 30/60 dnů), odst. 3 (oznámení, není rozhodnutí), odst. 4 (nesouhlas do 30 dnů → rozhodnutí ve věci).
+- *Související ustanovení téhož zákona:* § 37 odst. 1 písm. b) (označení nesporných hranic — sporné se neoznačují); § 32 odst. 2 (řešení rozporů postupem opravy chyby); § 5 odst. 5 (geometrický plán).
+- *Související předpisy:* katastrální vyhláška č. 357/2013 Sb. (mezní odchylky, zejm. body 14.9–14.11 přílohy); zákon č. 500/2004 Sb., správní řád (§ 81 a násl. odvolání, § 94 a násl. přezkum); soudní řád správní (žaloba proti rozhodnutí); OZ — určovací žaloba na vlastnictví.
+- *Judikatura:* opakovaný nosný závěr správních soudů, že institut opravy chyby nelze zneužívat k obcházení soudního řízení o vlastnictví; opravou se mění jen zápis (evidence), nikoli hmotné právo. Z místních zdrojů viz citace NS 21 Cdo 1813/2021 v komentáři (vztah zápisu a hmotného práva).
+
+**4. Subsumpce.** Návrh A směřuje fakticky ke změně hranice ve prospěch jím tvrzeného vlastnictví → jde o spor o rozsah vlastnictví, nikoli o zřejmý omyl podle písm. a). Naměřená odchylka nepřekračuje mezní odchylku → nejde ani o chybu podle písm. b) (přípustná míra nepřesnosti). Není tedy splněn žádný ze znaků „chyby“ podle odst. 1; současně by „oprava“ znamenala nepřípustný zásah do hmotného práva.
+
+**5. Řešení.** Katastrální úřad opravu neprovede, neboť nejde o chybu (odchylka v toleranci a současně spor o vlastnictví). O tom, že opravu neprovedl, doručí navrhovateli oznámení s poučením podle odst. 3. Sdělí-li A do 30 dnů nesouhlas (odst. 4), úřad vydá rozhodnutí ve věci; proti němu lze podat odvolání k zeměměřickému a katastrálnímu inspektorátu a posléze žalobu ve správním soudnictví. Samotný spor o průběh hranice (rozsah vlastnictví) však musí být řešen určovací žalobou u soudu, nikoli opravou chyby. Riziko: provede-li úřad „opravu“ přes existující spor, jde o nezákonné nahrazení soudního rozhodnutí.
+
+**6. Varianty.** (a) Kdyby šlo o prostý překlep v parcelním čísle či chybně převzatý údaj z listiny (porovnatelné s podkladovou listinou), šlo by o zřejmý omyl podle písm. a) a úřad by opravu provedl do 30 (60) dnů. (b) Kdyby zaměření prokázalo překročení mezní odchylky, šlo by o nepřesnost podle písm. b) a oprava (zpravidla geometrickým plánem) by byla namístě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Mapa neodpovídá skutečnému užívání, jde tedy o zřejmý omyl, který musí úřad opravit.“ Neutralizace: zřejmý omyl se vykládá restriktivně a zjišťuje zpravidla porovnáním zápisu s podkladovou listinou; rozpor mezi mapou a faktickým užíváním při sporu o hranici je sporem o vlastnictví, nikoli zřejmým omylem.
+- *Protiargument:* „Oznámení o neprovedení opravy je rozhodnutím, proti němuž se rovnou odvolám.“ Neutralizace: oznámení podle odst. 3 není rozhodnutím; teprve vyjádří-li dotčená osoba nesouhlas do 30 dnů (odst. 4), úřad vydá rozhodnutí ve věci, které je teprve přezkoumatelné v odvolání a ve správním soudnictví.
+- *Slabé místo:* hranice mezi „zřejmým omylem“ a „sporem o právo“ může být v konkrétním případě nejasná; klíčové je posouzení, zda by oprava zasáhla do hmotného práva — pak je nepřípustná a věc patří před soud.
+
+#### H. Praktický závěr
+
+Oprava chyby uvádí evidenci do souladu se skutečností (deklaratorně), avšak nikdy nemění hmotné právo: řeší zřejmý omyl nebo nepřesnost měření nad mezní odchylku, nikoli spor o vlastnictví, který náleží soudu. Postup je dvoufázový — neformální oznámení (odst. 3) a teprve při nesouhlasu rozhodnutí ve věci (odst. 4) s odvoláním a soudním přezkumem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o chybu podle odst. 1 — zřejmý omyl (a) nebo nepřesnost měření překračující mezní odchylku dle vyhlášky (b)?
+- [ ] Nezasáhla by „oprava“ do hmotného práva (spor o vlastnictví/hranici)? Pokud ano, věc patří před soud (určovací žaloba), nikoli do opravy chyby.
+- [ ] Byly dodrženy lhůty (30, ve zvlášť odůvodněných případech 60 dnů od doručení návrhu) a doručeno oznámení s poučením (odst. 3)?
+- [ ] Vyjádřil dotčený nesouhlas do 30 dnů (odst. 4)? Pokud ano, bylo vydáno rozhodnutí ve věci s poučením o odvolání?
+
+**Typicky rozhodné důkazy / podklady:** návrh na opravu, podkladová listina, s níž se zápis porovnává (u zřejmého omylu), výsledky podrobného měření a srovnání s mezními odchylkami dle vyhlášky (u nepřesnosti), geometrický plán, oznámení o (ne)provedení opravy a doklad o doručení, případné rozhodnutí ve věci a podané odvolání.
+
 ### § 37 — Povinnosti vlastníků a jiných oprávněných
 
 <details><summary>📜 <b>Text § 37</b></summary>
@@ -417,6 +741,42 @@ Povinnost **označit nesporné hranice** [písm. b)] je vázána na **přiměře
 - hranice pozemků **sloučených do větších celků**,
 - hranice **druhů pozemků mezi sousedními pozemky téhož vlastníka** (uvnitř vlastnictví jediného vlastníka nemá označení hranice druhů pozemků smysl).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník v dubnu dokončil přístavbu k rodinnému domu a získal kolaudační souhlas, čímž se změnila zastavěná plocha a způsob využití. Změnu však katastrálnímu úřadu neohlásil. V srpnu (tedy více než 30 dnů po vzniku změny) na to katastrální úřad přijde při revizi a vyzve vlastníka, aby ve lhůtě 30 dnů doložil příslušné listiny. Vlastník namítá, že o žádné povinnosti nevěděl. Účastníci: vlastník nemovitosti, katastrální úřad; v pozadí stavební úřad (kolaudace).
+
+**2. Právní otázka.** Porušil vlastník ohlašovací povinnost podle § 37 odst. 1 písm. d) tím, že do 30 dnů od vzniku změny neohlásil dokončení přístavby, a jaké to má důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 písm. d) (ohlásit změny týkající se nemovitostí do 30 dnů od vzniku a předložit dokládající listinu; výjimka u listin zasílaných přímo OVM), dále písm. a)–c), e), f) a odst. 2 (náhradní označení hranic, výjimky).
+- *Související ustanovení téhož zákona:* § 57 (přestupky — porušení ohlašovací povinnosti); § 31 písm. a) a b) (podklady pro zápis jiného údaje); § 39 písm. a) (zasílací povinnost OVM); § 35 (revize); § 30 (zápis nové budovy).
+- *Související předpisy:* zákon č. 283/2021 Sb., stavební zákon (kolaudace jako okamžik vzniku změny způsobu užívání); katastrální vyhláška č. 357/2013 Sb.
+- *Judikatura:* nosný závěr, že ohlašovací povinnost je veřejnoprávní a slouží materiální správnosti katastru; její porušení zakládá přestupkovou odpovědnost (neexistuje-li výjimka přímého zaslání listiny OVM), nikoli neplatnost změny.
+
+**4. Subsumpce.** Dokončením přístavby (kolaudací) vznikla změna údajů katastru týkající se nemovitosti vlastníka → povinnost ohlásit do 30 dnů a předložit listinu podle písm. d). Výjimka (listinu zasílá přímo OVM) se neuplatní — kolaudační souhlas zde nezasílá stavební úřad katastru, iniciace leží na vlastníkovi. Lhůta 30 dnů marně uplynula → povinnost porušena. Výzva úřadu doložit listiny ve lhůtě min. 30 dnů odpovídá písm. c)/f).
+
+**5. Řešení.** Vlastník je povinen na výzvu doložit listiny (kolaudační souhlas, geometrický plán) ve stanovené lhůtě; nesplnění ohlašovací povinnosti v zákonné lhůtě může být přestupkem podle § 57 (sankční stránka komentována v Kapitole 07). Neznalost povinnosti vlastníka nevyviňuje. Změna jako taková je platná bez ohledu na (ne)ohlášení; zápis se však provede až na podkladě doložených listin. Riziko: pokud vlastník listiny nedoloží, hrozí náhradní postupy a sankce; alternativně, byl-li by podklad ze zákona zasílán OVM, ohlašovací povinnost by neexistovala.
+
+**6. Varianty.** (a) Kdyby šlo o změnu vyplývající z listiny, kterou OVM ze zákona zasílá katastru přímo (např. rozhodnutí podle § 39 písm. a), vlastník by ohlašovací povinnost neměl a její „nesplnění“ by nebylo přestupkem. (b) Kdyby úřad vlastníka vyzval k označení nesporných hranic pozemku [písm. b)] a ten by je neoznačil, mohl by úřad podle odst. 2 rozhodnout o jejich označení na náklady vlastníka.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změnu beztak zaeviduje stavební úřad, vlastník nic ohlašovat nemusí.“ Neutralizace: výjimka v písm. d) platí jen u listin, které OVM ze zákona zasílá katastru přímo; běžný kolaudační souhlas takto zasílán není, iniciace zápisu zde leží na vlastníkovi.
+- *Protiargument:* „Vlastník o povinnosti nevěděl, proto ji nemohl porušit.“ Neutralizace: jde o zákonnou veřejnoprávní povinnost; neznalost zákona nevyviňuje, byť může být zohledněna při úvaze o sankci v přestupkovém řízení (§ 57).
+- *Slabé místo:* okamžik „vzniku změny“ (počátek 30denní lhůty) může být sporný (den kolaudace × právní moc × faktické dokončení); přesné určení je nutné pro posouzení, zda byla lhůta dodržena.
+
+#### H. Praktický závěr
+
+§ 37 ukládá vlastníkům a oprávněným soustavu veřejnoprávních povinností sloužících aktuálnosti katastru; nejvýznamnější je ohlašovací povinnost (do 30 dnů od vzniku změny doložená listinou) s výjimkou tam, kde listinu zasílá přímo OVM. Hranice pozemků se označují jen nesporné a na náklad vlastníka, jinak hrozí náhradní označení na jeho náklady (odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vznikla změna údajů katastru týkající se nemovitosti? Pokud ano, běží 30denní ohlašovací lhůta od jejího vzniku [písm. d)].
+- [ ] Platí výjimka (zasílá listinu přímo OVM podle § 39 písm. a)? Pokud ano, vlastník ohlašovací povinnost nemá.
+- [ ] Jde o výzvu k označení hranic [písm. b)] — jsou hranice nesporné? Byla dána lhůta min. 30 dnů? (Sporné a vnitřní hranice se neoznačují — odst. 2.)
+- [ ] Při nesplnění: zvažuje se přestupek podle § 57 a/nebo náhradní postup (označení hranic na náklady vlastníka)?
+
+**Typicky rozhodné důkazy / podklady:** kolaudační souhlas/rozhodnutí, geometrický plán, ohlášení vlastníka a doklad o datu jeho podání, výzva katastrálního úřadu a doklad o doručení, doklady o vzniku změny a běhu lhůty, případně potvrzení správního orgánu podle písm. e).
+
 ### § 38 — Povinnosti obcí
 
 <details><summary>📜 <b>Text § 38</b></summary>
@@ -451,6 +811,42 @@ Povinnost **označit nesporné hranice** [písm. b)] je vázána na **přiměře
 Povinnosti pod písm. a) a c) korespondují s úpravou revize (§ 35) a obnovy katastrálního operátu (§ 40 a násl.) a navazují na povinnost obce vyhlásit veřejnou vyhláškou výzvu oprávněnému z neidentifikovatelného věcného břemene podle § 35 odst. 2.
 
 **Odstavec 2 — náhradní označení hranic obce.** Stejně jako u vlastníků (§ 37 odst. 2) platí, že neoznačí-li obec své územní hranice podle písm. b), může katastrální úřad **rozhodnout** o jejich označení **na náklady obce**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Katastrální úřad oznámí obci zahájení revize katastru v jednom z jejích katastrálních území a požádá ji o vyhlášení revize, vyslání zástupce a součinnost při zajištění účasti vlastníků. Obec oznámení nevyhlásí, zástupce nevyšle a na opětovnou výzvu k označení svých územních hranic nereaguje. Revize tím vázne. Účastníci: obec, katastrální úřad; dotčení vlastníci v daném území.
+
+**2. Právní otázka.** Jaké povinnosti má obec při revizi katastru a obnově operátu a jak může katastrální úřad reagovat, neoznačí-li obec na výzvu své územní hranice?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 1 písm. a)–d) (vyhlášení revize/obnovy, vyslání zástupce, součinnost a informace; péče o trvalé označení a označení územních hranic na výzvu; spolupráce; vyjádření k pomístnímu názvosloví) a odst. 2 (náhradní označení hranic obce na náklady obce).
+- *Související ustanovení téhož zákona:* § 35 (revize katastru, odst. 2 — veřejná vyhláška u neidentifikovatelného břemene); § 40 a násl. (obnova katastrálního operátu); § 37 odst. 2 (obdobné náhradní označení u vlastníků); § 29 odst. 1 (vyjádření obce při změně hranice k. ú.).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích (samostatná působnost, úřední deska, způsob vyhlášení v místě obvyklý); správní řád (rozhodnutí podle odst. 2).
+- *Judikatura:* nosný závěr, že obec je zákonným součinnostním partnerem katastrálního úřadu na místní úrovni; neplnění součinnostních povinností lze u označení hranic řešit náhradním postupem na náklady obce.
+
+**4. Subsumpce.** Zahájení revize → obci vzniká povinnost vyhlásit ji způsobem v místě obvyklém, vyslat zástupce a spolupracovat [písm. a), c)]. Výzva k označení územních hranic → povinnost obce je označit ve stanovené lhůtě určeným způsobem [písm. b)]. Nesplnění povinnosti označit hranice → aktivuje se odst. 2 (náhradní označení na náklady obce). Povinnosti pod písm. a)/c) korespondují s úpravou revize (§ 35) a obnovy (§ 40 a násl.).
+
+**5. Řešení.** Katastrální úřad u nesplnění povinnosti označit územní hranice může rozhodnout podle odst. 2, že dá hranice označit na náklady obce (obdobně jako u vlastníků dle § 37 odst. 2). Pro vyhlášení revize a součinnost při zajištění účasti vlastníků platí, že jde o zákonnou povinnost obce v rámci výkonu veřejné správy; její neplnění komplikuje revizi a může vyvolat dílčí opatření, avšak pro označení hranic má zákon výslovný náhradní nástroj (odst. 2). Riziko: bez součinnosti obce klesá efektivita revize a roste riziko nesouladu evidence.
+
+**6. Varianty.** (a) Kdyby šlo o hranice pozemků jednotlivého vlastníka (nikoli územní hranice obce), uplatnila by se úprava § 37 (povinnost vlastníka), nikoli § 38. (b) Kdyby obec spolupracovala a vyhlásila revizi, ale měla výhrady ke změně pomístního názvosloví, uplatnila by se její povinnost (a oprávnění) vyjádřit se podle písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Označení územních hranic obce není vynutitelné, jde jen o doporučení.“ Neutralizace: odst. 1 písm. b) zakládá právní povinnost a odst. 2 výslovně umožňuje katastrálnímu úřadu rozhodnout o náhradním označení hranic na náklady obce — povinnost je tedy vynutitelná.
+- *Protiargument:* „Vyhlášení revize je věcí katastrálního úřadu, obec s tím nemá co do činění.“ Neutralizace: písm. a) ukládá vyhlášení zahájení revize/obnovy způsobem v místě obvyklém právě obci, která je nositelem místní publicity (úřední deska) a kontaktu na vlastníky.
+- *Slabé místo:* u povinností pod písm. a), c), d) zákon nestanoví výslovný náhradní/sankční nástroj srovnatelný s odst. 2 (ten dopadá jen na označení hranic); vynutitelnost ostatních povinností se opírá o obecné mechanismy výkonu veřejné správy a součinnosti.
+
+#### H. Praktický závěr
+
+§ 38 činí z obce zákonného partnera katastrálního úřadu při revizi a obnově operátu: obec vyhlašuje jejich zahájení, vysílá zástupce, spolupracuje, pečuje o územní hranice a vyjadřuje se k pomístnímu názvosloví. U neoznačení územních hranic má úřad výslovný nástroj — náhradní označení na náklady obce (odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oznámil katastrální úřad obci zahájení revize/obnovy a vyhlásila ji obec způsobem v místě obvyklým [písm. a)]?
+- [ ] Vyslala obec zástupce a spolupracovala při zajištění účasti vlastníků a poskytnutí informací [písm. a), c)]?
+- [ ] Označila obec na výzvu své územní hranice ve stanovené lhůtě určeným způsobem [písm. b)]? Pokud ne, zvažuje se náhradní označení na náklady obce (odst. 2).
+- [ ] Bylo třeba vyjádření obce ke změnám pomístního názvosloví [písm. d)] či ke změně hranice k. ú. (§ 29)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení katastrálního úřadu o zahájení revize/obnovy a doklad o jeho doručení obci, doklad o vyhlášení revize obcí (úřední deska, způsob v místě obvyklý), výzva k označení územních hranic a doklad o doručení, případné rozhodnutí o náhradním označení hranic na náklady obce, protokol o revizi.
 
 ### § 39 — Povinnosti orgánů veřejné moci
 
@@ -488,6 +884,42 @@ Povinnosti pod písm. a) a c) korespondují s úpravou revize (§ 35) a obnovy k
 **Písm. c)** zakládá tzv. **potvrzovací (verifikační) součinnost** — koresponduje s povinností vlastníka podle § 37 odst. 1 písm. e) požádat o takové potvrzení.
 
 **Písm. d)** vyjadřuje princip **bezplatného sdílení dat** mezi orgány veřejné správy pro účely vedení katastru (vazba na § 32 o přejímání údajů z jiných systémů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud vydá pravomocný rozsudek, jímž určí vlastnické právo k nemovitosti, a podle zvláštního předpisu jej zašle katastrálnímu úřadu k zápisu. Listina obsahuje zřejmou nesprávnost — v jednom parcelním čísle je překlep. Katastrální úřad zároveň od stavebního úřadu, který vydal rozhodnutí týkající se téže nemovitosti, neobdržel toto rozhodnutí ani po 50 dnech od jeho právní moci. Účastníci: soud, stavební úřad (oba OVM), katastrální úřad, dotčený vlastník.
+
+**2. Právní otázka.** Smí katastrální úřad sám opravit překlep v listině vydané OVM a jaké jsou povinnosti OVM ohledně zasílání rozhodnutí katastru, včetně postavení soudů a soudních exekutorů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 písm. a) (zasílání rozhodnutí do 30 dnů; výjimka pro vkladové listiny vyjma soudů a exekutorů), písm. b) (oprava zřejmých nesprávností v listině OVM na výzvu), písm. c) (potvrzování správnosti údajů), písm. d) (bezplatné poskytování údajů z informačních systémů).
+- *Související ustanovení téhož zákona:* § 31 písm. b) (rozhodnutí OVM jako podklad zápisu); § 37 odst. 1 písm. d) a e) (výjimka z ohlašovací povinnosti vlastníka; žádost o potvrzení); § 32 (přejímání údajů z jiných systémů); § 36 (oprava chyby).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád; soudní řád správní; exekuční řád (postavení soudních exekutorů); zákon č. 111/2009 Sb., o základních registrech.
+- *Judikatura:* nosný závěr, že katastrální úřad není oprávněn měnit obsah cizí veřejné listiny; zřejmé nesprávnosti v listině OVM odstraňuje její vydavatel, nikoli katastr.
+
+**4. Subsumpce.** Rozsudek je listinou vydanou OVM (soudem) → soud jej zasílá katastru; výjimka pro vkladové listiny se na soudy nevztahuje [písm. a) část za středníkem]. Překlep v parcelním čísle je zřejmou nesprávností → katastrální úřad ji nesmí opravit sám, nýbrž vyzve soud podle písm. b), aby sdělil správné údaje nebo listinu opravil (umožňuje-li to jiný předpis). Nezaslání rozhodnutí stavebním úřadem do 30 dnů od právní moci → porušení povinnosti podle písm. a).
+
+**5. Řešení.** U vadné listiny katastrální úřad vyzve soud (jako vydavatele) k opravě či sdělení správných údajů podle písm. b); teprve poté provede zápis na podkladě bezvadné/opravené listiny. U nečinného stavebního úřadu úřad urguje splnění zasílací povinnosti podle písm. a) (lhůta 30 dnů od právní moci, resp. vydání). Vlastník nemá v rozsahu listin zasílaných přímo OVM ohlašovací povinnost (§ 37 odst. 1 písm. d), takže prodlení OVM nelze klást k tíži jemu. Riziko: bez opravy listiny by zápis převzal chybný údaj a vyvolal nutnost následné opravy chyby (§ 36).
+
+**6. Varianty.** (a) Kdyby vkladovou listinu zasílal jiný OVM než soud nebo soudní exekutor, neměl by ji katastru zasílat vůbec [písm. a) — výjimka pro vkladové listiny]; vklad iniciuje účastník návrhem. (b) Kdyby k navrhovanému zápisu nebylo třeba rozhodnutí ani opatření OVM, uplatnila by se potvrzovací součinnost podle písm. c) (na žádost vlastníka dle § 37 odst. 1 písm. e).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Katastrální úřad může zřejmý překlep v listině opravit sám, jde přece o evidentní chybu.“ Neutralizace: písm. b) ukládá obrátit se na vydavatele listiny (OVM), aby sdělil správné údaje nebo listinu opravil; katastr není oprávněn měnit obsah cizí veřejné listiny.
+- *Protiargument:* „Všechny listiny, na jejichž základě se provádí vklad, musí OVM zasílat katastru.“ Neutralizace: písm. a) výslovně stanoví, že vkladové listiny OVM katastru nezasílají — s výjimkou soudů a soudních exekutorů; ostatní OVM vkladové podklady nezasílají, neboť vklad iniciuje účastník.
+- *Slabé místo:* možnost OVM listinu opravit je podmíněna tím, že to „umožňuje jiný právní předpis“; není-li oprava procesně přípustná, může vzniknout patová situace vyžadující jiné řešení (např. nové rozhodnutí).
+
+#### H. Praktický závěr
+
+§ 39 ukládá orgánům veřejné moci zasílat svá rozhodnutí katastru (do 30 dnů; vkladové listiny nezasílají vyjma soudů a exekutorů), na výzvu opravovat zřejmé nesprávnosti ve vlastních listinách, potvrzovat správnost údajů a bezplatně poskytovat data ze svých systémů. Katastrální úřad cizí veřejnou listinu sám neopravuje — obrací se na jejího vydavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ukládá zvláštní předpis OVM povinnost zaslat rozhodnutí/souhlas/oznámení katastru? Byla dodržena 30denní lhůta (od právní moci, resp. vydání) [písm. a)]?
+- [ ] Jde o vkladovou listinu? Pokud ano, OVM ji nezasílá — vyjma soudů a soudních exekutorů [písm. a)].
+- [ ] Obsahuje listina OVM zřejmou nesprávnost? Pokud ano, vyzval katastr vydavatele k opravě/sdělení správných údajů [písm. b)] — nikoli opravu vlastní silou?
+- [ ] Není-li třeba rozhodnutí/opatření OVM: potvrdil OVM správnost údajů v návrhu v rozsahu své působnosti [písm. c)]? Byly případně bezplatně poskytnuty údaje ze systémů OVM [písm. d)]?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/usnesení OVM (soudu, exekutora, správního úřadu), doklad o jeho právní moci a o datu zaslání katastru, výzva katastrálního úřadu k opravě zřejmé nesprávnosti a odpověď/oprava vydavatele, potvrzení správnosti údajů podle písm. c), žádost o poskytnutí údajů a doklad o jejich bezplatném poskytnutí.
 
 ---
 
