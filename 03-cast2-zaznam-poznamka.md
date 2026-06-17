@@ -59,6 +59,11 @@ Z výčtu plyne, že záznam je **služebním nástrojem veřejné majetkové sp
 
 **Vztah k vkladu:** je-li svěření, předání či právo hospodařit svou povahou věcným právem zapisovaným vkladem (což u standardních institutů § 19 není), uplatní se vklad. § 19 vědomě volí pro tato práva režim záznamu právě proto, že vznikají **mimo katastr** — rozhodnutím zřizovatele, opatřením podle zákona o majetku státu apod. — a katastr je má jen evidovat.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 278/2021 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707304) — 12. 1. 2023
+  > „Svěření majetku se zapisuje do katastru nemovitostí, a to záznamem dle § 19 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon); je proto známo všem"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Příspěvková organizace zřízená krajem (střední škola) má usnesením zastupitelstva a zřizovací listinou svěřen do hospodaření areál školy. Kraj jako vlastník je v katastru zapsán; u nemovitosti však dosud není vyznačeno, že hospodaří příspěvková organizace. Organizace chce s pozemkem v rámci běžné správy nakládat (pronájem části areálu) a potřebuje, aby z katastru bylo seznatelné její oprávnění. Důkazy, jež je třeba obstarat: zřizovací listina příspěvkové organizace, usnesení zastupitelstva o předání majetku k hospodaření, protokol o předání, výpis z katastru prokazující vlastnictví kraje.
@@ -177,6 +182,11 @@ Záznam je návrhové řízení s širším okruhem navrhovatelů než vklad. Kl
 **Klíčové omezení:** katastrální úřad **nezkoumá hmotněprávní platnost** podkladové listiny ani věcnou správnost rozhodnutí, které právo založilo. Vychází z toho, že právo již existuje (vzniklo mimo katastr), a záznam je pouze promítá. Pokud by listina měla hmotněprávní vady, není to v řízení o záznamu důvodem pro odepření zápisu — náprava se hledá jinde (zrušení vadného rozhodnutí, soudní určovací žaloba, popř. poznámka spornosti podle § 24).
 
 **Rozhodovací režim (§ 21 odst. 2):** o záznamu se **nevydává rozhodnutí ve formě správního rozhodnutí**. Je-li listina způsobilá, katastrální úřad záznam **prostě provede**. Není-li způsobilá, úřad nevydává zamítavé rozhodnutí, nýbrž tomu, kdo listinu předložil, **písemně sdělí důvody** neprovedení a **listinu vrátí**. Proti tomuto sdělení tak nelze vést běžný opravný prostředek; obrana se vede mimo katastrální řízení (odstranění vad listiny, nové podání, popř. soudní cesta). Tato úspornost je odůvodněna tím, že záznam nezasahuje do hmotných práv — pouze eviduje.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 232/2015 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/637181) — 13. 1. 2016
+  > „Neprovedení záznamu do katastru na základě předložených listin a jejich vrácení zhotoviteli (navrhovateli záznamu), popř. dalším oprávněným osobám, je po marném uplynutí lhůty k provedení faktického úkonu zásahem. … Pro běh subjektivní lhůty je podstatné doručení sdělení katastrálního úřadu, že záznam nebyl proveden a vrácení listin (popř. sdělení i důvodů, z jakých se tak stalo, nyní již povinného, § 21 odst. 2 zákona č. 256/2013 Sb.)"
 
 #### F. Kazuistika
 
@@ -451,6 +461,15 @@ Praktický důsledek: poznámka spornosti má největší ochrannou sílu, je-li
 
 > **Křížové odkazy:** § 984–986 OZ (zák. č. 89/2012 Sb.) — materiální publicita veřejného seznamu, ochrana dobré víry, poznámka spornosti, lhůty 1 měsíc / 2 měsíce / 3 roky; přechodné ustanovení § 3064 OZ (zvláštní běh lhůt v prvním roce účinnosti). Podrobně viz komentář k OZ — `17-cast3-hlava1-2-drzba-vlastnictvi.md` (oddíl § 984–986).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [77 A 18/2024 - 227](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743614) — 28. 5. 2025
+  > „… poznámka spornosti nemá konstitutivní význam, a neosvědčuje tedy existenci toliko tvrzeného věcného práva. … Poznámka je upravena v § 22 a násl. tohoto zákona a má (na rozdíl od vkladu) funkci pouze informativní. Ze shora uvedeného § 24 odst. 1 katastrálního zákona plyne, že katastrální úřad poznámku spornosti zapíše na základě splnění formálních předpokladů, kterými jsou žádost dotčené osoby a průkaz toho, že se tato osoba svého práva domáhá u soudu. Sám katastrální úřad tedy nezkoumá (tím méně rozhoduje), zda daná osoba je vskutku oprávněným …"
+- *NSS* [77 A 27/2024 - 152](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744623) — 28. 5. 2025
+  > „Poznámka spornosti podle § 24 odst. 1 zákona č. 256/2013 Sb., katastrálního zákona totiž není způsobilá osvědčit vlastnické (ani jiné věcné) právo k nemovitosti. Poznámka spornosti plní toliko informační funkci o tom, že se někdo domáhá odstranění jím tvrzeného nesouladu v katastru nemovitostí. Katastrální úřad poznámku spornosti zapíše na základě splnění formálních předpokladů, kterými jsou žádost dotčené osoby a průkaz toho, že se tato osoba svého práva domáhá u soudu"
+- *NSS* [6 A 231/2014 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/534842) — 8. 6. 2016
+  > „V tomto směru je nutné poukázat rovněž na smysl a vymezení poznámky spornosti – touto poznámkou se žádné věcné právo nevkládá, neregistruje, nijak nemodifikuje. Poznámka samotná je pouze poznámkou, tedy určitou informací ve veřejném seznamu, že s předmětnou nemovitostí se nějak v právní sféře nakládá. Tato poznámka však žádné právní účinky sama o sobě nemá a mít nemůže; … Poznámka spornosti je tak pouze informační poznámkou pro případného nabyvatele nemovitosti, že nemovitosti jí označené jsou předmětem určitého sporného řízení …"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** A je v katastru zapsán jako vlastník pozemku, který nabyl od B na základě kupní smlouvy. Skutečný vlastník C tvrdí, že smlouva mezi B a A je neplatná (B nebyl oprávněn převádět). C podal žalobu o určení neplatnosti převodního právního jednání a o určení svého vlastnictví. Dozvěděl se o zápisu A před třemi týdny. A mezitím jedná o prodeji pozemku úplatně D, který o sporu neví. Důkazy: žaloba s doložkou soudu, doklad o dni, kdy se C o zápisu dozvěděl, výpis z katastru zachycující zápis ve prospěch A.
@@ -528,6 +547,11 @@ Poznámka spornosti je klíčová pojistka materiální publicity: vylučuje dob
 
 **§ 25 odst. 3 — místní příslušnost: kterýkoli katastrální úřad.** Protože poznámka k osobě se týká všech nemovitostí napříč republikou, zápis i výmaz **bezodkladně** zajistí **kterýkoli** katastrální úřad, jemuž je doručena příslušná listina. Tím je prolomena obvyklá místní příslušnost (jinak vázaná na katastrální území, kde leží nemovitost) — odpovídá to celostátní povaze osobního omezení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Afs 148/2015 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639109) — 14. 7. 2016
+  > „O tom, že exekuce probíhá, a tudíž jsou s prodejem spojena omezení, je nabyvatel informován již z listu vlastnictví, do kterého je informace o nařízení exekuce zapisována [viz § 9 odst. 1 písm. c) zákona č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem a § 25 odst. 1 písm. a) zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon)]"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Insolvenční soud vydal rozhodnutí o úpadku dlužníka — fyzické osoby, která vlastní nemovitosti v obvodech několika různých katastrálních pracovišť (chata v jednom kraji, byt v jiném). Údaj o úpadku je v insolvenčním rejstříku. Věřitel chce, aby se omezení dlužníka projevilo v katastru u všech jeho nemovitostí. Dlužník přesto jedná o prodeji bytu. Důkazy: vyrozumění insolvenčního soudu o rozhodnutí o úpadku, popř. údaje z insolvenčního rejstříku, výpisy z katastru ke všem nemovitostem dlužníka.
@@ -578,6 +602,13 @@ Poznámky k osobě (exekuce, úpadek, konkurs, dispoziční omezení) se vážou
 § 26 obsahuje **odkazovací normu**: na zápis a výmaz poznámky se **přiměřeně** užijí ustanovení o **záznamu** (§ 19–21). Prakticky to znamená, že katastrální úřad i u poznámky provádí jen **formální kontrolu** obdobnou § 21 — zkoumá, zda je podklad způsobilý (zda listina/rozhodnutí dokládá poznamenávanou skutečnost, zda navazuje na zápisy, zda pochází od oprávněného iniciátora dle § 22), nikoli hmotněprávní platnost. Je-li podklad způsobilý, poznámku zapíše; jinak sdělí písemně důvody a listinu vrátí.
 
 Slovo **„přiměřeně"** zohledňuje odlišnou povahu poznámky: některá pravidla o záznamu se uplatní s modifikací (např. okruh iniciátorů je u poznámky vymezen samostatně v § 22, lhůty a účinky poznámky spornosti plynou z § 24 a § 985–986 OZ). § 26 tak zabraňuje duplicitní úpravě procesního postupu — sdílí se s režimem záznamu jako evidenčního, nikoli konstitutivního zápisu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 335/2019 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/655430) — 16. 7. 2020
+  > „Při výmazu tohoto práva je třeba postupovat přiměřeně jako při výmazu poznámky, přičemž dle § 26 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), se pro zápis a výmaz poznámky použijí přiměřeně ustanovení o zápisu a výmazu záznamem"
+- *NSS* [6 A 231/2014 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/534842) — 8. 6. 2016
+  > „Pokud žalovaný uvádí, že při zápisu této poznámky vychází z ust. § 26 katastrálního zákona, pak podle názoru soudu však ve svém výkladu nemůže jít tak daleko, aby „přiměřené použití“ takového procesního postupu vztahoval na samotné věcné hodnocení podle ust. § 17 odst. 4 katastrálního zákona, neboť takovým výkladem do ust. § 24 katastrálního zákona vnáší podmínky, které v tomto ustanovení zjevně nejsou"
 
 #### F. Kazuistika
 
@@ -636,6 +667,11 @@ Slovo **„přiměřeně"** zohledňuje odlišnou povahu poznámky: některá pr
 - **poznámka k osobě** — výmaz zajistí kterýkoli katastrální úřad (§ 25 odst. 3).
 
 **Účinek výmazu.** Výmaz poznámky **nemá hmotněprávní účinek na samotné právo** — pouze odstraňuje informaci/omezení z evidence. Po výmazu poznámky spornosti se obnovuje plná ochrana materiální publicity (§ 984 OZ) ve prospěch dalších nabyvatelů, neboť z katastru již spornost neplyne.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 A 142/2018 - 100](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/475651) — 16. 12. 2020
+  > „K zániku tohoto zajištění proto dochází ze zákona okamžikem zániku nebo promlčení zajištěného závazku. Podle § 27 zákona č. 256/2013 Sb., o katastru nemovitostí …, poznámku vymaže katastrální úřad na základě rozhodnutí nebo oznámení soudu, … nebo k doloženému návrhu toho, v jehož zájmu má být poznámka vymazána, pokud důvody pro její vyznačení pominuly"
 
 #### F. Kazuistika
 

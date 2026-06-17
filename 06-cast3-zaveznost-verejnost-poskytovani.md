@@ -66,6 +66,13 @@ Tyto tři instituty mají různý předmět (evidenční údaje × přístupnost
 
 Praktický důsledek odlišení: chyba v **geometrickém určení** (§ 51) se napravuje opravou chyby v katastrálním operátu (§ 36 KZ) nebo upřesněním/zpřesněním hranic, nikoli žalobou na určení vlastnictví. Naopak nesoulad **zapsaného práva** se skutečností se řeší cestou OZ (poznámka spornosti dle § 985, § 986 OZ; žaloba na určení; materiální publicita ve prospěch dobrověrného nabyvatele dle § 984 OZ). Tomu odpovídá i to, že § 51 je zařazen v KZ (evidenční předpis), kdežto materiální a formální publicita zápisu práv jsou upraveny v OZ (hmotněprávní úprava věcných práv).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 4/2023 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718373) — 23. 1. 2024
+  > „Katastr nemá v tomto ohledu konstitutivní význam; druh pozemku ani způsob využití nejsou závaznými údaji na rozdíl od parcelního čísla a geometrického určení nemovitosti [srov. § 51 zákon č. 256/2013 Sb., zákon o katastru nemovitostí (katastrální zákon)], ani nejsou jinak právně privilegovány na rozdíl např. od údajů o věcných právech (srov. § 980 zákona č. 89/2012 Sb., občanský zákoník)"
+- *NSS* [4 As 277/2023 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721225) — 10. 5. 2024
+  > „Podle § 51 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), ve znění pozdějších předpisů, jsou totiž pro úkony činěné ve vztahu ke katastru nemovitostí závazné pouze údaje o parcelním číslu, geometrickém určení nemovitosti, názvu a geometrickém určení katastrálního území.“ Jimi byly předmětné pozemky v rozhodnutí vyvlastňovacího úřadu správně identifikovány, jedná se tak o právně existující nemovitosti"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Prodávající P a kupující K uzavřou kupní smlouvu, jejímž předmětem má být „zahrada za domem o výměře cca 600 m²“. V katastru je tento pozemek veden jako parcela č. 215/4 v k. ú. Horní Lhota, evidovaná výměra 642 m². Smlouva však pozemek označí pouze slovním popisem a vlastním náčrtem prodávajícího, bez uvedení parcelního čísla a katastrálního území. Katastrální úřad návrh na vklad zamítne pro neurčitost předmětu právního jednání. Důkazy k obstarání: znění kupní smlouvy, výpis z LV k parcele č. 215/4, snímek z katastrální mapy, výzva katastrálního úřadu k doplnění návrhu.
@@ -172,6 +179,11 @@ Technicky rozlišuje § 52 odst. 4 tři typy výstupů: a) kopie písemností v 
 | Sbírka listin (katastru / pozemkové knihy) | **NE** | ověřené/prosté kopie, výstupy či duplikáty (§ 52 odst. 4); jen po prokázání totožnosti; příjemce se eviduje |
 
 Vztah k ochraně osobních údajů: § 52 představuje **zákonem stanovené zpřístupnění** údajů (právní titul zpracování), avšak jeho odstavce 2 až 5 zároveň zavádějí **proporční omezení** u nejcitlivějších kategorií (anonymní plošný přístup je vyloučen, příjemci se evidují). Tím KZ vyvažuje veřejnost katastru s ochranou soukromí; doplňující správcovský režim upravuje § 54 KZ (viz dále).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 46/2025 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744163) — 18. 6. 2025
+  > „Jak pak plyne z § 52 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), každý má právo do katastru nahlížet, pořizovat si z něj pro svou potřebu opisy, výpisy nebo náčrty a získávat z něj údaje ze sbírky listin, pokud není stanoveno jinak (zásada formální publicity). Pokud žalobce tohoto práva nevyužil, jde to v souladu s touto zásadou k jeho tíži"
 
 #### F. Kazuistika
 
@@ -402,6 +414,11 @@ Práva subjektu údajů (oprava, omezení, námitka, oznámení incidentu) uplat
 | Sledování změn (§ 55 odst. 6) | dle vyhlášky | informování vlastníků o postupu zápisů |
 | Souhrnné přehledy o půdním fondu (§ 55 odst. 7) | bezúplatné | zveřejnění dálkovým přístupem |
 | Sbírka listin (§ 52 odst. 4) | ověřené za úplatu; prosté za úplatu (přílohy vyhlášky) | jen po prokázání totožnosti |
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 5/2014 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/536795) — 1. 4. 2016
+  > „Výpis z katastru nemovitostí je podle § 55 odst. 2 zákona č. 256/2013 Sb., o katastru nemovitostí, veřejnou listinou, u které se podle ustanovení § 50 odst. 4 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů (dále jen „správní řád“), presumuje správnost údajů, dokud není prokázán opak"
 
 #### F. Kazuistika
 

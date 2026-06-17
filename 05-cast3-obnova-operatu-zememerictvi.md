@@ -105,6 +105,11 @@ VYHLÁŠENÍ PLATNOSTI (§ 46)               není-li námitek / o nich pravomoc
 
 **Zemřelý vlastník (odst. 5)** zajišťuje procesní zastoupení nemovitosti, u níž dosud nebylo pravomocně rozhodnuto o dědictví: jedná správce pozůstalosti nebo vykonavatel závěti, jinak dědici, kteří dědictví neodmítli. Katastrální úřad si může od soudu vyžádat sdělení o těchto osobách — jde o nutnou součinnost s pozůstalostním řízením.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 12/2018 - 111](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653189) — 19. 12. 2019
+  > „Nejvyšší správní soud přesto v této souvislosti dodává, že obnova katastrálního operátu je vyhotovením nového souboru geodetických informací a nového souboru popisných informací v elektronické podobě [§ 40 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon)] a o otázkách obnovy katastrálního operátu přísluší rozhodovat katastrálnímu úřadu. Jedná se o samostatné řízení nesouvisející s řízením týkajícím se stavby podle stavebního zákona"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** V katastrálním území Dolní Lhota zahájí katastrální úřad obnovu operátu novým mapováním. V katastru je u parcely č. 215 zapsáno věcné břemeno chůze a jízdy ve prospěch „vlastníka usedlosti čp. 12", zápis byl převzat z bývalé pozemkové knihy, bez rodného čísla a adresy oprávněného. Současný vlastník čp. 12 pan Novák o břemenu ví, ale o zahájení obnovy se nedozví, protože je dlouhodobě v zahraničí a veřejnou vyhlášku na úřední desce nesleduje. Důkazy: oznámení o zahájení obnovy, text veřejné vyhlášky (výzva oprávněným z věcných břemen), záznam o vyvěšení na úřední desce obce a katastrálního úřadu, doklad o době vyložení obnoveného operátu.
@@ -233,6 +238,13 @@ Nové mapování je nejnáročnější způsob obnovy a volí se jen tam, kde do
 
 **Nepřítomnost vlastníka (odst. 6):** neúčast vlastníka nebrání využití výsledků zjišťování. Vlastník tedy nemůže obnovu blokovat tím, že se nedostaví; jeho ochranou je možnost podat námitky při vyložení operátu (§ 45 odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 109/2022 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715423) — 23. 10. 2023
+  > „Nejvyšší správní soud připomíná, že správní (katastrální) orgány ani správní soudy v souvislosti s obnovou katastrálního operátu nejsou oprávněny řešit spory o určení průběhu hranice mezi jednotlivými pozemky, tedy spory o rozsah vlastnického práva … Nesouhlasí-li vlastníci pozemků s průběhem hranic vyplývajícím z katastrálních map, tj. nesouhlasí-li s rozsahem svého vlastnického práva, mohou se určení průběhu hranic domáhat u obecného soudu v občanskoprávním řízení. V řízení o námitkách proti obnovenému katastrálnímu operátu takové nároky s úspěchem vznášet nelze. … Bylo by v rozporu se smyslem právní úpravy, aby byla sporná hranice vyznačena na základě operátu, který se ve vztahu k dané hranici s ohledem na nedořešenou námitku nemohl stát platným"
+- *NSS* [6 As 270/2021 - 65](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699246) — 4. 4. 2022
+  > „Musí tak činit prostředky k tomu určenými, a nikoliv v rámci obnovy katastrálního operátu, jež sestává pouze z úkonů evidenčního a technického rázu a nesměřuje ke změně právních vztahů. Nesouhlasí-li stěžovatelé s průběhem hranic vyplývajícím z katastrálních map, tj. nesouhlasí-li s rozsahem svého vlastnického práva, mohou se určení průběhu hranic domáhat u obecného soudu v občanskoprávním řízení"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Při zjišťování hranic v rámci nového mapování komise zjistí, že plot mezi parcelami č. 88 (vlastník A) a č. 89 (vlastník B) stojí o 1,2 m jinde, než hranici zobrazuje dosavadní katastrální mapa. A tvrdí, že plot stojí na hranici „odjakživa" a hranice tudy skutečně vede; B tvrdí, že platí hranice z mapy a plot je posunut na jeho úkor. Předseda komise oba na nesoulad upozorní. Důkazy: dosavadní katastrální operát (zákres hranice), protokol o zjišťování hranic, fotodokumentace plotu, případné starší geometrické plány, tvrzení a podpisy účastníků v protokolu.
@@ -285,6 +297,11 @@ Nové mapování je nejnáročnější způsob obnovy a volí se jen tam, kde do
 § 43 upravuje nejjednodušší způsob obnovy — **digitalizaci** dosavadní (analogové) katastrální mapy do elektronické podoby. Na rozdíl od nového mapování se **neprovádí nové měření v terénu ani zjišťování hranic**; přebírá se geometrické a polohové určení z dosavadní mapy. Cílem je dovršit přechod na digitální katastrální mapu při zachování dosavadní polohové přesnosti.
 
 Katastrální vyhláška doplňuje, že při přepracování lze **přečíslovat parcely** (je-li číslování nepřehledné nebo poddělení kmenových čísel příliš vysoké) a upravuje zacházení s výměrami: při shodném kódu způsobu určení výměry se ponechají dosavadní výměry, nejsou-li překročeny mezní odchylky; jinak se zavedou výměry určené ze souřadnic lomových bodů. I u přepracování se obnovený operát vyloží a běží lhůta pro námitky podle § 45.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 127/2024 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737238) — 9. 12. 2024
+  > „Jedním ze způsobů, jak obnovit katastrální operát – vyhotovit nové elektronické soubory geodetických a popisných informací – je přepracovat existující soubor geodetických informací, tj. převést dosavadní katastrální mapu do elektronické podoby [§ 40 odst. 1 písm. b) a § 43 zákona č. 256/2013 Sb., katastrálního zákona]. … Obnova katastrálního operátu je souborem úkonů evidenčního a technického rázu; jejím cílem není měnit právní vztahy v území, ale co nejpřesněji je v elektronické podobě zaznamenat"
 
 #### F. Kazuistika
 
@@ -417,6 +434,11 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 
 **Vztah k § 44:** ustanovení § 45 se vůbec **nepoužije** tam, kde je operát obnoven na podkladě pozemkových úprav (poslední věta § 44).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 299/2021 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713450) — 7. 8. 2023
+  > „Možnost podávání námitek omezil zákonodárce patnáctidenní lhůtou, v rámci níž mohou vlastníci a jiné oprávněné osoby namítat nesprávnosti obsahu obnoveného katastrálního operátu, z důvodů právní jistoty a zajištění důvěry ve správnost údajů obsažených v katastru nemovitostí. … Je třeba si uvědomit, že včasné námitky určují rámec požadovaného přezkumu obsahu obnoveného katastrálního operátu, který z důvodu právní jistoty a zajištění důvěry ve správnost údajů obsažených v katastru nemovitostí nemůže být po uplynutí lhůty pro podání námitek rozšiřován"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Katastrální úřad obnovil operát novým mapováním v obci Březina a vyložil jej k veřejnému nahlédnutí na 10 pracovních dnů; obec termín oznámila na úřední desce 30 dnů předem a nepřítomným vlastníkům úřad zaslal oznámení. Vlastník pan Kratochvíl, který má trvalý pobyt mimo obec, oznámení obdržel pozdě a námitku proti zobrazení své stavby podal teprve 18. den po skončení vyložení. Důkazy: doklad o vyložení (termín, délka), oznámení obce na úřední desce, doklad o odeslání a doručení oznámení nepřítomnému vlastníkovi, datum podání námitky.
@@ -481,6 +503,11 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 **Den určený jiným právním předpisem (odst. 3)** míří zejména na obnovu na podkladě pozemkových úprav, kde platnost může nastat dnem podle zákona o pozemkových úpravách; úřad pak platnost vyhlásí ihned, jakmile se o ní dozví, s uvedením dne platnosti.
 
 **Zveřejnění (odst. 4):** vyhlášení platnosti se zveřejní na úřední desce katastrálního úřadu i obce.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 330/2016 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/641978) — 12. 4. 2017
+  > „Nadto nutno přisvědčit stěžovateli, že obnova katastrálního operátu má účinky teprve ode dne vyhlášení jeho platnosti (§ 46 odst. 2 zákona č. 256/2013 Sb., katastrální zákon, ve znění pozdějších předpisů)"
 
 ---
 
@@ -609,8 +636,10 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — kat. A, 13. 4. 2022
   > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
+- *NSS* [55 A 65/2022 - 150](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709200) — 13. 1. 2023
+  > „Geometrický plán je podle § 48 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí, neoddělitelnou součástí listiny, na podkladě kterého má být proveden zápis do katastru, je-li třeba předmět zápisu zobrazit do katastrální mapy. … listinný geometrický plán, který je součástí správního rozhodnutí, nelze konvertovat do elektronické podoby, a proto správní orgány nesmí rozhodnutí, jehož součástí je geometrický plán, doručovat datovou zprávou, ale musí ho doručit jiným způsobem upraveným v § 19 odst. 1, 2 správního řádu"
 
 #### F. Kazuistika
 
@@ -674,6 +703,11 @@ GP je povinnou, neoddělitelnou součástí listiny tam, kde je třeba zobrazit 
 **Přizvání vlastníků (odst. 3):** k seznámení s výsledky vytyčení musí být **prokazatelně přizváni vlastníci dotčených pozemků** (tedy i sousedé). Jde o ochranu před vytyčením „za zády“ souseda.
 
 **Geometrický plán na zpřesněnou hranici (odst. 4):** má-li se do katastru zapsat **zpřesněné** geometrické a polohové určení (a jemu odpovídající zpřesněná výměra), vyhotoví se na průběh vytyčené nebo vlastníky zpřesněné hranice **geometrický plán**. Zde se vytyčení (technický úkon v terénu) potkává se zpřesněním (změna evidence) — propojení dále řeší § 50.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 12/2022 - 84](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721713) — 17. 4. 2024
+  > „Jednalo se současně o podklad doložený ve společném řízení, nikoliv o podklad, který měl sloužit ke stanovení či zpřesnění vlastnické hranice v katastru nemovitostí. Z uvedeného důvodu proto obecně nelze na dané vytyčení nahlížet jako na výsledek zeměměřické činnosti pro účely katastru dle § 47 odst. 1, resp. § 49 odst. 1, zákona č. 256/2013 Sb., o katastru nemovitostí … V takovém případě se tudíž na vytyčování hranic neuplatní ani požadavky stanovené katastrálním zákonem … včetně požadavku na prokazatelné přizvání vlastníků dotčených pozemků k seznámení s výsledky vytyčení podle § 49 odst. 3 katastrálního zákona"
 
 #### Vytyčení vs. zpřesnění hranice — rozdíl
 

@@ -272,6 +272,11 @@ Tento požadavek je projevem **ochranné funkce** katastru: má bránit zápisů
 
 **Přiměřené užití § 145 správního řádu.** Ustanovení § 145 správního řádu upravuje **řízení s velkým počtem účastníků a souběh návrhů**. Zákon jej přikazuje použít *přiměřeně*, vyjma § 145 odst. 2 vět třetí a čtvrté. Smyslem je dát katastrálnímu úřadu procesní nástroj pro situace, kdy se k téže nemovitosti sběhne více návrhů, aniž by se přitom uplatnily ty části obecné úpravy, které jsou s logikou pořadí podle okamžiku doručení neslučitelné.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [64 Ad 2/2024 - 21](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722514) — 14. 5. 2024
+  > „Tato „plomba“ je upozorněním na listu vlastnictví (srov. § 9 zákona č. 256/2013 Sb., o katastru nemovitostí) a dotýká se tak pouze změny právních vztahů k dané nemovitosti"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vlastník X prodá tentýž pozemek dvěma různým kupujícím. Kupující A doručí katastrálnímu úřadu návrh na vklad **8. dubna v 9:15**, kupující B (na základě později uzavřené, ale formálně bezvadné smlouvy s týmž prodávajícím) doručí svůj návrh **téhož dne ve 14:40**. Katastr u pozemku vyznačí plombu („P“). Kupující B mezitím nahlédne do katastru, plombu nevidí (byla vyznačena až následující pracovní den) a domnívá se, že je v dobré víře. Účastníci: prodávající X, kupující A, kupující B. Důkazy: časové údaje doručení obou návrhů, přehled doručených návrhů, výpis s plombou.
@@ -343,6 +348,11 @@ Tento požadavek je projevem **ochranné funkce** katastru: má bránit zápisů
 - § 10 KZ — tento zápis má účinky **zpětně k okamžiku doručení návrhu**.
 
 Trojice § 1099 / § 1105 OZ a § 10 KZ tak dohromady určuje, *zda*, *čím* a *kdy* se nabývá vlastnické (a obecně věcné) právo k nemovitosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [46 Ad 17/2024 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739971) — 31. 1. 2025
+  > „Podle § 10 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), nastávají právní účinky zápisu k okamžiku, kdy návrh na zápis došel příslušnému katastrálnímu úřadu. Jinými slovy, ke změně údaje o vlastnickém právu nedochází uzavřením kupní smlouvy, ale až vkladem vlastnického práva katastrálním úřadem, který provede katastrální úřad na základě pravomocného rozhodnutí o jeho povolení [§ 11 odst. 1 písm. a) a § 12 katastrálního zákona]"
 
 #### F. Kazuistika
 
@@ -453,8 +463,8 @@ Trojice § 1099 / § 1105 OZ a § 10 KZ tak dohromady určuje, *zda*, *čím* a 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
-  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
+- *NSS* [54 A 28/2022 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714272) — 26. 7. 2023
+  > „…podstatný rozdíl zůstává v tom, že věcná práva jsou povinně zapisována v katastru nemovitostí v rozsahu podle § 11 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), ve znění pozdějších předpisů, zatímco zápis nájemníků a pachtýřů je nepovinný (a dříve ani možný nebyl). Teprve zápisem do katastru nemovitostí je podle § 1105 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „občanský zákoník“) nabýváno vlastnické právo k nemovité věci…"
 
 #### F. Kazuistika
 
@@ -632,6 +642,11 @@ Toto vymezení je **zvláštní** vůči obecné definici účastníka v § 27 s
 Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění proti základním registrům (§ 17 odst. 5).
 
 **Odst. 2 — zahájení z podnětu soudu/exekutora.** Vkladové řízení **není zahájeno jen návrhem účastníka**. Zahájí se rovněž **automaticky**, dojde-li katastrálnímu úřadu od **soudu nebo soudního exekutora** rozhodnutí nebo potvrzení o právu, které se zapisuje vkladem (typicky rozsudek určující vlastnictví, rozhodnutí o vypořádání SJM, dražební usnesení v exekuci). V těchto případech není zapotřebí formulářového návrhu — doručení rozhodnutí soudu/exekutora samo zahajuje řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [57 A 86/2015 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/537002) — 29. 2. 2016
+  > „Před vydáním rozhodnutí katastrální úřad zkoumá obsah návrhu na vklad, který musí být podán na stanoveném formuláři a mít náležitosti stanovené § 14 odst. 1 katastrálního zákona [když dle § 14 odst. 1 písm. c) katastrálního zákona je na účastnících řízení, aby stanovili rozsah řízení tím, že v návrhu označí nemovitosti a práva, která k nim mají být zapsána do katastru] a rovněž listinu, na jejímž základě má být právo do katastru zapsáno (tzv. vkladová listina)"
 
 #### F. Kazuistika
 
@@ -854,14 +869,14 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [24 Cdo 2755/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F7D757791051D40C12589C000182B8C?openDocument) — 28. 2. 2023, kat. A
+- *NS* [24 Cdo 2755/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F7D757791051D40C12589C000182B8C?openDocument) — kat. A, 28. 2. 2023
   > „Omezení v nakládání s nemovitou věcí povinného postiženou exekučním příkazem se po dobu trvání účinků speciálního inhibitoria dle § 47 odst. 6 exekučního řádu vztahuje i na jednání zástavního věřitele směřující k prodeji této nemovité věci na základě předchozího ujednání se zástavcem (§ 1359 odst. 1 o. z.). Návrh na vklad vlastnického práva podle kupní smlouvy o prodeji nemovité věci povinného uzavřené zástavním věřitelem v rozporu s účelem speciálního inhibitoria katastrální úřad zamítne podle § 17 odst. 1 písm. f) katastrálního zákona"
-- *NS* [24 Cdo 3459/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA56FA3BDF5D99AEC12589C000182B76?openDocument) — 28. 2. 2023, kat. A
+- *NS* [24 Cdo 3459/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA56FA3BDF5D99AEC12589C000182B76?openDocument) — kat. A, 28. 2. 2023
   > „Smlouvu o převodu nemovité věci, u níž byl rozhodnutím soudu nahrazen projev vůle účastníka ji uzavřít, nebo k jejímuž uzavření došlo v souvislosti s takovým rozhodnutím (§ 161 odst. 3 o. s. ř.), přezkoumá katastrální úřad v řízení o návrhu na vklad vlastnického práva jako soukromou listinu podle § 17 odst. 1 zákona č. 256/2013 Sb., katastrálního zákona (ve znění pozdějších předpisů), nikoliv v omezeném rozsahu podle § 17 odst. 2 až 4 katastrálního zákona. To neplatí, jde-li o rozsudek ukládající prohlášení vůle na základě povinnosti vyplývající z restitučních předpisů"
-- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
-  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
-- *NS* [24 Cdo 2728/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D2CEEA4A4646B53C12587FA001B8A62?openDocument) — 30. 11. 2021, kat. A
+- *NS* [24 Cdo 2728/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D2CEEA4A4646B53C12587FA001B8A62?openDocument) — kat. A, 30. 11. 2021
   > „Návaznost navrhovaného vkladu na dosavadní zápisy v katastru není dána, byl-li návrh na povolení vkladu podle darovací smlouvy ve prospěch obdarovaného (jednoho z dědiců), kterou uzavřel se zůstavitelem jako dárcem, podán až poté, co nabylo právní moci usnesení potvrzující nabytí dědictví na základě dědických podílů dědicům, na jehož základě byl zapsán vklad darovaného spoluvlastnického práva k nemovitostem ve prospěch dědiců s právními účinky předcházejícími podání návrhu na povolení vkladu podle darovací smlouvy"
+- *NSS* [30 A 22/2022 - 208](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700809) — 28. 4. 2022
+  > „Není-li geometrický plán spojen s vkladovou listinou, nesplňuje listina podle § 17 odst. 1 písm. a) zákona č. 256/2013 Sb., o katastru nemovitostí, ve znění pozdějších předpisů (dále jen „katastrální zákon“), náležitosti listiny pro zápis do katastru nemovitostí"
 
 #### F. Kazuistika
 

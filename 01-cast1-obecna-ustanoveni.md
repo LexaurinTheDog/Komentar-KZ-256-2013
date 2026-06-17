@@ -49,6 +49,11 @@ Protiváhou této ochrany jsou nástroje na obranu skutečného oprávněného: 
 
 **Vztah ke staré úpravě.** Před 1. 1. 2014 byla úprava roztříštěna do dvou zákonů: zákona č. 344/1992 Sb. (technická a evidenční stránka) a zákona č. 265/1992 Sb. (zápisy věcných práv). Nová úprava obojí integruje a — což je koncepčně nejvýznamnější — opouští dřívější princip, podle něhož stavba zpravidla byla samostatnou věcí odlišnou od pozemku, ve prospěch zásady *superficies solo cedit* (k tomu viz § 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 45/2023 - 145](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741578) — 26. 3. 2025
+  > „Podle § 1 odst. 2 zákona č. 256/2013 Sb., o katastru nemovitostí (dále „katastrální zákon“) je katastr nemovitostí zdrojem informací, který je ve smyslu §§ 980 a 984 zákona č. 89/2012 Sb., občanský zákoník, ovládán zásadou materiální publicity"
+
 ### F. Kazuistika
 
 **1. Modelová situace.** Pan Novák je v katastru zapsán jako vlastník pozemku parc. č. 123 v k. ú. Vinohrady na základě padělané darovací smlouvy, kterou nechal vložit po smrti skutečného vlastníka (svého strýce) ještě před skončením dědického řízení. Krátce nato pozemek za tržní cenu prodá panu Dvořákovi, který si před koupí ověřil výpis z katastru, kde figuroval pan Novák jako jediný vlastník bez jakékoli poznámky. Dědici strýce (paní Svobodová) se následně domáhají určení, že vlastníkem je pozůstalost, resp. ona jako dědička. Důkazy nutno obstarat: dědický spis, znalecký posudek o pravosti podpisu na darovací smlouvě, kupní smlouva Novák–Dvořák, doklad o zaplacení kupní ceny, výpis z katastru ke dni podání návrhu na vklad ve prospěch Dvořáka.
@@ -150,6 +155,11 @@ Klíčové je porozumět **pojmové trojici pozemek — parcela — výměra** a
 **Budova** [písm. l)] je definována kumulativně čtyřmi znaky: (1) nadzemní stavba, (2) spojená se zemí pevným základem, (3) prostorově soustředěná, (4) navenek převážně uzavřená obvodovými stěnami a střešní konstrukcí. Pojem budovy je rozhodující pro § 3 odst. 1 písm. b) a c) — jen budova (nikoli např. zpevněná plocha či oplocení) se za splnění dalších podmínek eviduje jako samostatný předmět katastru.
 
 **Drobná stavba** [písm. m)] je naopak definována tak, aby se z evidence **vyloučila** [srov. § 3 odst. 1 písm. c) — eviduje se jen budova, „nejde-li o drobné stavby“]. Definice kombinuje pozitivní vymezení (kvantitativní limity zastavěné plochy a výšky, doplňková funkce) s **taxativním negativním výčtem** staveb, jež za drobnou stavbu nelze považovat ani při splnění rozměrových limitů (garáž, sklad hořlavin a výbušnin, stavby civilní a požární ochrany, uranového průmyslu a jaderného zařízení, sklady a skládky nebezpečných odpadů, vodní dílo).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 338/2023 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721573) — 17. 5. 2024
+  > „krajský soud správně upozornil na obdobnou definici pojmu budova obsaženou v § 2 písm. l) zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), dle které se pro účely katastrálního zákona budovou rozumí nadzemní stavba spojená se zemí pevným základem, která je prostorově soustředěna a navenek převážně uzavřena obvodovými stěnami a střešní konstrukcí"
 
 ### F. Kazuistika
 
@@ -273,6 +283,11 @@ Zákon výslovně sdružuje šest druhů (orná půda, chmelnice, vinice, zahrad
 
 **Další odstavce.** Odst. 3 propojuje předmět evidence se zápisem práv (rozváděno v části druhé a třetí KZ). Odst. 4 zakotvuje **územní princip** evidence (vše podle katastrálních území — srov. § 2 písm. h). Odst. 5 upravuje **zvláštní režim** nemovitostí důležitých pro obranu a bezpečnost státu — jejich přesné údaje vedou bezpečnostní rezorty (Ministerstvo obrany, Ministerstvo vnitra, BIS) a katastr zobrazuje a eviduje podle jimi poskytnutých údajů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 400/2023 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736949) — 29. 11. 2024
+  > „[§ 3 odst. 1 písm. b) katastrálního zákona je třeba vyložit] tak, že pokud je stavba součástí pozemku, pak postačovalo, že stavební úřad označil v listinách doručovaných veřejnou vyhláškou pouze parcelní číslo toho pozemku, na kterém se rodinný dům nacházel a jehož byl součástí"
+
 ### F. Kazuistika
 
 **1. Modelová situace.** Pan Horák je vlastníkem pozemku parc. č. 200 v k. ú. Záběhlice (zastavěná plocha a nádvoří). Na pozemku stojí rodinný dům s číslem popisným, postavený v roce 2016 za účinnosti OZ. Pan Horák chce dům darovat synovi a ponechat si pozemek; v návrhu na vklad označil jako převáděnou nemovitost „budovu č. p. 555“. Katastrální úřad řízení přerušil s tím, že budova není samostatným předmětem evidence. Důkazy: list vlastnictví, kolaudační doklady (datum vzniku stavby), darovací smlouva, údaj o tom, zda byl pozemek zatížen právem stavby.
@@ -388,6 +403,13 @@ FYZICKÁ OSOBA (§ 4 odst. 2)        PRÁVNICKÁ OSOBA (§ 4 odst. 3)
 ```
 
 U fyzické osoby je **rodné číslo** primárním identifikátorem (s náhradou datem narození u osob bez RČ — typicky cizinci); u právnické osoby **IČO**. Tyto identifikátory umožňují jednoznačné ztotožnění osoby a propojení se základními registry (registr osob, registr obyvatel). Vzhledem k tomu, že rodné číslo je chráněným osobním údajem, jeho poskytování z katastru je omezeno zvláštními pravidly přístupnosti (viz § 52 a násl. KZ a předpisy o ochraně osobních údajů); ve veřejně dostupných výstupech (nahlížení do katastru) se rodné číslo neuvádí v plném rozsahu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 5/2025 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744417) — 25. 6. 2025
+  > „údaj o druhu pozemku v katastru nemovitostí představuje jeden z popisných údajů charakterizujících jednotlivé předměty katastrální evidence [srov. § 4 odst. 1 písm. b) zákona č. 256/2013 Sb. o katastru nemovitostí (katastrální zákon), ve spojení s § 10 vyhlášky č. 357/2013 Sb., katastrální vyhláška]. Údaj o druhu pozemku proto představuje především technický údaj pro správu katastru"
+- *NSS* [51 A 67/2023 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718917) — 5. 2. 2024
+  > „Údaj o způsobu využití představuje jeden z popisných údajů charakterizující jednotlivé předměty katastrální evidence [srov. § 4 odst. 1 písm. b) zákona č. 256/2013 Sb. o katastru nemovitostí (katastrální zákon), ve spojení s § 11 vyhlášky č. 357/2013 Sb., o katastru nemovitostí (katastrální vyhláška) ve znění pozdějších předpisů], jedná se především o technický údaj pro správu katastru…"
 
 ### F. Kazuistika
 

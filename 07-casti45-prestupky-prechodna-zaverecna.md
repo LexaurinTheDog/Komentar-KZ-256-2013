@@ -317,6 +317,11 @@ Přehled odbřemeňovacích domněnek § 62:
 
 Společným rysem všech tří mechanismů je vyloučení § 11 a postup **přiměřeně podle pravidel o zápisu záznamem** — nejde tedy o vkladové řízení s plným přezkumem, nýbrž o evidenční očištění operátu od historických reliktů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 149/2016 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/645422) — 21. 2. 2018
+  > „Evidenci nemovitostí nahradil v roce 1993 katastr nemovitostí České republiky a převzal její písemný i mapový operát. Převzaté informace o pozemcích sloučených do větších půdních celků, u nichž nadále chyběly informace o vlastnických právech k jednotlivým sloučeným plochám, byly v katastru evidovány tzv. zjednodušeným způsobem s odkazem na některou z bývalých pozemkových evidencí, s jejíž pomocí bylo možno pozemky jednotlivých vlastníků identifikovat (pozemkový katastr, pozemkové knihy a navazujících operáty přídělového a scelovacího řízení, evidence nemovitostí) [viz § 62 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon)]"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan Procházka zdědil zemědělský pozemek vedený v katastru zjednodušeným způsobem (parcela bývalého pozemkového katastru, bez zobrazení v katastrální mapě, sloučená do velkého půdního celku po scelování v 70. letech). Na listu vlastnictví u jeho nemovitosti zároveň vázne historické zástavní právo převzaté z pozemkové knihy z roku 1935 (věřitel — zaniklá záložna) a věcné břemeno cesty zapsané ve prospěch „Josefa N., rolníka" bez dalších identifikačních údajů, které se v terénu už 30 let neužívá. Pan Procházka chce pozemek prodat, ale stará zatížení převod komplikují. Podklady: výpis z LV, výpis ze zjednodušené evidence, podklady pozemkové knihy v úschově katastrálního úřadu.
@@ -400,6 +405,11 @@ Rekodifikace soukromého práva obnovila zásadu, že stavba je součástí poze
 | § 3060 | stavba/pozemek zatížené věcným právem | stavba se nestane součástí pozemku, dokud věcné právo trvá a jeho povaha to vylučuje |
 
 **Role § 63 odst. 6 katastrálního zákona** v této soustavě je dvojí: (i) propojuje hmotněprávní účinky § 3054 a § 3058 OZ s **údaji vedenými v katastru** jako rozhodným zdrojem informace o totožnosti vlastníka stavby i pozemku; a (ii) **přiklání ochranu k nabyvateli**, který jedná v důvěře v zápis — pokud z katastru plyne jednota vlastnictví, věcné právo se prosadí k celku i tehdy, vyjeví-li se dodatečně, že stavba zůstala samostatnou věcí. Jde tedy o projev **materiální publicity** katastru (§ 980 a násl. OZ, § 5 katastrálního zákona) aplikovaný na specifickou přechodnou situaci sjednocování stavby a pozemku. Předpokladem ochrany je **dobrá víra** nabyvatele v soulad zápisu se skutečným stavem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 2/2015 - 128](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/637459) — 17. 2. 2016
+  > „Podle přechodného ustanovení, § 63 odst. 4 zákona č. 256/2013 Sb., platí, že zápisy do katastru na základě listin doručených katastrálnímu úřadu před 1. 1. 2014 se dokončí podle dosavadních právních předpisů, tzn. včetně těch, u kterých je od 1. 1. 2014 možný zápis již jen vkladem. Pro případ sporu, žaloby na ochranu před nezákonným zásahem spočívajícím v provedení nebo neprovedení zápisu do katastru nemovitostí záznamem, kdy k předložení listin k takovému zápisu došlo před 1. 1. 2014, je tak rozhodná právní úprava účinná do uvedeného data"
 
 #### F. Kazuistika
 

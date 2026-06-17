@@ -393,6 +393,11 @@ Zásadní je závěrečná věta: tento postup se řídí ustanovením o **oprav
 
 U všech ostatních zápisů (záznam, poznámka, jiný údaj) platí jednotná **třicetidenní lhůta** od doručení způsobilé listiny. Výmaz poznámky, jejíž důvody pominuly, podléhá rovněž třicetidenní lhůtě.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 205/2022 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705358) — 7. 11. 2022
+  > „Lhůta 30 dnů stanovená v § 33 písm. d) katastrálního zákona je přitom pouze pořádková, za jejíž nedodržení není zákonem stanovena žádná sankce. Její překročení tak není samo o sobě nezákonným zásahem žalovaného se závažným dopadem do práv žalobců. … Uvedený závěr pak lze využít i v případě, kdy katastrální zákon stanovil konkrétní pořádkovou lhůtu k provedení záznamu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Dědic doložil katastrálnímu úřadu pravomocné usnesení soudu o dědictví (osvědčující nabytí vlastnictví k nemovitosti) a žádá o provedení záznamu. Od doručení listiny uplynulo již 70 dnů, aniž katastrální úřad záznam provedl nebo dědici cokoli sdělil. Dědic se obává, že nemůže s nemovitostí nakládat. Účastníci: dědic (oprávněný), katastrální úřad (správní orgán), nadřízený zeměměřický a katastrální inspektorát.
@@ -529,6 +534,15 @@ Toto pravidlo navazuje na obecnou úpravu **promlčení** v občanském zákoní
 
 **Odstavec 3 — protokol.** O výsledku revize sepíše katastrální úřad **protokol** (dokumentační a důkazní nástroj).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 78/2020 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/657921) — 11. 2. 2021
+  > „Podle § 35 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí (dále jen „katastrální zákon“), je katastrální úřad povinen revidovat soulad stavu údajů v katastru se skutečným stavem v terénu. Katastr nemovitostí jako veřejný seznam tak může fungovat pouze za předpokladu, že v něm uvedený stav odpovídá skutečnosti"
+- *NSS* [40 A 5/2021 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700579) — 22. 3. 2022
+  > „Soud k tomu podotýká, že pro posouzení tohoto, jaký je současný stav pozemku není bez dalšího rozhodující, jaký způsob využití pozemku je evidován v katastru nemovitostí, jelikož katastr je třeba uvádět do souladu s realitou a nikoliv naopak (k tomu srov. § 32 odst. 1 a 2 a § 35 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí)"
+- *NSS* [6 As 151/2019 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656291) — 25. 9. 2020
+  > „Pro vznik a další existenci veřejného prostranství taktéž není bez dalšího rozhodující, jaký způsob využití pozemku je evidován v katastru nemovitostí, neboť katastr je třeba uvádět do souladu s realitou, nikoliv naopak [srov. § 32 odst. 1, 2 a § 35 odst. 1 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon)]"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Při revizi katastru vlastník pozemku sdělí katastrálnímu úřadu, že jeho pozemek je zatížen věcným břemenem chůze a jízdy převzatým do katastru z bývalé pozemkové knihy ve prospěch osoby uvedené pouze jménem „Josef Novák, hospodář“, bez data narození a adresy, kterou dnes nelze identifikovat. Vlastník doloží, že břemeno není fakticky vykonáváno již přes 10 let (cesta zarostlá, nikdo ji neužívá). Účastníci: vlastník zatížené nemovitosti, neidentifikovatelný oprávněný, katastrální úřad, obec (úřední deska).
@@ -656,8 +670,12 @@ odvolání → soudní přezkum
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1813/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCE195C7C25EEE6AC125893E001F7256?openDocument) — 26. 10. 2022, kat. A
-  > „Porušení zákazu zatížení nemovité věci zapsané v katastru nemovitostí, který byl zřízen jako věcné právo, nezpůsobuje samo o sobě neplatnost zástavní smlouvy, jejímž uzavřením byl tento zákaz porušen, ale je důvodem pro zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí"
+- *NSS* [31 A 88/2023 - 100](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740933) — 11. 3. 2025
+  > „Účelem institutu opravy chyby v katastrálním operátu je odstraňování rozporu mezi jednotlivými částmi katastrálního operátu, nikoliv rozporu evidovaných údajů se skutečným stavem. Jedná se tedy o případy, kdy údaje zapsané v katastru neodpovídají obsahu v operátu založených podkladů, na jejichž základě se takové údaje obsahem katastru staly. Oprava chyby v katastrálním operátu tak slouží zejména k odstranění rozporu mezi stavem zápisů v katastrálním operátu a obsahem listin, které byly podkladem pro jejich zápis, založených ve sbírce listin katastrálního úřadu"
+- *NSS* [59 A 23/2022 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705269) — 13. 10. 2022
+  > „I v projednávané věci je proto třeba trvat na dříve vysloveném požadavku, aby opravou chyby v katastrálním operátu došlo k nastolení souladu mezi evidovanými a skutečnými údaji, tedy údaji v katastru a údaji dle listin založených ve sbírce. Odstranění rozporů mezi nimi je totiž smyslem a účelem tohoto institutu"
+- *NSS* [6 A 91/2024 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745491) — 17. 7. 2025
+  > „Dle rozsudku Nejvyššího správního soudu ze dne 11. 1. 2012, č.j. 3 As 17/2011-371, opravou chyby v katastrálním operátu nelze vymazat pozemek z listu vlastnictví ani manipulovat s polohou pozemku zapsaného na LV pod určitým parcelním číslem"
 
 #### F. Kazuistika
 
