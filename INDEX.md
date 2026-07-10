@@ -63,3 +63,7 @@ Komplexní komentář k zákonu č. **256/2013 Sb.**, o katastru nemovitostí (k
 ## Zrušené předpisy (§ 67)
 
 Katastrální zákon nahradil zejména: zákon č. **265/1992 Sb.** (o zápisech vlastnických a jiných věcných práv k nemovitostem), zákon č. **344/1992 Sb.** (starý katastrální zákon) a vyhlášku č. **26/2007 Sb.** (stará katastrální vyhláška).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
