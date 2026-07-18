@@ -103,6 +103,52 @@ Tato kapitola se soustředí na **základní ustanovení** o zápisech (§ 6–1
 
 **Typicky rozhodné důkazy / podklady:** vkladová listina (u vkladu), listina osvědčující odvozené právo (u záznamu), rozhodnutí/oznámení/listina dokládající zapisovanou informaci (u poznámky).
 
+
+<!-- LEGAL-REVISION:BEGIN id=93a51e161f3b022b7d53 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Zápisy týkající se práv se do katastru provádějí vkladem, záznamem nebo poznámkou. Vklad je zápis do katastru, kterým se zapisují věcná práva, práva ujednaná jako věcná práva, nájem a pacht. Záznam je zápis do katastru, kterým se zapisují práva odvozená od vlastnického práva. Poznámka je zápis do katastru, kterým se zapisují významné informace týkající se evidovaných nemovitostí nebo v katastru zapsaných vlastníků a jiných oprávněných.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93a51e161f3b022b7d53 -->
+
 ### § 7 — Forma listin a ověřování podpisů
 
 <details><summary>📜 <b>Text § 7</b></summary>
@@ -176,6 +222,56 @@ Tento požadavek je projevem **ochranné funkce** katastru: má bránit zápisů
 - [ ] Hlídám prekluzivní lhůtu 30 dnů (nelze prodloužit)?
 
 **Typicky rozhodné důkazy / podklady:** kvalifikované časové razítko a certifikát podpisu/pečeti, doklad o legalizaci podpisu (ověřovací doložka), geometrický plán, samotná vkladová listina.
+
+
+<!-- LEGAL-REVISION:BEGIN id=0e092f5ff54b26dc9962 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Zápisy práv se do katastru provádějí na základě písemností v listinné podobě nebo v elektronické podobě (dále jen „listina“). Pokud je listina vyhotovena v elektronické podobě, musí být též opatřena kvalifikovaným elektronickým časovým razítkem. Je-li listina v elektronické podobě podepsána elektronickým podpisem, musí být k podepsání použit uznávaný elektronický podpis. Je-li písemnost v elektronické podobě zapečetěna elektronickou pečetí, musí být k pečetění použita uznávaná elektronická pečeť.
+>
+> (2) Nejsou-li podpisy na soukromé listině úředně ověřeny, musí ten, kdo zápis navrhuje, prokázat jejich pravost. Nebude-li pravost podpisů prokázána ve lhůtě 30 dnů od podání návrhu na zápis, katastrální úřad řízení o povolení vkladu zastaví nebo vrátí listinu předloženou k zápisu záznamem či poznámkou tomu, kdo listinu předložil.
+>
+> (3) Týká-li se právo, které má být na základě listiny zapsáno do katastru, jen části pozemku evidovaného v katastru, musí být s listinou spojen geometrický plán, který část pozemku vymezuje. Geometrický plán se považuje za součást listiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e092f5ff54b26dc9962 -->
 
 ### § 8 — Označování nemovitostí v listinách
 
@@ -252,6 +348,68 @@ Tento požadavek je projevem **ochranné funkce** katastru: má bránit zápisů
 
 **Typicky rozhodné důkazy / podklady:** aktuální výpis z katastru nemovitostí, údaj o počtu číselných řad v k. ú., informace o typu operátu zjednodušené evidence, geometrický plán (u části pozemku).
 
+
+<!-- LEGAL-REVISION:BEGIN id=698f669078b4248f255e generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> V listinách pro zápis práv do katastru musí být nemovitosti označeny údaji katastru, a to
+>
+> - a) pozemek parcelním číslem s uvedením názvu katastrálního území, ve kterém leží, a v případě, že jsou v katastrálním území pozemky vedeny ve dvou číselných řadách a jde o stavební parcelu, též údajem o této skutečnosti, jinak se má za to, že jde o pozemkovou parcelu,
+>
+> - b) pozemek, který je evidován zjednodušeným způsobem, parcelním číslem podle dřívější pozemkové evidence s uvedením, zda se jedná o parcelní číslo podle pozemkového katastru, přídělového operátu, scelovacího operátu nebo evidence nemovitostí, s uvedením názvu katastrálního území, ve kterém leží, a s uvedením názvu původního katastrálního území, pokud byl pozemek dotčen změnou hranice katastrálního území,
+>
+> - c) budova, která není součástí pozemku ani práva stavby, označením pozemku, na němž je postavena, číslem popisným nebo evidenčním a příslušností budovy k části obce, pokud je název části obce odlišný od názvu katastrálního území, v němž se nachází pozemek, na kterém je budova postavena,
+>
+> - d) budova, která není součástí pozemku ani práva stavby a číslo popisné ani evidenční se jí nepřiděluje, je hlavní stavbou na pozemku a nejedná se o drobnou stavbu, označením pozemku, na němž je postavena, a způsobem využití,
+>
+> - e) jednotka označením budovy, v níž je vymezena, pokud není součástí pozemku ani práva stavby, nebo označením pozemku nebo práva stavby, jehož součástí je budova, v níž je vymezena, číslem jednotky a jejím pojmenováním,
+>
+> - f) rozestavěná jednotka označením budovy, v níž je vymezena, pokud není součástí pozemku ani práva stavby, nebo označením pozemku nebo práva stavby, jehož součástí je budova, v níž je vymezena, číslem jednotky a označením, že se jedná o rozestavěnou jednotku,
+>
+> - g) právo stavby označením pozemku, ke kterému je zřízeno,
+>
+> - h) nemovitost evidovaná v katastru podle jiného zákona označením pozemku, na kterém je postavena, a způsobem využití.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=698f669078b4248f255e -->
+
 ### § 9 — Pořadí zápisů a plomba
 
 <details><summary>📜 <b>Text § 9</b></summary>
@@ -313,6 +471,54 @@ Tento požadavek je projevem **ochranné funkce** katastru: má bránit zápisů
 - [ ] Počítám s tím, že pozdější neslučitelný návrh bude zamítnut pro nenavázání (§ 17 odst. 1 písm. g)?
 
 **Typicky rozhodné důkazy / podklady:** záznam o okamžiku doručení návrhů (datum a čas), přehled doručených návrhů a listin, výpis z katastru s vyznačenou plombou, obě konkurující smlouvy.
+
+
+<!-- LEGAL-REVISION:BEGIN id=61878907a7a72ebd01c6 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li katastrálnímu úřadu návrh nebo jiná listina pro zápis práv do katastru, vyznačí u dotčených nemovitostí nejpozději následující pracovní den, že práva jsou dotčena změnou. Každý má právo nahlédnout do přehledu doručených návrhů nebo listin.
+>
+> (2) Pořadí zápisů práv do katastru se řídí, pokud zákon nestanoví jinak, okamžikem, ve kterém byl návrh na zápis do katastru doručen katastrálnímu úřadu. Na postup katastrálního úřadu při zápisech práv do katastru se použije přiměřeně [[§ 145|§ 145]] [[správního řádu|správního řádu]], vyjma [[odstavce 2|odstavce 2]] vět třetí a čtvrté.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 145
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61878907a7a72ebd01c6 -->
 
 ### § 10 — Právní účinky zápisu
 
@@ -392,6 +598,52 @@ Trojice § 1099 / § 1105 OZ a § 10 KZ tak dohromady určuje, *zda*, *čím* a 
 **Typicky rozhodné důkazy / podklady:** záznam o okamžiku doručení návrhu, datum provedení zápisu, výpis z katastru s plombou, kolidující smlouvy a návrhy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=32f80b1de5be163873d4 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Právní účinky zápisu nastávají k okamžiku, kdy návrh na zápis došel příslušnému katastrálnímu úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32f80b1de5be163873d4 -->
 
 ## Vklad (§ 11–18)
 
@@ -503,6 +755,92 @@ Trojice § 1099 / § 1105 OZ a § 10 KZ tak dohromady určuje, *zda*, *čím* a 
 
 **Typicky rozhodné důkazy / podklady:** vkladová listina s přesnou formulací práv a jejich věcněprávní povahy, prohlášení vlastníka o rozdělení na jednotky (u odst. 2), souhlas vlastníka u nájmu/pachtu (písm. q, r).
 
+
+<!-- LEGAL-REVISION:BEGIN id=5fc38980863216598329 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 11
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Vkladem se do katastru zapisuje vznik, změna, zánik, promlčení a uznání existence nebo neexistence těchto práv:
+>
+> - a) vlastnické právo,
+>
+> - b) právo stavby,
+>
+> - c) věcné břemeno,
+>
+> - d) zástavní právo,
+>
+> - e) budoucí zástavní právo,
+>
+> - f) podzástavní právo,
+>
+> - g) předkupní právo,
+>
+> - h) budoucí výměnek,
+>
+> - i) přídatné spoluvlastnictví,
+>
+> - j) správa svěřenského fondu,
+>
+> - k) výhrada vlastnického práva,
+>
+> - l) výhrada práva zpětné koupě,
+>
+> - m) výhrada práva zpětného prodeje,
+>
+> - n) zákaz zcizení nebo zatížení,
+>
+> - o) výhrada práva lepšího kupce,
+>
+> - p) ujednání o koupi na zkoušku,
+>
+> - q) nájem, požádá-li o to vlastník nebo nájemce se souhlasem vlastníka,
+>
+> - r) pacht, požádá-li o to vlastník nebo pachtýř se souhlasem vlastníka,
+>
+> - s) vzdání se práva na náhradu škody na pozemku.
+>
+> (2) Vkladem se do katastru dále zapisuje rozdělení práva k nemovitosti na vlastnické právo k jednotkám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5fc38980863216598329 -->
+
 ### § 12 — Podklad vkladu
 
 <details><summary>📜 <b>Text § 12</b></summary>
@@ -559,6 +897,52 @@ Bez pravomocného povolení nemůže katastrální úřad zápis provést, i kdy
 
 **Typicky rozhodné důkazy / podklady:** záznam ve spisu o povolení vkladu a o nabytí právní moci, příp. písemné vyhotovení rozhodnutí (u částečného zamítnutí), vkladová listina, návrh.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3808f0000c43b4dc511b generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Vklad lze provést na základě pravomocného rozhodnutí katastrálního úřadu o jeho povolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3808f0000c43b4dc511b -->
+
 ### § 13 — Účastníci vkladového řízení
 
 <details><summary>📜 <b>Text § 13</b></summary>
@@ -612,6 +996,52 @@ Toto vymezení je **zvláštní** vůči obecné definici účastníka v § 27 s
 - [ ] Počítám s **přímým** vyrozuměním účastníka, jehož práva zanikají/omezují se (§ 18 odst. 3)?
 
 **Typicky rozhodné důkazy / podklady:** vkladová listina (z níž plyne, čí právo se mění), výpis z katastru s dosavadními zápisy (spoluvlastníci, oprávnění), návrh s označením účastníků.
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f7c4a65b8ee01de0242 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Účastníkem řízení o povolení vkladu (dále jen „vkladové řízení“) je ten, jehož právo vzniká, mění se nebo se rozšiřuje, a ten, jehož právo zaniká, mění se nebo se omezuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f7c4a65b8ee01de0242 -->
 
 ### § 14 — Návrh na zahájení vkladového řízení
 
@@ -685,6 +1115,62 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 
 **Typicky rozhodné důkazy / podklady:** vyplněný stanovený formulář návrhu, doklady k identifikaci účastníků, vkladová listina (§ 15), u odst. 2 pravomocné rozhodnutí/potvrzení soudu nebo exekutora.
 
+
+<!-- LEGAL-REVISION:BEGIN id=bd823c8919153bfc8cc7 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Návrh na zahájení vkladového řízení se podává na stanoveném formuláři a musí obsahovat
+>
+> - a) označení katastrálního úřadu, kterému je návrh určen,
+>
+> - b) označení účastníků vkladového řízení, a to u fyzických osob jménem, popřípadě jmény, a příjmením, adresou místa trvalého pobytu nebo u cizozemců adresou bydliště v cizině, rodným číslem, nebo, není-li přiděleno, datem narození, a státním občanstvím; u právnických osob názvem, sídlem a identifikačním číslem, pokud je přiděleno,
+>
+> - c) označení nemovitostí a práv, která k nim mají být zapsána do katastru nebo z něj vymazána,
+>
+> - d) podpis navrhovatele.
+>
+> (2) Vkladové řízení je zahájeno také tehdy, pokud příslušnému katastrálnímu úřadu došlo od soudu nebo soudního exekutora jeho rozhodnutí nebo potvrzení o právu, které se do katastru zapisuje vkladem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd823c8919153bfc8cc7 -->
+
 ### § 15 — Přílohy návrhu
 
 <details><summary>📜 <b>Text § 15</b></summary>
@@ -754,6 +1240,64 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 
 **Typicky rozhodné důkazy / podklady:** vkladová listina, plná moc s ověřeným podpisem, výpis z obchodního/jiného rejstříku, případné souhlasy orgánů veřejné moci, pravomocné soudní rozhodnutí (u odst. 3).
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f217a99c0f639ae04ae generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Přílohou návrhu na zahájení vkladového řízení je
+>
+> - a) listina, na jejímž základě má být zapsáno právo do katastru (dále jen „vkladová listina“),
+>
+> - b) plná moc s úředně ověřeným podpisem zmocnitele, je-li účastník vkladového řízení zastoupen zmocněncem; pokud se provádí vklad na základě veřejné listiny a zmocněncem je osoba, která veřejnou listinu sepsala, podpis zmocnitele nemusí být úředně ověřen,
+>
+> - c) výpis z obchodního nebo jiného zákonem stanoveného rejstříku, pokud je účastníkem vkladového řízení právnická osoba a není-li výpis možno získat bezplatně dálkovým přístupem v českém jazyce; výpis se nevyžaduje, pokud je vkladová listina veřejnou listinou,
+>
+> - d) další listiny, pokud jejich potřeba vyplývá z jiného právního předpisu, například souhlas příslušného orgánu veřejné moci s dělením nebo scelováním pozemků nebo souhlas příslušného orgánu veřejné moci k právnímu jednání účastníka vkladového řízení.
+>
+> (2) Není-li k návrhu přiložena vkladová listina, k podanému návrhu se nepřihlíží. O tom, že se k návrhu nepřihlíží, vyrozumí katastrální úřad navrhovatele.
+>
+> (3) Nejsou-li v rozhodnutí nebo potvrzení podle § 14 odst. 2 uvedeny všechny údaje, které mají být vkladem zapsány do katastru, vyzve katastrální úřad účastníky řízení k jejich doplnění. Nedoplní-li je účastníci řízení ve lhůtě do 14 dnů od doručení výzvy, katastrální úřad vkladové řízení zastaví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f217a99c0f639ae04ae -->
+
 ### § 16 — Informace o plombě, zpětvzetí a zúžení návrhu
 
 <details><summary>📜 <b>Text § 16</b></summary>
@@ -810,6 +1354,56 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 - [ ] Vím, že od odeslání informace běží **20denní** ochranná lhůta (§ 18 odst. 1)?
 
 **Typicky rozhodné důkazy / podklady:** informace o plombě (doklad o odeslání a adrese), projevy souhlasu/nesouhlasu účastníků se zpětvzetím/zúžením, kupní smlouva, doklad o úhradě kupní ceny, případná poznámka spornosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a7b0ee87b2db9363197 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) O vyznačení, že právní poměry jsou dotčeny změnou, katastrální úřad informuje, nejpozději den poté, co ke změně došlo, vlastníka nemovitosti a jiného oprávněného zasláním informace na adresu podle § 14 odst. 1 písm. b) nebo prostřednictvím datové schránky; pokud o to požádá, katastrální úřad informuje vlastníka také elektronicky na e-mailovou adresu nebo zprávou na mobilní telefon. Účastníky vkladového řízení, kteří mají zřízenu službu sledování změn v katastru, informuje prostřednictvím této služby.
+>
+> (2) Vezme-li navrhovatel návrh na vklad zpět, vkladové řízení se zastaví pouze v případě, že s tím souhlasí všichni účastníci vkladového řízení.
+>
+> (3) Zúží-li navrhovatel návrh na vklad, rozhodne se o zúženém návrhu pouze v případě, že s tím souhlasí všichni účastníci vkladového řízení. Jinak se rozhodne o původním návrhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a7b0ee87b2db9363197 -->
 
 ### § 17 — Přezkum vkladové listiny
 
@@ -918,6 +1512,80 @@ Identifikace účastníků slouží k jejich nezaměnitelnému ztotožnění pro
 
 **Typicky rozhodné důkazy / podklady:** vkladová listina, aktuální výpis z katastru a dosavadní zápisy (omezení, exekuce), údaje ze základních registrů a AIS evidence obyvatel/cizinců, listiny doplňující návaznost (u logické mezery), exekuční příkaz / inhibitorium (u omezení nakládat).
 
+
+<!-- LEGAL-REVISION:BEGIN id=56ab75f7bf48a88b17bc generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Ve vkladovém řízení katastrální úřad zkoumá u vkladové listiny, která je soukromou listinou, zda
+>
+> - a) splňuje náležitosti listiny pro zápis do katastru,
+>
+> - b) její obsah odůvodňuje navrhovaný vklad,
+>
+> - c) právní jednání je učiněno v předepsané formě,
+>
+> - d) účastník vkladového řízení není omezen právními předpisy v oprávnění nakládat s nemovitostí,
+>
+> - e) k právnímu jednání účastníka vkladového řízení byl udělen souhlas podle jiného právního předpisu,
+>
+> - f) z obsahu listiny a z jeho porovnání s dosavadními zápisy v katastru není patrný důvod, pro který by bylo právní jednání neplatné, zejména zda z dosavadních zápisů v katastru nevyplývá, že účastníci vkladového řízení nejsou oprávněni nakládat s předmětem právního jednání, nejsou omezeni rozhodnutím soudu nebo jiného orgánu veřejné moci ve smluvní volnosti týkající se věci, která je předmětem právního jednání,
+>
+> - g) navrhovaný vklad navazuje na dosavadní zápisy v katastru; z tohoto hlediska není na překážku povolení vkladu, pokud logickou mezeru mezi zápisem v katastru a navrhovaným vkladem podle vkladové listiny navrhovatel doloží současně s návrhem na vklad listinami, které návaznost vkladové listiny na dosavadní zápisy v katastru doplní; tyto listiny však musí mít náležitosti vkladových listin.
+>
+> (2) Pokud je vkladová listina veřejnou listinou, katastrální úřad zkoumá, zda
+>
+> - a) splňuje náležitosti listiny pro zápis do katastru,
+>
+> - b) její obsah odůvodňuje navrhovaný vklad,
+>
+> - c) navrhovaný vklad navazuje na dosavadní zápisy v katastru; odstavec 1 písm. g) se použije obdobně.
+>
+> (3) Jde-li o veřejnou listinu o právním jednání, katastrální úřad dále zkoumá, zda k době podání návrhu na vklad nebyl v katastru zápis, ze kterého vyplývá, že k době podání návrhu na vklad je účastník vkladového řízení omezen v nakládání s věcí, která je předmětem právního jednání.
+>
+> (4) Jde-li o rozhodnutí soudu, zkoumá katastrální úřad splnění podmínek jen podle odstavce 2 písm. a) a dále, zda je toto rozhodnutí závazné i pro osoby, v jejichž prospěch je právo v katastru dosud zapsáno.
+>
+> (5) Skutečnosti uvedené v odstavcích 1 až 4 přezkoumává katastrální úřad na základě listin předložených účastníky, popřípadě soudem nebo soudním exekutorem ke vkladovému řízení, dosavadních zápisů v katastru a na základě údajů ze základních registrů, z agendového informačního systému evidence obyvatel a z agendového informačního systému cizinců a dále na základě dalších informací poskytnutých vlastníkem nemovitosti a dalšími účastníky vkladového řízení poté, co obdrží od katastrálního úřadu informaci podle § 16 odst. 1. Tyto skutečnosti katastrální úřad zkoumá podle stavu, jaký tu byl v okamžiku podání návrhu na vklad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=56ab75f7bf48a88b17bc -->
+
 ### § 18 — Rozhodnutí o vkladu
 
 <details><summary>📜 <b>Text § 18</b></summary>
@@ -1010,6 +1678,64 @@ Smyslem je zabránit tomu, aby se mezitím provedl jiný (kolidující) vklad, d
 **Typicky rozhodné důkazy / podklady:** záznam ve spisu o povolení a právní moci (u plného vyhovění), doklad o odeslání informace o plombě a o běhu 20denní lhůty, rozhodnutí o zamítnutí s doručenkou (počátek 30denní lhůty), plná moc (u podezření na podvodné zastoupení), případná poznámka spornosti a žaloba.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=061b01caf83a91abb723 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Jestliže jsou podmínky pro povolení vkladu splněny, katastrální úřad vklad povolí, nejdříve však po uplynutí lhůty 20 dnů ode dne odeslání informace podle § 16 odst. 1. V opačném případě, nebo i tehdy, ztratil-li návrh před rozhodnutím o povolení vkladu své právní účinky, návrh zamítne.
+>
+> (2) Pokud je rozhodnutím, kterým se vklad povoluje, zcela vyhověno návrhu na povolení vkladu, rozhodnutí se písemně nevyhotovuje. Záznamem ve spisu rozhodnutí o povolení vkladu práva nabývá právní moci.
+>
+> (3) V případě, že byl vklad povolen a proveden, zašle katastrální úřad účastníkům vkladového řízení vyrozumění o tom, jaký vklad byl do katastru proveden, a vkladovou listinu vyjme ze spisu a založí ji do sbírky listin. Je-li účastník, jehož práva k nemovitosti podle zápisu zanikají nebo se omezují, ve vkladovém řízení zastoupen zmocněncem, vyrozumí ho o provedeném vkladu katastrální úřad nejen prostřednictvím zmocněnce, ale i přímo.
+>
+> (4) Proti rozhodnutí, kterým se vklad povoluje, není přípustný žádný opravný prostředek, přezkumné řízení, obnova řízení ani žaloba podle ustanovení [[občanského soudního řádu|občanského soudního řádu]] o řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem.
+>
+> (5) Proti rozhodnutí o zamítnutí vkladu není přípustný žádný opravný prostředek, přezkumné řízení ani obnova řízení; přípustná je žaloba podle ustanovení [[občanského soudního řádu|občanského soudního řádu]] o řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem, která musí být podána ve lhůtě 30 dnů ode dne doručení rozhodnutí.
+>
+> (6) Další vkladové řízení týkající se téže nemovitosti jako rozhodnutí o zamítnutí vkladu se po dobu stanovenou pro podání žaloby podle odstavce 5, a pokud je žaloba podána, až do dne, kdy je příslušnému katastrálnímu úřadu doručeno pravomocné rozhodnutí soudu ve věci vkladu, přerušuje.
+>
+> (7) Jestliže je další vkladové řízení týkající se téže nemovitosti jako rozhodnutí o zamítnutí vkladu zahájeno po vydání rozhodnutí o zamítnutí vkladu, přerušuje se toto řízení usnesením s účinky ke dni doručení návrhu na vklad příslušnému katastrálnímu úřadu do dne, kdy je tomuto katastrálnímu úřadu doručeno pravomocné rozhodnutí soudu ve věci vkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=061b01caf83a91abb723 -->
 
 ## Shrnutí kapitoly — průřezové zásady
 

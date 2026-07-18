@@ -126,6 +126,68 @@ Přehled skutkových podstat:
 
 **Typicky rozhodné důkazy / podklady:** doručenky výzev podle § 37, protokoly z jednání/zjišťování hranic, serverové logy a vzorky distribuovaných dat, licenční stav u ČÚZK, podklady o majetkových poměrech pachatele.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed446a0468d9ceebc594 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 57
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) užije údaje katastru v rozporu s § 1 odst. 2, nebo
+>
+> - b) v rozporu s [[#§ 53|§ 53]] šíří údaje katastru bez souhlasu Českého úřadu zeměměřického a katastrálního.
+>
+> (2) Fyzická, právnická nebo podnikající fyzická osoba se jako vlastník nebo jiný oprávněný dopustí přestupku tím, že
+>
+> - a) v rozporu s § 37 odst. 1 písm. a) se na výzvu katastrálního úřadu nezúčastní jednání nebo na toto jednání nevyšle svého zástupce,
+>
+> - b) neoznačí ve stanovené lhůtě trvalým způsobem a na vlastní náklad nesporné hranice svého pozemku podle § 37 odst. 1 písm. b),
+>
+> - c) v rozporu s § 37 odst. 1 písm. c) nedoplní ve stanovené lhůtě od doručení výzvy chybějící údaje nebo neodstraní chyby ve vyhotovených listinách, které předkládá k zápisu do katastru,
+>
+> - d) neohlásí katastrálnímu úřadu ve stanovené lhůtě změny údajů katastru týkající se jeho nemovitosti podle § 37 odst. 1 písm. d).
+>
+> (3) Za přestupek podle odstavců 1 a [[#§ 2|2]] lze uložit pokutu do 50 000 Kč. Je-li přestupek podle odstavců 1 a [[#§ 2|2]] spáchán právnickou nebo podnikající fyzickou osobou, lze uložit pokutu do 100 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1, § 53, § 37, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed446a0468d9ceebc594 -->
+
 ### § 58 — zrušen
 
 § 58 byl ze zákona **vypuštěn** (zrušen). V platném znění mezi § 57 a § 59 žádný text nestojí; číselná mezera je proto v pořádku a v citaci výše se neuvádí. Vypuštění ustanovení je důsledkem novelizačního zásahu, jímž odpadl institut, který zde byl původně upraven; dnešní katastrální zákon na § 58 nikde neodkazuje.
@@ -180,6 +242,52 @@ Přehled skutkových podstat:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8fc68d41419365c23c7f generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 59
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává katastrální úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8fc68d41419365c23c7f -->
+
 ## ČÁST PÁTÁ — SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ (§ 60–68)
 
 ### § 60 — Převod elektronické listiny do listinné podoby pro sbírku listin
@@ -230,6 +338,52 @@ Přehled skutkových podstat:
 
 **Typicky rozhodné důkazy / podklady:** originální datová zpráva ve sbírce listin, listinný převod a doložka o převedení, údaje o kvalifikovaném podpisu/pečeti, prováděcí vyhláška k formátům (§ 66/1 f)).
 
+
+<!-- LEGAL-REVISION:BEGIN id=017b6fb6c8264f6a4798 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 60
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Za účelem založení do sbírky listin může katastrální úřad převést z elektronické podoby písemnost ve formě datové zprávy, která je podepsána způsobem, se kterým jiný právní předpis spojuje při právním jednání vůči státu v souvislosti s výkonem jeho působnosti účinky vlastnoručního podpisu, zapečetěna uznávanou elektronickou pečetí nebo označena elektronickou značkou, a která je předložena pro zápis do katastru, do listinné podoby. Při převedení katastrální úřad nepotvrzuje správnost a pravdivost údajů obsažených v písemnosti ve formě datové zprávy. Při poskytování kopií písemností vedených v elektronické podobě ve sbírce listin se postupuje obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=017b6fb6c8264f6a4798 -->
+
 ### § 61 — Oprávnění vstupu na pozemky
 
 <details><summary>📜 <b>Text § 61</b></summary>
@@ -278,6 +432,52 @@ Přehled skutkových podstat:
 - [ ] Zdokumentovat pověření, oznámení termínu a stav pozemku před/po.
 
 **Typicky rozhodné důkazy / podklady:** pověření a jmenování členů komise, oznámení o zjišťování hranic, protokol o rozsahu zásahu, fotodokumentace stavu pozemku, doklad o vzniklé škodě.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a01057039f4b5c6c074d generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 61
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Zaměstnanci katastrálního úřadu a členové komise pro zjišťování hranic jsou při své činnosti oprávněni vstupovat v nezbytném rozsahu na pozemky a provádět na nich průklesty a zeměměřické činnosti pro účely katastru za podmínek stanovených jiným právním předpisem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a01057039f4b5c6c074d -->
 
 ### § 62 — Zjednodušená evidence pozemků; zánik starých zástavních práv a promlčení věcných břemen
 
@@ -359,6 +559,63 @@ Společným rysem všech tří mechanismů je vyloučení § 11 a postup **přim
 - [ ] U zjednodušeně evidovaných pozemků počítat s jejich postavením naroveň pozemkům dle zákona (odst. 2).
 
 **Typicky rozhodné důkazy / podklady:** výpis z LV, výpis ze zjednodušené evidence, podklady pozemkové/železniční knihy v úschově úřadu, notářský zápis s ohlášením, doklady o (ne)výkonu břemene, ohlášení Ministerstva zemědělství u odst. 5.
+
+
+<!-- LEGAL-REVISION:BEGIN id=61d08046289792cd79b9 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Pozemky, jejichž hranice v terénu neexistují a jsou sloučeny do větších půdních celků, se do doby jejich zobrazení v katastrální mapě, nejpozději však do doby ukončení pozemkových úprav podle jiného právního předpisu, v katastru evidují zjednodušeným způsobem s využitím bývalého pozemkového katastru, pozemkových knih a navazujících operátů přídělového a scelovacího řízení a evidence nemovitostí.
+>
+> (2) Pozemky evidované v katastru podle odstavce 1 se považují pro účely zápisu práv za pozemky podle tohoto zákona. Údaje zjednodušené evidence se považují za součást katastrálního operátu. Katastrální úřady mají nejméně do doplnění pozemků evidovaných dosud zjednodušeným způsobem do katastrálních map v úschově pozemkové a železniční knihy a operát bývalého pozemkového katastru. Z těchto dokumentů vyhotoví katastrální úřad na požádání výpisy, opisy nebo kopie.
+>
+> (3) Má se za to, že zástavní práva, jejichž zápis byl do katastru převzat z bývalé pozemkové knihy, zemských desek nebo železniční knihy, zanikla. Katastrální úřad tato zástavní práva vymaže z katastru na základě ohlášení vlastníka nemovitosti, k níž je zaniklé zástavní právo zapsáno, sepsaného ve formě notářského zápisu. Pro výmaz takto zaniklých zástavních práv se použijí přiměřeně ustanovení o zápisu záznamem; ustanovení [[#§ 11|§ 11]] se neuplatní.
+>
+> (4) Má se za to, že věcná břemena, jejichž zápis byl do katastru převzat z bývalé pozemkové knihy, zemských desek nebo železniční knihy, která jsou zapsána ve prospěch osoby s údaji neumožňujícími její dostatečnou identifikaci, se promlčela. Katastrální úřad tato věcná břemena vymaže z katastru na základě ohlášení vlastníka nemovitosti, k níž je promlčené věcné břemeno zapsáno, o tom, že věcné břemeno není více než 10 let vykonáváno, sepsaného ve formě notářského zápisu. Pro výmaz takto promlčených věcných břemen se použijí přiměřeně ustanovení o zápisu záznamem; ustanovení [[#§ 11|§ 11]] se neuplatní.
+>
+> (5) Veškerá omezení, která vznikla v souvislosti s přidělováním půdy a jiného majetku podle [[zákona č. 81/1920 Sb|zákona č. 81/1920 Sb.]], kterým se vydávají po rozumu [[§u 10|§u 10]] zákona ze dne 16. dubna 1919, č. [[215 Sb. zák. a nař|215 Sb. zák. a nař.]], ustanovení o přídělu zabrané půdy a upravuje se právní poměr ku přidělené půdě, [[zákona č. 90/1947 Sb., o provedení knihovního pořádku stran konfiskovaného nepřátelského majetku a o úpravě některých právních poměrů vztahujících se na přidělený majetek|zákona č. 90/1947 Sb., o provedení knihovního pořádku stran konfiskovaného nepřátelského majetku a o úpravě některých právních poměrů vztahujících se na přidělený majetek]], [[zákona č. 142/1947 Sb., o revisi první pozemkové reformy|zákona č. 142/1947 Sb., o revisi první pozemkové reformy]], a [[zákona č. 46/1948 Sb|zákona č. 46/1948 Sb.]], o nové pozemkové reformě, se považují za zaniklá bez ohledu na to, zda mají charakter věcných práv či nikoliv; souhlas s nakládáním s přiděleným majetkem se nevyžaduje. Katastrální úřad tato omezení vymaže z katastru na základě ohlášení Ministerstva zemědělství. Pro výmaz takto zaniklých omezení se použijí přiměřeně ustanovení o zápisu záznamem; ustanovení [[#§ 11|§ 11]] se neuplatní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11
+
+##### Souvisící předpisy
+
+- zákon č. 81/1920 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 90/1947 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 142/1947 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 46/1948 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61d08046289792cd79b9 -->
 
 ### § 63 — Vedení údajů dle dosavadních předpisů; domněnka trvalé stavby; ochrana nabyvatele
 
@@ -448,6 +705,62 @@ Rekodifikace soukromého práva obnovila zásadu, že stavba je součástí poze
 
 **Typicky rozhodné důkazy / podklady:** výpis z LV ke dni převodu, kupní/převodní smlouva, historie zápisů vlastnictví stavby a pozemku, doklady k dobré víře nabyvatele, případné poznámky spornosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d57fcacd7d14eef7ac54 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 63
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Údaje v katastru se vedou podle dosavadních právních předpisů do doby, než jednotlivé evidované údaje budou dotčeny změnou. Katastrální úřady jsou oprávněny uvést zápisy v katastru do souladu s tímto zákonem i dříve z moci úřední.
+>
+> (2) O údajích o budově evidované podle dřívějších právních předpisů se má za to, že se jedná o trvalou stavbu, pokud z údajů katastru nevyplývá, že se jedná o stavbu dočasnou. Doloží-li vlastník této stavby nebo jiný oprávněný, že se jedná o stavbu dočasnou, katastrální úřad tuto skutečnost do katastru doplní.
+>
+> (3) Listiny sepsané přede dnem nabytí účinnosti tohoto zákona a splňující náležitosti stanovené dosavadními právními předpisy jsou vkladovými listinami, i když nesplňují náležitosti předepsané tímto nebo jiným zákonem. Chybějící náležitosti musí obsahovat návrh na vklad.
+>
+> (4) Zápisy do katastru na základě listin doručených katastrálnímu úřadu přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.
+>
+> (5) Údaje o dosažených cenách nemovitostí z listin doručených k zápisu do katastru přede dnem nabytí účinnosti tohoto zákona se do katastru nedoplňují.
+>
+> (6) Vyplývá-li z údajů v katastru, že vlastník pozemku je též vlastníkem stavby, která je na pozemku postavena, přechází vlastnické právo ke stavbě nebo k ní vzniká jiné věcné právo současně jako k pozemku i v případě, že by později vyšlo najevo, že stavba není součástí pozemku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d57fcacd7d14eef7ac54 -->
+
 ### § 64 — Nedostatečně identifikovaní vlastníci: postup při získání listiny
 
 <details><summary>📜 <b>Text § 64</b></summary>
@@ -497,6 +810,54 @@ Rekodifikace soukromého práva obnovila zásadu, že stavba je součástí poze
 - [ ] Vyhodnotit, zda osoba není přece jen ztotožnitelná (pak úleva neplatí).
 
 **Typicky rozhodné důkazy / podklady:** výpis z LV se sporným zápisem vlastníka, podklady dědického/soudního spisu, doklad o pokusech o ztotožnění osoby, oznámení ČÚZK vůči ÚZSVM.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a06ecb35dfc873fe8e90 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) V případech, kdy je třeba získat jako listinu pro zápis do katastru rozhodnutí nebo osvědčení orgánu veřejné moci a osoba dosud zapsaná v katastru jako vlastník nebo jiný oprávněný není označena dostatečně určitě, jak to vyžaduje tento zákon, a proto není možné označit ji v řízení před tímto orgánem údaji požadovanými právním předpisem, na jehož základě lze rozhodnutí nebo osvědčení orgánu veřejné moci vydat, postačí k jejímu označení v řízení před tímto orgánem i v řízení o zápisu do katastru uvedení údajů, které jsou o této osobě známé z katastru.
+>
+> (2) Pokud je osoba zapsaná v katastru jako vlastník označena tak, jak je uvedeno v odstavci 1, a zápis o ní neumožňuje její dostatečnou identifikaci, Český úřad zeměměřický a katastrální předá údaje o této nemovitosti a o jejím vlastníkovi známé ze zápisů v katastru Úřadu pro zastupování státu ve věcech majetkových.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a06ecb35dfc873fe8e90 -->
 
 ### § 65 — Předání ÚZSVM, šetření a opuštěné nemovitosti
 
@@ -582,6 +943,68 @@ Přehled postupu u neidentifikovaných vlastníků:
 
 **Typicky rozhodné důkazy / podklady:** záznam o převzetí údajů ÚZSVM, doklady o zveřejnění (web + úřední deska) s výzvou a poučením, protokoly o šetření v registrech, doklady o (ne)výkonu vlastnického práva a běhu lhůty, případně podnět k řízení o pozůstalosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7d66ea565e2fe313074d generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 65
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Úřad pro zastupování státu ve věcech majetkových převezme údaje o nemovitostech uvedených v § 64 odst. 2 a známé údaje o jejím vlastníkovi a vede jejich evidenci. Tuto evidenci včetně známých údajů o zapsaném vlastníkovi zveřejní na svých internetových stránkách způsobem umožňujícím dálkový přístup. Zároveň tyto údaje předá obecnímu úřadu obce, na jejímž území se nemovitost nachází.
+>
+> (2) Obecní úřad zveřejní převzaté údaje podle odstavce 1 na úřední desce.
+>
+> (3) Součástí zveřejnění podle odstavců 1 a [[#§ 2|2]] je i výzva, aby se vlastník přihlásil ke svému vlastnictví uvedené nemovitosti u Úřadu pro zastupování státu ve věcech majetkových. Ve výzvě se uvede poučení o důsledcích, které nastanou, pokud se vlastník nepřihlásí ve lhůtě stanovené jiným právním předpisem pro to, aby nemovitost byla považována za opuštěnou.
+>
+> (4) Úřad pro zastupování státu ve věcech majetkových v součinnosti s obecním úřadem provede zároveň šetření k dohledání vlastníka v dostupných evidencích, zejména v matrice a v základních registrech, v agendovém informačním systému evidence obyvatel a v agendovém informačním systému cizinců. Obecní úřad přitom jedná v přenesené působnosti.
+>
+> (5) Zjistí-li Úřad pro zastupování státu ve věcech majetkových postupem podle odstavce 4 osobu vlastníka nemovitosti, písemně vyzve tuto osobu, aby předložila listiny dokládající její vlastnictví příslušnému katastrálnímu úřadu nebo uplatnila svá vlastnická práva v občanskoprávním řízení.
+>
+> (6) Přihlásí-li se Úřadu pro zastupování státu ve věcech majetkových osoba, která tvrdí, že je vlastníkem nemovitosti uvedené v odstavci 1, Úřad pro zastupování státu ve věcech majetkových ji písemně vyzve, aby listiny dokládající její vlastnictví předložila katastrálnímu úřadu nebo uplatnila svá vlastnická práva v občanskoprávním řízení.
+>
+> (7) Stát v soudním řízení podle odstavců 5 a [[#§ 6|6]] vystupuje jako žalovaný. V řízeních před soudy v těchto případech jedná Úřad pro zastupování státu ve věcech majetkových.
+>
+> (8) Zjistí-li Úřad pro zastupování státu ve věcech majetkových postupem podle odstavce 4, že zapsaný vlastník nežije, podá podnět k zahájení řízení o pozůstalosti soudu příslušnému k řízení o pozůstalosti podle jiného zákona a předá mu zjištěné informace o zapsaném vlastníkovi a o jeho nemovitosti; není-li známo jeho bydliště, podá podnět u soudu, v jehož obvodu se dotčená nemovitost nalézá.
+>
+> (9) Nepodaří-li se vlastníka zjistit a uplyne-li marně lhůta, po jejímž uplynutí se podle jiného právního předpisu má za to, že nemovitost je opuštěná, pohlíží se na ni jako na opuštěnou; další postup se řídí právními předpisy upravujícími hospodaření s majetkem státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64, § 2, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7d66ea565e2fe313074d -->
+
 ### § 66 — Zmocňovací ustanovení
 
 <details><summary>📜 <b>Text § 66</b></summary>
@@ -654,6 +1077,76 @@ Přehled postupu u neidentifikovaných vlastníků:
 - [ ] Při rozporu uplatnit přednost zákona / podnět k přezkumu vyhlášky.
 
 **Typicky rozhodné důkazy / podklady:** text vyhlášky a zmocňovacího § 66, nákladová kalkulace úplat za poskytování dat, příslušné české technické normy, srovnání s mezemi a účelem zmocnění (§ 1 odst. 2, § 5, § 53).
+
+
+<!-- LEGAL-REVISION:BEGIN id=aca77855062912d0de72 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 66
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Český úřad zeměměřický a katastrální vyhláškou stanoví
+>
+> - a) obsah souboru geodetických informací v rozsahu uvedeném v § 5 odst. 2 písm. a) tak, aby obsahoval údaje nezbytné pro plnění účelů, ke kterým katastr slouží podle § 1 odst. 2,
+>
+> - b) obsah souboru popisných informací v rozsahu uvedeném v § 5 odst. 2 písm. b) tak, aby obsahoval údaje nezbytné pro plnění účelů, ke kterým katastr slouží podle § 1 odst. 2,
+>
+> - c) činnost při správě a obnově katastrálního operátu v rozsahu nezbytném pro aktualizaci údajů, které jsou podle [[#§ 4|§ 4]] obsahem katastru,
+>
+> - d) formulář pro podání návrhu na zahájení řízení o povolení vkladu, jehož obsah je vymezen v § 14 odst. 1,
+>
+> - e) postup při ověřování pravosti podpisů na soukromých listinách pro zápis do katastru, nejsou-li podpisy úředně ověřeny,
+>
+> - f) formáty a další technické parametry písemností v elektronické podobě přijímaných k zápisu práv, které jsou postačující pro zachování jejich čitelnosti a dlouhodobé uchovatelnosti,
+>
+> - g) listiny pro zápis do katastru v případech, kdy zákon stanoví, že určitá skutečnost zapisovaná do katastru vzniká, mění se, zaniká nebo se promlčuje, ale nestanoví listinu, na jejímž základě se tato změna zapíše do katastru,
+>
+> - h) zeměměřické činnosti pro účely katastru, vyhotovování geometrických plánů a vytyčování hranic pozemků v rozsahu nezbytném k vedení a správě souboru geodetických informací,
+>
+> - i) označování územních hranic obcí a hranic pozemků trvalým způsobem, aby bylo možné tyto hranice v terénu vyhledat,
+>
+> - j) podmínky pro poskytování a šíření údajů z katastru a formu poskytovaných údajů tak, aby sloužily k plnění účelů stanovených v § 1 odst. 2, a úplaty za ně tak, aby celkový příjem z jejich poskytování nepřesahoval náklady na shromažďování údajů katastru, jejich vytváření, reprodukci a šíření,
+>
+> - k) podmínky poskytování služby sledování změn v katastru zajišťující informování vlastníků a jiných oprávněných o postupu zápisů elektronickými prostředky.
+>
+> (2) Pro stanovení náležitostí podle odstavce 1 písm. a), c), h) a i) lze využít hodnot a postupů stanovených českou technickou normou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 1, § 4, § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aca77855062912d0de72 -->
 
 ### § 67 — Zrušovací ustanovení
 
@@ -738,6 +1231,162 @@ Ostatní položky (2–13, 15–26) jsou převážně **novelizační části** 
 
 **Typicky rozhodné důkazy / podklady:** datum provedení zápisu a podání návrhu, znění § 67 a § 63, konsolidované znění dotčených novel, srovnání staré a nové prováděcí vyhlášky.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a5926646f3be8ac9e0c2 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 67
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem|Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem]].
+>
+> - 2. [[Čl. III|Čl. III]] části čtvrté [[zákona č. 210/1993 Sb., kterým se mění a doplňuje zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění zákona č. 92/1992 Sb., zákona č. 264/1992 Sb., zákona č. 541/1992 Sb. a zákona č. 544/1992 Sb., zákon České národní rady č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění zákona České národní rady č. 285/1991 Sb., zákona České národní rady č. 438/1991 Sb., zákona České národní rady č. 569/1991 Sb. a zákona č. 282/1992 Sb., a mění zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem|zákona č. 210/1993 Sb., kterým se mění a doplňuje zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění zákona č. 92/1992 Sb., zákona č. 264/1992 Sb., zákona č. 541/1992 Sb. a zákona č. 544/1992 Sb., zákon České národní rady č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění zákona České národní rady č. 285/1991 Sb., zákona České národní rady č. 438/1991 Sb., zákona České národní rady č. 569/1991 Sb. a zákona č. 282/1992 Sb., a mění zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem]].
+>
+> - 3. [[Zákon č. 90/1996 Sb., kterým se mění a doplňuje zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb|Zákon č. 90/1996 Sb., kterým se mění a doplňuje zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb.]]
+>
+> - 4. [[Část druhá|Část druhá]] [[zákona č. 27/2000 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o veřejných dražbách|zákona č. 27/2000 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o veřejných dražbách]].
+>
+> - 5. [[Část pátá|Část pátá]] [[zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony|zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 6. [[Část třetí|Část třetí]] [[zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů|zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů]].
+>
+> - 7. [[Část druhá|Část druhá]] [[zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony|zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 8. [[Části třicátá první|Části třicátá první]] a [[třicátá druhá|třicátá druhá]] [[zákona č. 186/2006 Sb., o změně některých zákonů souvisejících s přijetím stavebního zákona a zákona o vyvlastnění|zákona č. 186/2006 Sb., o změně některých zákonů souvisejících s přijetím stavebního zákona a zákona o vyvlastnění]].
+>
+> - 9. [[Část devatenáctá|Část devatenáctá]] [[zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím|zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím]].
+>
+> - 10. [[Část pátá|Část pátá]] [[zákona č. 286/2009 Sb., kterým se mění zákon č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů, zákon č. 119/2001 Sb., kterým se stanoví pravidla pro případy souběžně probíhajících výkonů rozhodnutí, zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, zákon č. 7/2002 Sb., o řízení ve věcech soudců a státních zástupců, ve znění pozdějších předpisů, a zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů|zákona č. 286/2009 Sb., kterým se mění zákon č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů, zákon č. 119/2001 Sb., kterým se stanoví pravidla pro případy souběžně probíhajících výkonů rozhodnutí, zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, zákon č. 7/2002 Sb., o řízení ve věcech soudců a státních zástupců, ve znění pozdějších předpisů, a zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů]].
+>
+> - 11. [[Část první|Část první]] [[zákona č. 349/2011 Sb., kterým se mění zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů|zákona č. 349/2011 Sb., kterým se mění zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů]].
+>
+> - 12. [[Část sedmá|Část sedmá]] [[zákona č. 396/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony|zákona č. 396/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 13. [[Část dvacátá třetí|Část dvacátá třetí]] [[zákona č. 503/2012 Sb., o Státním pozemkovém úřadu a o změně některých souvisejících zákonů|zákona č. 503/2012 Sb., o Státním pozemkovém úřadu a o změně některých souvisejících zákonů]].
+>
+> - 14. [[Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky|Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky]] ([[katastrální zákon|katastrální zákon]]).
+>
+> - 15. [[Čl. I|Čl. I]] [[zákona č. 89/1996 Sb|zákona č. 89/1996 Sb.]], kterým se mění a doplňuje [[zákon České národní rady č. 344/1992 Sb., o katastru nemovitostí České republiky|zákon České národní rady č. 344/1992 Sb., o katastru nemovitostí České republiky]] (katastrální zákon), a občanský zákoník č. [[40/1964 Sb|40/1964 Sb.]], ve znění pozdějších předpisů.
+>
+> - 16. [[Část druhá|Část druhá]] [[zákona č. 103/2000 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů|zákona č. 103/2000 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů]].
+>
+> - 17. [[Části první|Části první]] a [[druhá|druhá]] [[zákona č. 120/2000 Sb|zákona č. 120/2000 Sb.]], kterým se mění [[zákon č. 344/1992 Sb., o katastru nemovitostí České republiky|zákon č. 344/1992 Sb., o katastru nemovitostí České republiky]] (katastrální zákon), ve znění pozdějších předpisů, [[zákon č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech|zákon č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech]], ve znění pozdějších předpisů, a [[zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením|zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením]].
+>
+> - 18. [[Čl. V|Čl. V]] [[zákona č. 220/2000 Sb., o změnách některých zákonů v souvislosti s přijetím zákona o majetku České republiky a jejím vystupování v právních vztazích|zákona č. 220/2000 Sb., o změnách některých zákonů v souvislosti s přijetím zákona o majetku České republiky a jejím vystupování v právních vztazích]].
+>
+> - 19. [[Část pátá|Část pátá]] [[zákona č. 53/2004 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel|zákona č. 53/2004 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel]].
+>
+> - 20. [[Část sedmnáctá|Část sedmnáctá]] [[zákona č. 342/2006 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel a některé další zákony|zákona č. 342/2006 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel a některé další zákony]].
+>
+> - 21. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 269/2007 Sb., kterým se mění zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, a další související zákony|zákona č. 269/2007 Sb., kterým se mění zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 22. [[Zákon č. 8/2009 Sb., kterým se mění zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů|Zákon č. 8/2009 Sb., kterým se mění zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů]].
+>
+> - 23. [[Část třicátá druhá|Část třicátá druhá]] [[zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech|zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech]].
+>
+> - 24. [[Část osmá|Část osmá]] [[zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony|zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 25. [[Nařízení vlády č. 111/2001 Sb., o porovnávání a přejímání údajů katastru nemovitostí České republiky a evidence obyvatel|Nařízení vlády č. 111/2001 Sb., o porovnávání a přejímání údajů katastru nemovitostí České republiky a evidence obyvatel]].
+>
+> - 26. [[Vyhláška č. 162/2001 Sb., o poskytování údajů z katastru nemovitostí České republiky|Vyhláška č. 162/2001 Sb., o poskytování údajů z katastru nemovitostí České republiky]], ve znění [[vyhlášky č. 460/2003 Sb|vyhlášky č. 460/2003 Sb.]], [[vyhlášky č. 345/2004 Sb|vyhlášky č. 345/2004 Sb.]], [[vyhlášky č. 44/2005 Sb|vyhlášky č. 44/2005 Sb.]], [[vyhlášky č. 457/2006 Sb|vyhlášky č. 457/2006 Sb.]], [[vyhlášky č. 50/2008 Sb|vyhlášky č. 50/2008 Sb.]] a [[vyhlášky č. 76/2009 Sb|vyhlášky č. 76/2009 Sb.]]
+>
+> - 27. [[Vyhláška č. 26/2007 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů,|Vyhláška č. 26/2007 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů,]] (katastrální vyhláška), ve znění [[vyhlášky č. 164/2009 Sb|vyhlášky č. 164/2009 Sb.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 265/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 210/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 92/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 92/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 264/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 541/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 544/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 282/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 90/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 27/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 30/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 99/1963 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 120/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 59/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 186/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 296/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 182/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 286/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 119/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 262/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 7/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 283/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 349/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 634/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 396/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 503/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 344/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 89/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 103/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 72/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 586/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 549/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 40/1964 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 357/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 120/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 284/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 200/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 220/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 53/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 342/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 269/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 365/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 8/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 167/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 499/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 111/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 162/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 460/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 345/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 44/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 457/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 50/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 76/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 26/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 164/2009 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a5926646f3be8ac9e0c2 -->
+
 ### § 68 — Účinnost
 
 <details><summary>📜 <b>Text § 68</b></summary>
@@ -790,3 +1439,48 @@ Ostatní položky (2–13, 15–26) jsou převážně **novelizační části** 
 - [ ] Koordinovat výklad s OZ a ZOK (synchronní účinnost).
 
 **Typicky rozhodné důkazy / podklady:** datum uzavření smlouvy a podání návrhu na vklad, znění § 68 a § 63, přechodná ustanovení OZ (§ 3054 a násl.), doklady o vlastnictví stavby a pozemku k 1. 1. 2014.
+
+<!-- LEGAL-REVISION:BEGIN id=5b99a124aa0114919f46 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 68 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2014.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b99a124aa0114919f46 -->

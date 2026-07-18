@@ -149,6 +149,68 @@ Obnova operátu je úkon z úřední povinnosti ve veřejném zájmu; vlastník 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb41127a292f1b42e4cd generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Obnova katastrálního operátu je vyhotovení nového souboru geodetických informací a nového souboru popisných informací v elektronické podobě, které se provede
+>
+> - a) novým mapováním,
+>
+> - b) přepracováním souboru geodetických informací, nebo
+>
+> - c) na podkladě výsledků pozemkových úprav.
+>
+> (2) Katastrální operát se obnovuje zpravidla v rozsahu katastrálního území.
+>
+> (3) Obnovu katastrálního operátu zahájí katastrální úřad bez návrhu. Pokud má být obnova katastrálního operátu provedena podle odstavce 1 písm. a) nebo b), oznámí její zahájení katastrální úřad dotčené obci. Společně s oznámením o zahájení obnovy katastrálního operátu vyzve katastrální úřad veřejnou vyhláškou osoby oprávněné z věcných břemen, jejichž zápis byl do katastru převzat z bývalé pozemkové knihy, zemských desek nebo železniční knihy, které jsou v katastru zapsány s údaji neumožňujícími jejich dostatečnou identifikaci, aby se katastrálnímu úřadu přihlásily. Výzvu zveřejní katastrální úřad na úřední desce do vyložení nového souboru geodetických informací a souboru popisných informací (dále jen „obnovený katastrální operát“), současně požádá o zveřejnění výzvy po stejnou dobu i dotčenou obec.
+>
+> (4) Při obnově katastrálního operátu se do katastrální mapy doplňují parcely pozemků evidovaných dosud zjednodušeným způsobem, pokud to umožňuje kvalita jejich původního zobrazení.
+>
+> (5) Zemřel-li vlastník nemovitosti, která je předmětem obnovy katastrálního operátu, a soud o dědictví pravomocně usnesením ještě nerozhodl, jedná ve věci obnovy katastrálního operátu správce pozůstalosti nebo vykonavatel závěti, a nejsou-li, dědici, kteří dědictví neodmítli. Katastrální úřad je oprávněn požadovat od soudu sdělení o těchto osobách.
+>
+> (6) Nepřihlásí-li se osoba oprávněná z věcného břemene, která byla vyzvána podle odstavce 3, katastrálnímu úřadu do 15 dnů ode dne, kdy skončilo vyložení obnoveného katastrálního operátu, věcné břemeno se do obnoveného operátu nepřevezme.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb41127a292f1b42e4cd -->
+
 ### § 41 — Obnova novým mapováním (podmínky)
 
 <details><summary>📜 <b>Text § 41</b></summary>
@@ -203,6 +265,52 @@ Nové mapování je nejnáročnější způsob obnovy a volí se jen tam, kde do
 **Typicky rozhodné důkazy / podklady:** technické posouzení kvality dosavadního operátu (přesnost, měřítko, výčet změn); dokumentované podklady platného stavu; oznámení o zahájení obnovy; doklad o předstihu oznámení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2dc4a95dbe5e8667e4ef generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> K obnově katastrálního operátu novým mapováním se přistoupí, pokud geometrické a polohové určení nemovitostí v důsledku značného počtu změn, nedostatečné přesnosti nebo použitého měřítka katastrální mapy již nevyhovuje současným požadavkům na vedení katastru, popřípadě dojde-li ke ztrátě, zničení nebo takovému poškození katastrálního operátu, že není možné nebo účelné ho rekonstruovat z dokumentovaných podkladů platného stavu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2dc4a95dbe5e8667e4ef -->
 
 ### § 42 — Zjišťování průběhu hranic (komise, protokol, sporné hranice)
 
@@ -284,6 +392,62 @@ Nové mapování je nejnáročnější způsob obnovy a volí se jen tam, kde do
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=70e058891b0add279f0a generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Zjišťování průběhu hranic pro obnovu katastrálního operátu novým mapováním (dále jen „zjišťování hranic“) se provádí podle skutečného stavu v terénu. Při zjišťování hranic lze ověřovat i další údaje, které jsou obsahem katastru. Zjišťování hranic provádí komise složená ze zaměstnanců katastrálního úřadu a ze zástupců obce a orgánů určených katastrálním úřadem. Předsedou komise je zaměstnanec katastrálního úřadu nebo úředně oprávněný zeměměřický inženýr určený ředitelem katastrálního úřadu. Zjišťování hranic se provádí za účasti vlastníků a jiných oprávněných.
+>
+> (2) Předseda komise je povinen při zjišťování hranic upozornit na nesoulad skutečného průběhu hranic s jejich vyznačením v platném katastrálním operátu všechny přítomné osoby.
+>
+> (3) O výsledcích zjišťování hranic sepíše předseda komise protokol. Vlastníci a jiní oprávnění nebo jejich zástupci svým podpisem v protokolu stvrzují souhlas se zjištěným průběhem a označením hranic v terénu.
+>
+> (4) Pokud dojde k rozporu v tvrzení vlastníků a jiných oprávněných o průběhu hranic pozemků, považují se za platné ty hranice, které jsou obsahem katastrálního operátu. Ve výsledcích zjišťování průběhu hranic a v obnoveném katastrálním operátu se vyznačí jako sporné.
+>
+> (5) Pokud jsou hranice katastrálního území totožné se státními hranicemi, poskytne údaje o jejich průběhu Českému úřadu zeměměřickému a katastrálnímu Ministerstvo vnitra.
+>
+> (6) Nepřítomnost vlastníka a jiného oprávněného při zjišťování hranic není na překážku využití výsledků zjišťování hranic k vyhotovení nových souborů geodetických a popisných informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=70e058891b0add279f0a -->
+
 ### § 43 — Obnova přepracováním souboru geodetických informací
 
 <details><summary>📜 <b>Text § 43</b></summary>
@@ -340,6 +504,52 @@ Přepracování je nejjednodušší obnova — digitalizace dosavadní mapy bez 
 **Typicky rozhodné důkazy / podklady:** dosavadní katastrální mapa; obnovený SGI; údaj o kódu způsobu určení výměry a výpočet mezních odchylek; souřadnice lomových bodů (při jejich užití); doklad o vyložení operátu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=54d6a90883840d50a10d generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Při obnově katastrálního operátu přepracováním se převádí dosavadní katastrální mapa do elektronické podoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54d6a90883840d50a10d -->
 
 ### § 44 — Obnova na podkladě výsledků pozemkových úprav
 
@@ -403,6 +613,52 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o schválení návrhu pozemkových úprav; souřadnice bodů hranic z návrhu; spis z řízení o pozemkových úpravách (účast, námitky, opravné prostředky); podklad pro určení dne platnosti operátu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e6ff953636df4764d02e generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> Při obnově katastrálního operátu se využijí výsledky komplexních pozemkových úprav. Za geometrické a polohové určení nemovitosti se v takovém případě považuje určení tvaru, rozměru a polohy nemovitosti souřadnicemi bodů jejích hranic podle schváleného návrhu pozemkových úprav. Výsledky jednoduché pozemkové úpravy katastrální úřad pro obnovu katastrálního operátu využije, je-li jednoduchou pozemkovou úpravou dotčena souvislá část katastrálního území a považuje-li to s ohledem na účelnou správu katastru za vhodné. V územích, kde je katastrální operát obnoven na podkladě výsledků pozemkových úprav, se nepoužije ustanovení [[#§ 45|§ 45]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6ff953636df4764d02e -->
 
 ### § 45 — Vyložení obnoveného operátu k veřejnému nahlédnutí, námitky
 
@@ -478,6 +734,56 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=703ede91a7a922ba163a generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Katastrální úřad vyloží na dobu nejméně 10 pracovních dnů obnovený katastrální operát v obci, ve které se obnovuje katastrální operát, k veřejnému nahlédnutí.
+>
+> (2) Obec na úřední desce, popřípadě též způsobem v místě obvyklým, oznámí termín a dobu vyložení obnoveného katastrálního operátu nejméně 30 dnů před jeho vyložením. Současně oznámí, že obnovený katastrální operát nabude platnosti dnem, který určí katastrální úřad, a že věcná břemena, jejichž zápis byl do katastru převzat z bývalé pozemkové knihy, zemských desek nebo železniční knihy, která jsou zapsána ve prospěch osob s údaji neumožňujícími jejich dostatečnou identifikaci, se do obnoveného katastrálního operátu nepřevezmou, pokud se osoba oprávněná z takového věcného břemene nepřihlásí katastrálnímu úřadu do 15 dnů ode dne, kdy skončilo vyložení obnoveného katastrálního operátu. Vlastníkům a jiným oprávněným, kteří nemají v obci trvalý pobyt nebo sídlo, zašle katastrální úřad oznámení o těchto skutečnostech nejméně 30 dnů před vyložením obnoveného katastrálního operátu.
+>
+> (3) Vlastníci a jiní oprávnění mohou během vyložení obnoveného katastrálního operátu a ve lhůtě 15 dnů ode dne, kdy skončilo jeho vyložení, podat námitky proti obsahu obnoveného katastrálního operátu. O podaných námitkách rozhoduje katastrální úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=703ede91a7a922ba163a -->
+
 ### § 46 — Vyhlášení platnosti obnoveného operátu
 
 <details><summary>📜 <b>Text § 46</b></summary>
@@ -510,6 +816,58 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
   > „Nadto nutno přisvědčit stěžovateli, že obnova katastrálního operátu má účinky teprve ode dne vyhlášení jeho platnosti (§ 46 odst. 2 zákona č. 256/2013 Sb., katastrální zákon, ve znění pozdějších předpisů)"
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a2c508a1c871c27656cd generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 46
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Katastrální úřad vyhlásí platnost obnoveného katastrálního operátu, pokud ve stanovené lhůtě nebyly proti obsahu obnoveného operátu podány námitky, nebo bylo o námitkách pravomocně rozhodnuto. Jestliže o některých námitkách nebylo dosud pravomocně rozhodnuto, může katastrální úřad vyhlásit platnost obnoveného katastrálního operátu pouze za předpokladu, že tuto okolnost vyznačí v katastru. Po nabytí právní moci rozhodnutí o námitkách katastrální úřad toto vyznačení odstraní.
+>
+> (2) Dnem vyhlášení platnosti obnoveného katastrálního operátu se dosavadní katastrální operát stává neplatným a nadále se používá obnovený katastrální operát.
+>
+> (3) Pokud platnost obnoveného katastrálního operátu nastane dnem určeným jiným právním předpisem, katastrální úřad vyhlásí platnost obnoveného katastrálního operátu s uvedením dne jeho platnosti ihned, jakmile se o platnosti dozví.
+>
+> (4) Vyhlášení platnosti obnoveného katastrálního operátu katastrální úřad a obec zveřejní na úřední desce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2c508a1c871c27656cd -->
 
 ## Zeměměřické činnosti a geometrické plány
 
@@ -610,6 +968,54 @@ Obnova na podkladě pozemkových úprav přebírá souřadnicové určení ze sc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=21ae24c4696ba1e63a96 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 47
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Zeměměřické činnosti pro účely katastru slouží k vytváření měřických podkladů pro provádění změn v souboru geodetických informací platného katastrálního operátu, obnovu souboru geodetických informací a vytyčování hranic pozemků. Jejich výsledky musí být uvedeny v závazném souřadnicovém systému Jednotné trigonometrické sítě katastrální.
+>
+> (2) Geometrickým základem zeměměřických činností jsou body polohového bodového pole.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21ae24c4696ba1e63a96 -->
+
 ### § 48 — Geometrický plán jako neoddělitelná součást listiny
 
 <details><summary>📜 <b>Text § 48</b></summary>
@@ -679,6 +1085,54 @@ GP je povinnou, neoddělitelnou součástí listiny tam, kde je třeba zobrazit 
 **Typicky rozhodné důkazy / podklady:** listina pro zápis (smlouva / prohlášení / rozsudek); geometrický plán s doložkou ověření a souhlasem KÚ s očíslováním parcel; souhlasné prohlášení vlastníků (u zpřesnění hranice); doklad o formě a způsobu předání GP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7bf02bc37408156ef54 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Geometrický plán je neoddělitelnou součástí listiny, podle které má být proveden zápis do katastru, je-li třeba předmět zápisu zobrazit do katastrální mapy, má-li být zpřesněno jeho geometrické a polohové určení nebo byl-li průběh hranice určen soudem.
+>
+> (2) Geometrický plán musí být ověřen, že svými náležitostmi a přesností odpovídá platným právním předpisům, a opatřen souhlasem katastrálního úřadu s očíslováním parcel.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7bf02bc37408156ef54 -->
 
 ### § 49 — Vytyčování hranic pozemků
 
@@ -757,6 +1211,58 @@ Vytyčení je „přenesení" evidované hranice z mapy do terénu; jeho přesno
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=77deebb49631f4dc99a2 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Vytyčování hranic pozemků je zeměměřickou činností, při které se v terénu vyznačí poloha lomových bodů hranic pozemků podle údajů katastru o jejich geometrickém a polohovém určení.
+>
+> (2) Přesnost vytyčení je dána přesností dosavadních údajů katastru o geometrickém a polohovém určení pozemků.
+>
+> (3) K seznámení s výsledky vytyčení musí být prokazatelně přizváni vlastníci dotčených pozemků.
+>
+> (4) Na průběh vytyčené nebo vlastníky zpřesněné hranice pozemků se vyhotoví geometrický plán, pokud má být podle nich do katastru zapsáno zpřesněné geometrické a polohové určení pozemku a jemu odpovídající zpřesněná výměra parcely.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77deebb49631f4dc99a2 -->
+
 ### § 50 — Změna údajů o geometrickém a polohovém určení (zpřesnění nemění práva)
 
 <details><summary>📜 <b>Text § 50</b></summary>
@@ -830,6 +1336,60 @@ Vytyčení je „přenesení" evidované hranice z mapy do terénu; jeho přesno
 **Typicky rozhodné důkazy / podklady:** geometrický plán; souhlasné prohlášení vlastníků o shodě na hranici (úředně ověřené podpisy) nebo rozhodnutí soudu o určení hranice; žádost vlastníka o zápis; údaje o výměrách před a po zpřesnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8769cc0468b63c85609d generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
+#### Revizní doplnění k § 50 — Změna údajů o geometrickém a polohovém určení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
+
+##### Znění ustanovení
+
+> (1) Změna údajů o geometrickém a polohovém určení pozemku na podkladě vytyčení nebo zpřesnění hranice pozemků, upřesnění nebo rekonstrukce přídělů, nebo určení hranice pozemků se zapisuje na podkladě žádosti vlastníka nebo jiného oprávněného, jejíž přílohou je
+>
+> - a) listina dokládající shodu vlastníků na průběhu hranice pozemků, nebo
+>
+> - b) rozhodnutí soudu o určení hranice pozemků.
+>
+> (2) Zpřesněním evidenčních údajů katastru o geometrickém a polohovém určení pozemku nedochází ke změně práv k pozemku.
+>
+> (3) Pro zápis změny údajů podle odstavce 1 se použijí přiměřeně ustanovení o zápisu záznamem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8769cc0468b63c85609d -->
 
 ## Shrnutí kapitoly
 
