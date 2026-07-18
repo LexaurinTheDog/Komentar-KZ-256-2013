@@ -112,52 +112,6 @@ V právních jednáních o nemovitostech vždy identifikujte předmět závazný
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4b9002549fbb92af82a7 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 51 — Závaznost údajů katastru
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> Údaje katastru, a to parcelní číslo, geometrické určení nemovitosti, název a geometrické určení katastrálního území, jsou závazné pro právní jednání týkající se nemovitostí vedených v katastru.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4b9002549fbb92af82a7 -->
-
 ## Veřejnost katastru
 
 ### § 52 — Veřejnost katastru
@@ -270,68 +224,6 @@ Rozlišujte tři režimy: (1) volně nahlížitelné údaje o konkrétní nemovi
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f525a49a424ee5add969 generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 52
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> (1) Každý má právo do katastru nahlížet, pořizovat si z něj pro svou potřebu opisy, výpisy nebo náčrty a získávat z něj údaje ze sbírky listin, pokud není stanoveno jinak.
->
-> (2) Získávat údaje z katastru formou nahlížení nelze z přehledu vlastnictví z území České republiky, ze sbírky listin a o dosažených cenách nemovitostí.
->
-> (3) Není-li přehled vlastnictví z území České republiky nebo údaj o dosažených cenách nemovitostí poskytnut způsobem umožňujícím dálkový přístup, lze jej poskytnout pouze osobě, která prokáže svoji totožnost.
->
-> (4) Poskytování údajů ze sbírky listin katastru či pozemkové knihy se provádí poskytováním ověřených nebo prostých
->
-> - a) kopií písemností v listinné podobě,
->
-> - b) výstupů vzniklých převedením písemností v listinné podobě do elektronické podoby nebo převedením písemností v elektronické podobě do listinné podoby, pokud tyto písemnosti byly v době doručení katastrálnímu úřadu podepsány způsobem, se kterým jiný právní předpis spojuje při právním jednání vůči státu v souvislosti s výkonem jeho působnosti účinky vlastnoručního podpisu, zapečetěny uznávanou elektronickou pečetí nebo označeny elektronickou značkou,
->
-> - c) duplikátů písemností v elektronické podobě, pokud tyto písemnosti byly v době doručení katastrálnímu úřadu podepsány způsobem, se kterým jiný právní předpis spojuje při právním jednání vůči státu v souvislosti s výkonem jeho působnosti účinky vlastnoručního podpisu, zapečetěny uznávanou elektronickou pečetí nebo označeny elektronickou značkou.
->
-> Tyto údaje lze poskytnout pouze osobě, která prokáže svoji totožnost. Při ověřování neodpovídá katastrální úřad za obsah listiny. Katastrální úřad neověří listinu, jejíž originál nebo kopie jsou nečitelné.
->
-> (5) Katastrální úřad vede evidenci osob, kterým poskytl údaje podle odstavců 3 a [[#§ 4|4.]]
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 4
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f525a49a424ee5add969 -->
-
 ### § 53 — Účelové omezení užití a šíření údajů
 
 <details><summary>📜 <b>Text § 53</b></summary>
@@ -393,52 +285,6 @@ Před jakýmkoli dalším poskytováním katastrálních dat třetím osobám ov
 **Typicky rozhodné důkazy / podklady:** doklad o souhlasu ČÚZK dle § 11a vyhlášky, logy dálkového přístupu, vzorky/obsah poskytovaných databází, smlouvy s odběrateli, popis účelu zpracování.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e40af07c23bad537930c generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 53
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> Údaje katastru lze užít jen k účelům uvedeným v § 1 odst. 2. Šířit údaje katastru lze pouze se souhlasem Českého úřadu zeměměřického a katastrálního za podmínek stanovených prováděcím právním předpisem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 1
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e40af07c23bad537930c -->
 
 ### § 54 — Postavení ČÚZK a katastrálních úřadů z hlediska osobních údajů
 
@@ -504,54 +350,6 @@ Práva subjektu údajů (oprava, omezení, námitka, oznámení incidentu) uplat
 **Typicky rozhodné důkazy / podklady:** žádost subjektu údajů, výpis z LV s chybným údajem, doklady o totožnosti a oprávnění, korespondence s ČÚZK/úřadem, případné rozhodnutí o opravě chyby dle § 36 KZ.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=db174db7e35b4cf6c5ca generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 54
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> (1) Český úřad zeměměřický a katastrální má postavení správce osobních údajů evidovaných v katastru.
->
-> (2) Katastrální úřady mají postavení zpracovatelů osobních údajů evidovaných v katastru.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=db174db7e35b4cf6c5ca -->
 
 ## Poskytování údajů z katastru
 
@@ -661,64 +459,6 @@ Výpis/opis/kopii ve formě dle § 6 vyhlášky používejte jako veřejnou list
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=467e76b74d610228eebc generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 55
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> (1) Katastrální úřad na požádání vyhotoví z katastrálního operátu výpis, opis nebo kopii, jakož i identifikaci parcel.
->
-> (2) Výpisy, opisy nebo kopie z katastrálního operátu, jakož i identifikace parcel vyhotovené katastrálním úřadem ve formě stanovené prováděcím právním předpisem jsou veřejnými listinami prokazujícími stav evidovaný v katastru k okamžiku, který je na nich uveden. Pokud jsou poskytované údaje katastru vedeny v elektronické podobě, poskytuje je kterýkoli katastrální úřad z celého území České republiky.
->
-> (3) K údajům katastru vedeným v elektronické podobě může každý získat dálkový přístup pomocí počítačové sítě za úplatu a za podmínek stanovených prováděcím právním předpisem.
->
-> (4) Údaje katastru se poskytují i v jiné formě stanovené prováděcím právním předpisem. Pokud právní předpis stanoví povinnost katastrálních úřadů předávat tyto údaje jiným orgánům veřejné moci, děje se tak bezúplatně.
->
-> (5) Údaje katastru ve formě podle odstavců 3 a [[#§ 4|4]] se poskytují územním samosprávným celkům k výkonu jejich působnosti bezúplatně. Údaje katastru ve formě podle odstavce 3 se k výkonu jejich působnosti poskytují bezúplatně i organizačním složkám státu.
->
-> (6) Na základě údajů katastru se poskytuje služba sledování změn v katastru zajišťující informování vlastníků a jiných oprávněných o postupu zápisů elektronickými prostředky.
->
-> (7) Z údajů katastru se vytváří souhrnné přehledy o půdním fondu, které Český úřad zeměměřický a katastrální zveřejňuje způsobem umožňujícím dálkový přístup.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 4
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=467e76b74d610228eebc -->
-
 ### § 56 — Ověřené výstupy z informačního systému veřejné správy
 
 <details><summary>📜 <b>Text § 56</b></summary>
@@ -773,52 +513,6 @@ Ověřený výstup z katastru vydaný na Czech POINT je veřejnou listinou rovno
 **Typicky rozhodné důkazy / podklady:** ověřený výstup z ISVS s ověřovací doložkou a časovým údajem, doklad totožnosti žadatele, doklad o vydávajícím kontaktním místě, případně právní úprava dle zákona č. 365/2000 Sb.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=068ac9157e4ea57564fe generator=2026-07-17.4 source_sha256=3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055 -->
-#### Revizní doplnění k § 56
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/256-2013 Zákon o katastru nemovitostí (katastrální zákon).md`; identifikátor verze: `SB-2013-00256_2025-10-01`; SHA-256: `3ff99fbcd5c244fec22f8bab266814e63199dbe22387c6bbe4e1b7e749f26055`.
-
-##### Znění ustanovení
-
-> Z katastru se vydávají ověřené výstupy z informačního systému veřejné správy podle jiného právního předpisu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=068ac9157e4ea57564fe -->
 
 ## Shrnutí Části třetí
 
